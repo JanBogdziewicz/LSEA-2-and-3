@@ -1,0 +1,2000 @@
+396000,1,3,2,0,1,2,Kaldheim,creature,elf,White,Black,Green,,,COMMON
+396001,0,3,3,1,0,3,Innistrad,creature,dragon,White,,,,,MYTHIC RARE
+396002,1,3,1,0,2,0,Kaldheim,equipment,Ring,Red,White,,,,COMMON
+396003,3,2,2,2,2,0,Ravnica,equipment,Ring,White,,,,,COMMON
+396004,2,1,3,3,3,2,Ravnica,equipment,Talisman,White,Green,Blue,,,UNCOMMON
+396005,2,0,3,1,2,0,Innistrad,equipment,Bottle,Red,White,Blue,,,RARE
+396006,2,1,1,1,0,3,Kaldheim,creature,human,Red,,,,,MYTHIC RARE
+396007,3,0,2,1,3,3,Kamigawa,creature,elf,White,Blue,Red,,,COMMON
+396008,2,3,1,0,1,2,Innistrad,equipment,Talisman,White,Black,Blue,Red,,MYTHIC RARE
+396009,1,2,3,1,1,1,Kamigawa,equipment,Talisman,Blue,Red,,,,RARE
+396010,0,2,0,0,2,0,DnD,equipment,Talisman,Blue,Green,Red,,,MYTHIC RARE
+396011,0,0,0,3,2,2,Kaldheim,creature,dragon,Red,,,,,UNCOMMON
+396012,2,2,1,2,2,1,Ravnica,equipment,Talisman,White,Green,,,,RARE
+396013,2,2,3,1,2,0,Kaldheim,creature,zombie,Blue,,,,,UNCOMMON
+396014,0,0,1,1,1,3,Kaldheim,creature,dwarf,Red,White,Blue,,,MYTHIC RARE
+396015,2,1,0,2,0,1,Innistrad,creature,zombie,White,,,,,MYTHIC RARE
+396016,0,0,2,3,1,3,Innistrad,creature,zombie,Blue,Green,,,,MYTHIC RARE
+396017,0,2,2,0,0,1,Kamigawa,equipment,Sword,Black,,,,,UNCOMMON
+396018,1,3,2,2,0,1,DnD,creature,dwarf,Blue,,,,,RARE
+396019,0,1,3,3,0,0,Kamigawa,creature,human,Red,Black,,,,UNCOMMON
+396020,2,3,2,2,0,3,Strixhaven,equipment,Boots,Black,Blue,,,,RARE
+396021,1,0,2,0,0,3,Kaldheim,creature,elf,Black,Red,Green,,,COMMON
+396022,3,0,0,1,0,1,DnD,creature,elf,Green,White,Red,,,RARE
+396023,2,0,3,2,0,0,Strixhaven,creature,zombie,Black,,,,,UNCOMMON
+396024,2,2,0,0,2,3,DnD,equipment,Ring,Red,,,,,UNCOMMON
+396025,2,0,3,2,0,2,Innistrad,equipment,Sword,White,Red,Green,,,COMMON
+396026,3,1,3,0,1,2,Innistrad,creature,zombie,Blue,,,,,RARE
+396027,2,0,0,2,2,3,DnD,creature,human,Green,,,,,UNCOMMON
+396028,2,1,0,3,1,2,Strixhaven,creature,dwarf,Black,Blue,Red,,,COMMON
+396029,1,3,3,0,1,0,DnD,equipment,Bottle,Black,Blue,,,,UNCOMMON
+396030,3,0,3,1,1,1,Innistrad,creature,dwarf,Blue,Black,Red,,,MYTHIC RARE
+396031,2,0,1,1,2,3,Innistrad,creature,dwarf,Green,,,,,MYTHIC RARE
+396032,3,0,1,3,1,3,Kaldheim,creature,zombie,Black,Blue,Red,White,,UNCOMMON
+396033,1,3,1,1,1,0,Ravnica,equipment,Sword,Black,,,,,RARE
+396034,2,0,1,2,1,3,Kamigawa,creature,boar,Red,White,,,,COMMON
+396035,2,1,2,0,3,3,Innistrad,creature,human,White,Green,,,,UNCOMMON
+396036,0,3,1,1,3,0,Innistrad,equipment,Sword,Black,Blue,,,,COMMON
+396037,0,2,0,3,0,0,Innistrad,creature,zombie,Blue,Green,,,,RARE
+396038,0,1,1,1,1,2,Kamigawa,equipment,Talisman,Blue,,,,,RARE
+396039,3,1,0,2,1,3,Innistrad,equipment,Boots,Green,,,,,RARE
+396040,3,2,0,0,3,3,Ravnica,equipment,Bottle,Blue,,,,,RARE
+396041,2,0,0,0,2,3,DnD,creature,human,Black,White,Green,,,MYTHIC RARE
+396042,0,3,3,1,2,1,Strixhaven,creature,human,Red,Green,,,,MYTHIC RARE
+396043,2,1,1,3,3,3,Ravnica,equipment,Bottle,Red,Black,White,Green,,RARE
+396044,2,1,3,1,1,3,Kamigawa,creature,human,Green,,,,,RARE
+396045,2,2,1,1,1,0,Kamigawa,creature,human,White,Black,Green,Blue,,COMMON
+396046,1,2,3,2,1,2,DnD,equipment,Ring,White,Green,,,,RARE
+396047,3,0,3,2,3,0,Strixhaven,equipment,Boots,Red,White,Black,,,COMMON
+396048,1,0,3,0,2,0,Strixhaven,creature,elf,Red,Blue,Black,White,,COMMON
+396049,3,1,3,3,3,1,Strixhaven,equipment,Ring,Green,,,,,RARE
+396050,2,0,0,2,1,1,Ravnica,equipment,Talisman,Red,Blue,,,,COMMON
+396051,3,1,2,0,1,3,Strixhaven,creature,human,White,Black,,,,COMMON
+396052,0,1,3,1,2,1,Kaldheim,equipment,Sword,Red,Black,,,,RARE
+396053,0,0,0,0,3,1,Ravnica,creature,dwarf,Blue,Black,,,,MYTHIC RARE
+396054,3,2,2,3,3,2,Kaldheim,creature,elf,Green,Blue,,,,MYTHIC RARE
+396055,1,2,1,1,0,3,Strixhaven,creature,human,Black,Red,,,,MYTHIC RARE
+396056,1,2,2,1,1,2,Ravnica,equipment,Sword,White,Red,Black,Blue,,UNCOMMON
+396057,0,2,1,1,2,3,Strixhaven,creature,elf,Green,Blue,Red,,,RARE
+396058,1,1,3,1,1,2,Ravnica,creature,zombie,Green,Red,Black,Blue,,RARE
+396059,3,1,3,3,1,2,Kamigawa,equipment,Boots,Blue,White,,,,RARE
+396060,3,3,0,2,3,3,Kaldheim,equipment,Bottle,Black,Blue,Red,White,,COMMON
+396061,3,1,0,3,1,0,Innistrad,creature,zombie,Black,Red,Blue,,,MYTHIC RARE
+396062,0,1,1,0,0,2,Innistrad,creature,elf,Green,Blue,,,,MYTHIC RARE
+396063,0,0,0,1,2,2,Strixhaven,equipment,Bottle,Blue,White,Black,,,MYTHIC RARE
+396064,0,3,1,0,1,3,Strixhaven,equipment,Sword,Blue,White,Green,Red,,COMMON
+396065,2,3,0,2,2,2,Strixhaven,equipment,Sword,Black,Red,Blue,,,UNCOMMON
+396066,3,3,3,1,1,3,DnD,equipment,Bottle,Red,Green,Black,,,RARE
+396067,1,2,1,3,1,0,Kamigawa,creature,zombie,White,Red,,,,RARE
+396068,1,3,3,1,1,3,Kamigawa,creature,human,Blue,White,,,,UNCOMMON
+396069,3,0,3,1,1,3,Kamigawa,creature,dwarf,Red,Blue,,,,UNCOMMON
+396070,0,0,1,2,3,1,DnD,equipment,Boots,Black,,,,,COMMON
+396071,2,0,0,3,0,2,Strixhaven,equipment,Boots,White,Blue,,,,RARE
+396072,2,0,3,3,0,1,Kaldheim,creature,elf,Black,,,,,MYTHIC RARE
+396073,3,3,0,0,3,1,Ravnica,equipment,Ring,Red,White,,,,RARE
+396074,0,1,3,1,2,1,DnD,creature,elf,Black,Blue,,,,COMMON
+396075,3,1,2,2,3,2,Strixhaven,equipment,Boots,White,Black,,,,RARE
+396076,3,0,2,0,1,2,Strixhaven,creature,boar,Black,White,,,,COMMON
+396077,3,0,2,3,3,3,DnD,equipment,Sword,Black,,,,,MYTHIC RARE
+396078,3,1,3,2,3,0,Strixhaven,equipment,Boots,White,Blue,,,,UNCOMMON
+396079,1,3,0,1,3,2,DnD,equipment,Ring,Black,White,,,,RARE
+396080,0,3,2,0,3,1,Strixhaven,creature,human,Red,,,,,UNCOMMON
+396081,1,0,1,1,3,3,Kamigawa,equipment,Bottle,Red,,,,,UNCOMMON
+396082,1,1,0,2,1,3,Strixhaven,equipment,Bottle,White,Green,Blue,,,UNCOMMON
+396083,0,0,1,1,0,2,Kaldheim,equipment,Talisman,Red,,,,,RARE
+396084,1,2,2,1,1,0,Strixhaven,creature,boar,Blue,,,,,COMMON
+396085,2,2,3,1,2,0,DnD,creature,dwarf,Black,Blue,White,,,COMMON
+396086,3,0,3,0,3,0,Innistrad,equipment,Boots,Green,Red,Black,,,UNCOMMON
+396087,2,1,3,2,0,1,Kaldheim,creature,human,Green,White,Blue,,,RARE
+396088,2,1,3,2,2,0,Kamigawa,creature,boar,Green,White,Red,,,RARE
+396089,0,1,0,3,3,1,Kamigawa,creature,dragon,Black,Red,White,,,MYTHIC RARE
+396090,0,1,0,3,0,3,Kamigawa,creature,dragon,Black,White,Blue,,,MYTHIC RARE
+396091,3,2,0,2,2,3,Kamigawa,creature,dwarf,Green,Black,White,,,COMMON
+396092,3,2,2,2,3,2,Kaldheim,equipment,Talisman,Red,,,,,COMMON
+396093,3,2,0,2,3,3,Kamigawa,creature,boar,Green,White,,,,UNCOMMON
+396094,0,1,3,0,1,1,Kamigawa,equipment,Bottle,Blue,Red,Black,White,,COMMON
+396095,0,0,3,0,0,0,Kamigawa,creature,elf,Green,,,,,UNCOMMON
+396096,3,1,1,1,3,1,Kamigawa,equipment,Sword,Black,Green,Blue,,,RARE
+396097,2,0,0,3,0,1,Kamigawa,creature,dragon,Green,Blue,Black,,,MYTHIC RARE
+396098,3,0,3,1,2,0,Innistrad,creature,boar,Red,White,,,,COMMON
+396099,2,2,3,2,1,3,DnD,creature,boar,White,,,,,COMMON
+396100,3,0,0,3,1,3,Ravnica,creature,dwarf,Red,,,,,RARE
+396101,3,2,3,0,3,2,Ravnica,creature,dragon,Red,,,,,MYTHIC RARE
+396102,1,0,1,2,0,0,Kaldheim,creature,elf,Red,White,,,,UNCOMMON
+396103,0,0,1,2,1,3,Kamigawa,creature,human,Blue,White,,,,MYTHIC RARE
+396104,3,3,2,3,2,2,Kaldheim,creature,elf,Green,Blue,White,Red,,COMMON
+396105,2,1,0,3,2,1,Strixhaven,equipment,Talisman,White,Blue,Black,,,UNCOMMON
+396106,1,1,2,3,0,1,Innistrad,creature,dragon,Blue,Green,,,,RARE
+396107,1,3,1,3,2,0,DnD,creature,dragon,Blue,White,Red,,,RARE
+396108,3,1,3,3,0,0,Kamigawa,creature,elf,Green,Blue,,,,MYTHIC RARE
+396109,1,1,2,3,1,0,Innistrad,equipment,Bottle,White,,,,,RARE
+396110,1,1,0,1,2,3,DnD,creature,dragon,White,Black,Green,Red,,RARE
+396111,0,0,3,1,3,0,Strixhaven,equipment,Boots,Green,,,,,COMMON
+396112,1,2,2,2,0,1,Innistrad,creature,elf,Red,White,Black,,,COMMON
+396113,0,0,1,1,1,1,Strixhaven,equipment,Ring,Black,,,,,UNCOMMON
+396114,3,2,0,2,3,0,Kaldheim,creature,human,Green,Black,White,Blue,,COMMON
+396115,1,0,0,1,3,0,Kamigawa,equipment,Bottle,Red,Blue,,,,RARE
+396116,2,2,2,0,2,1,Ravnica,equipment,Ring,Green,Red,Black,,,COMMON
+396117,2,0,0,0,1,1,Innistrad,equipment,Sword,Red,Blue,,,,MYTHIC RARE
+396118,0,1,3,0,2,2,Strixhaven,equipment,Talisman,Red,Green,Black,,,MYTHIC RARE
+396119,0,1,2,1,0,2,Innistrad,equipment,Talisman,White,Green,Red,Blue,,UNCOMMON
+396120,3,2,1,0,2,2,DnD,creature,elf,Green,,,,,UNCOMMON
+396121,3,2,2,2,3,1,Ravnica,creature,boar,Black,,,,,UNCOMMON
+396122,1,1,3,2,3,1,Kaldheim,equipment,Bottle,White,Blue,Green,,,UNCOMMON
+396123,3,0,0,1,2,2,Ravnica,equipment,Sword,Green,Red,,,,MYTHIC RARE
+396124,2,2,3,1,2,2,Kamigawa,equipment,Ring,Green,,,,,COMMON
+396125,2,1,2,2,3,3,DnD,creature,elf,White,Black,Blue,,,RARE
+396126,0,2,1,0,3,2,Ravnica,creature,boar,Blue,,,,,MYTHIC RARE
+396127,1,1,0,3,1,0,Kaldheim,equipment,Boots,White,Black,,,,COMMON
+396128,2,1,0,1,3,3,Kaldheim,creature,human,Green,Black,White,Red,,MYTHIC RARE
+396129,0,1,2,2,1,2,DnD,equipment,Ring,Red,Blue,,,,COMMON
+396130,2,3,0,2,1,0,Ravnica,equipment,Sword,White,,,,,RARE
+396131,1,2,3,2,1,1,Strixhaven,creature,zombie,Green,,,,,MYTHIC RARE
+396132,1,1,0,0,1,1,Kaldheim,creature,dragon,Blue,Green,Red,,,RARE
+396133,1,3,1,1,2,2,DnD,equipment,Bottle,White,Green,,,,MYTHIC RARE
+396134,2,0,0,2,1,0,Innistrad,creature,dwarf,Blue,,,,,RARE
+396135,1,1,0,1,2,1,Ravnica,equipment,Talisman,White,,,,,RARE
+396136,2,0,3,1,0,1,Ravnica,equipment,Sword,White,,,,,COMMON
+396137,1,0,2,0,2,2,Kaldheim,creature,human,Black,Red,,,,MYTHIC RARE
+396138,2,0,1,3,1,2,DnD,creature,human,Blue,Green,Black,,,UNCOMMON
+396139,3,3,1,0,1,2,Kaldheim,equipment,Bottle,Green,,,,,RARE
+396140,1,3,2,2,3,3,Kaldheim,equipment,Talisman,Green,Blue,,,,RARE
+396141,1,3,1,3,1,0,Kaldheim,creature,dragon,Black,White,,,,MYTHIC RARE
+396142,3,2,1,0,3,3,Ravnica,creature,human,Black,White,Green,,,MYTHIC RARE
+396143,1,3,1,1,1,0,Kaldheim,creature,boar,Red,,,,,UNCOMMON
+396144,2,3,1,0,1,3,Kaldheim,creature,dragon,Green,Black,,,,COMMON
+396145,0,2,3,1,2,3,Strixhaven,equipment,Sword,Black,White,Green,,,UNCOMMON
+396146,0,3,0,3,3,2,Kaldheim,creature,elf,Red,Green,Black,,,RARE
+396147,3,1,2,2,1,1,Kaldheim,equipment,Bottle,Red,White,,,,MYTHIC RARE
+396148,1,3,2,0,0,3,Strixhaven,equipment,Bottle,White,Black,,,,COMMON
+396149,0,0,0,1,3,2,Ravnica,creature,human,Blue,,,,,UNCOMMON
+396150,0,2,3,2,0,3,Ravnica,creature,elf,White,Blue,,,,RARE
+396151,0,2,3,0,1,2,Ravnica,equipment,Bottle,Green,,,,,COMMON
+396152,2,2,2,2,0,0,Kaldheim,equipment,Ring,Blue,White,Green,,,MYTHIC RARE
+396153,2,3,1,1,2,2,Kamigawa,equipment,Sword,Black,,,,,COMMON
+396154,3,1,0,3,1,0,DnD,equipment,Sword,Black,Red,White,,,UNCOMMON
+396155,1,1,0,2,2,2,DnD,equipment,Boots,White,Green,Blue,Black,,RARE
+396156,2,3,2,2,1,3,DnD,creature,zombie,Blue,Red,White,Black,,MYTHIC RARE
+396157,1,2,3,3,0,0,DnD,equipment,Boots,Black,,,,,UNCOMMON
+396158,2,2,2,0,1,2,Strixhaven,creature,dwarf,Black,Green,Red,,,MYTHIC RARE
+396159,2,0,0,1,1,2,Kaldheim,creature,elf,Blue,Red,Black,,,MYTHIC RARE
+396160,2,1,2,2,2,1,Strixhaven,creature,zombie,Green,Blue,,,,RARE
+396161,3,0,1,0,0,0,Ravnica,equipment,Ring,Black,,,,,MYTHIC RARE
+396162,2,3,1,1,3,2,Innistrad,equipment,Ring,Blue,White,,,,COMMON
+396163,3,0,1,1,0,0,Strixhaven,creature,elf,White,Red,Black,,,RARE
+396164,2,0,0,3,3,1,Kaldheim,equipment,Talisman,Blue,Red,,,,RARE
+396165,3,3,0,2,2,1,Ravnica,equipment,Bottle,White,,,,,MYTHIC RARE
+396166,1,3,2,3,1,2,Kaldheim,equipment,Boots,Green,,,,,MYTHIC RARE
+396167,0,1,0,2,0,1,Strixhaven,creature,zombie,White,,,,,RARE
+396168,1,1,0,2,2,3,Kaldheim,equipment,Ring,Blue,,,,,RARE
+396169,3,3,3,1,3,0,Kaldheim,creature,boar,White,Green,,,,COMMON
+396170,0,2,2,2,1,1,Ravnica,equipment,Bottle,White,Green,,,,RARE
+396171,3,0,2,1,1,3,Kamigawa,equipment,Sword,Red,Blue,Black,,,RARE
+396172,2,2,2,2,3,2,Ravnica,creature,elf,Black,Blue,,,,RARE
+396173,2,3,3,2,2,2,Strixhaven,equipment,Ring,White,Black,,,,COMMON
+396174,2,1,1,0,2,0,DnD,creature,human,Green,,,,,COMMON
+396175,1,3,0,3,2,0,Kamigawa,creature,elf,Blue,Green,,,,UNCOMMON
+396176,2,3,0,1,2,3,Kamigawa,creature,boar,White,Black,,,,COMMON
+396177,3,0,0,2,0,1,DnD,equipment,Bottle,Green,Red,Black,,,UNCOMMON
+396178,2,2,3,2,0,3,Ravnica,equipment,Sword,Blue,Red,Black,,,MYTHIC RARE
+396179,0,3,0,2,0,2,DnD,equipment,Ring,White,Blue,Green,Red,,MYTHIC RARE
+396180,1,1,0,3,3,1,Kaldheim,equipment,Bottle,Black,Red,Blue,,,MYTHIC RARE
+396181,3,0,1,2,2,3,DnD,creature,zombie,Blue,,,,,UNCOMMON
+396182,1,0,2,2,2,2,Kamigawa,equipment,Bottle,Blue,Black,Red,,,MYTHIC RARE
+396183,3,2,3,3,3,3,Innistrad,equipment,Boots,Red,White,,,,UNCOMMON
+396184,2,0,0,3,0,1,Kamigawa,creature,zombie,Green,Black,White,,,UNCOMMON
+396185,3,0,2,3,3,0,Innistrad,creature,elf,Black,,,,,UNCOMMON
+396186,3,3,0,0,0,0,Innistrad,creature,dwarf,White,Green,Blue,,,UNCOMMON
+396187,3,2,2,3,2,3,Strixhaven,equipment,Boots,White,Blue,Black,Green,,MYTHIC RARE
+396188,1,1,0,2,0,3,Ravnica,equipment,Sword,Green,Blue,Black,,,MYTHIC RARE
+396189,0,3,0,3,3,2,Kamigawa,creature,elf,White,Green,Red,Black,,MYTHIC RARE
+396190,3,3,0,1,1,0,Ravnica,equipment,Talisman,Green,White,,,,COMMON
+396191,0,2,1,3,3,2,Ravnica,equipment,Bottle,Blue,Red,Green,,,RARE
+396192,1,0,3,1,0,1,Kaldheim,equipment,Ring,Red,Blue,,,,RARE
+396193,0,0,2,2,0,3,Innistrad,equipment,Bottle,White,Blue,Green,Black,,COMMON
+396194,0,0,0,3,1,3,Kamigawa,creature,zombie,White,Green,,,,UNCOMMON
+396195,1,2,2,0,2,3,Strixhaven,equipment,Boots,White,Black,Red,Green,,COMMON
+396196,1,3,3,1,3,1,Kaldheim,creature,elf,Black,White,,,,UNCOMMON
+396197,2,0,2,0,2,2,Kamigawa,creature,dwarf,Blue,White,,,,COMMON
+396198,2,0,1,0,3,3,Ravnica,creature,dragon,Red,,,,,RARE
+396199,1,2,0,2,0,1,DnD,creature,boar,Red,White,,,,COMMON
+396200,2,0,0,3,2,3,Strixhaven,creature,dragon,Black,Blue,,,,COMMON
+396201,2,2,2,2,1,0,Innistrad,creature,boar,Blue,,,,,MYTHIC RARE
+396202,2,0,3,3,3,2,Kamigawa,creature,dragon,Green,White,Blue,,,COMMON
+396203,2,1,1,0,1,0,Innistrad,creature,boar,Blue,Green,Black,,,RARE
+396204,3,2,0,2,3,0,Strixhaven,creature,zombie,Green,,,,,RARE
+396205,1,0,3,2,3,2,Kaldheim,creature,boar,Black,White,,,,RARE
+396206,0,0,2,3,0,0,Kamigawa,creature,zombie,Red,,,,,RARE
+396207,1,1,0,2,1,3,Innistrad,equipment,Talisman,Blue,Green,,,,COMMON
+396208,2,3,1,0,2,0,Strixhaven,creature,zombie,Blue,White,,,,UNCOMMON
+396209,0,1,2,3,3,2,Strixhaven,creature,zombie,Red,Blue,White,,,COMMON
+396210,1,1,0,1,2,3,DnD,creature,dragon,Green,,,,,RARE
+396211,1,2,2,1,3,2,Ravnica,creature,dwarf,Green,Black,Red,,,UNCOMMON
+396212,2,1,3,2,2,0,Kamigawa,equipment,Boots,Blue,Black,Green,Red,,UNCOMMON
+396213,0,3,1,1,0,0,DnD,creature,zombie,Black,Red,,,,UNCOMMON
+396214,2,0,1,1,1,1,Innistrad,creature,human,White,,,,,MYTHIC RARE
+396215,0,3,1,2,3,0,DnD,creature,dragon,Blue,Red,Green,,,COMMON
+396216,0,0,0,2,0,0,Kaldheim,creature,boar,Green,Black,,,,MYTHIC RARE
+396217,1,1,3,2,3,3,Innistrad,equipment,Boots,Black,Blue,Green,,,COMMON
+396218,2,1,1,2,3,2,Strixhaven,equipment,Talisman,White,,,,,RARE
+396219,1,1,3,3,1,3,Kaldheim,equipment,Sword,Red,,,,,MYTHIC RARE
+396220,2,3,0,3,0,1,Kamigawa,creature,zombie,Red,,,,,COMMON
+396221,2,3,0,2,2,0,Kaldheim,equipment,Sword,Blue,Red,,,,MYTHIC RARE
+396222,2,1,3,1,3,0,Ravnica,creature,boar,Blue,Green,Red,,,MYTHIC RARE
+396223,3,2,2,3,3,1,Strixhaven,creature,dragon,Green,,,,,UNCOMMON
+396224,0,2,1,2,3,0,Innistrad,creature,elf,White,Red,Blue,,,COMMON
+396225,1,3,3,0,1,1,DnD,equipment,Boots,Black,Green,White,,,MYTHIC RARE
+396226,2,3,3,3,0,1,Innistrad,equipment,Talisman,Black,Blue,Red,,,UNCOMMON
+396227,1,3,1,2,2,1,Kaldheim,equipment,Sword,Green,,,,,MYTHIC RARE
+396228,2,3,1,2,1,1,Innistrad,equipment,Boots,White,,,,,COMMON
+396229,2,1,1,2,3,2,Innistrad,equipment,Bottle,Blue,Green,Black,,,RARE
+396230,2,3,0,1,0,0,Innistrad,equipment,Boots,Green,Red,Blue,,,UNCOMMON
+396231,0,3,0,3,2,2,Ravnica,equipment,Bottle,Black,Red,,,,UNCOMMON
+396232,3,2,0,0,2,3,Kaldheim,equipment,Bottle,Red,White,,,,MYTHIC RARE
+396233,0,1,1,2,1,1,DnD,equipment,Talisman,Blue,Black,,,,COMMON
+396234,0,3,3,2,3,1,Kaldheim,creature,zombie,Blue,Green,Black,,,UNCOMMON
+396235,1,2,2,3,1,2,Kaldheim,equipment,Bottle,Blue,Red,Green,,,COMMON
+396236,2,0,2,3,0,1,DnD,creature,zombie,Black,Blue,White,Red,,RARE
+396237,0,1,0,1,0,1,Ravnica,creature,elf,Green,,,,,MYTHIC RARE
+396238,3,0,2,2,1,3,Strixhaven,equipment,Sword,Green,Red,White,,,MYTHIC RARE
+396239,0,2,3,0,2,2,Ravnica,equipment,Talisman,White,Blue,Black,,,UNCOMMON
+396240,0,1,0,1,0,0,Strixhaven,creature,elf,White,Black,,,,RARE
+396241,3,3,1,2,0,2,Innistrad,creature,dragon,White,Red,Black,,,COMMON
+396242,1,0,3,2,3,1,Ravnica,creature,elf,Red,Blue,Green,,,UNCOMMON
+396243,0,2,1,1,1,3,DnD,creature,dwarf,White,,,,,UNCOMMON
+396244,0,1,2,3,3,1,Ravnica,creature,zombie,Red,Black,,,,MYTHIC RARE
+396245,0,1,0,2,0,1,Ravnica,creature,dragon,White,Black,Blue,,,MYTHIC RARE
+396246,1,0,3,3,3,2,DnD,equipment,Boots,White,,,,,UNCOMMON
+396247,2,2,0,0,2,3,DnD,equipment,Boots,Green,White,,,,UNCOMMON
+396248,0,3,0,2,3,1,Ravnica,equipment,Boots,White,Blue,Black,,,MYTHIC RARE
+396249,3,1,0,2,2,3,DnD,creature,dragon,Blue,Black,,,,RARE
+396250,3,2,0,3,2,3,Ravnica,creature,zombie,Blue,Black,Red,Green,,COMMON
+396251,1,1,1,2,1,1,Strixhaven,creature,zombie,Blue,White,Black,Red,,UNCOMMON
+396252,3,1,2,3,3,0,Ravnica,equipment,Talisman,White,Black,,,,UNCOMMON
+396253,1,0,2,0,2,2,Kamigawa,creature,dragon,Red,Green,White,,,COMMON
+396254,3,3,1,0,0,1,Kamigawa,creature,zombie,White,,,,,COMMON
+396255,2,3,1,3,2,3,Ravnica,equipment,Talisman,Green,Red,,,,RARE
+396256,3,2,0,3,1,1,DnD,equipment,Sword,Green,,,,,MYTHIC RARE
+396257,3,0,1,1,1,0,Ravnica,creature,human,Blue,Green,,,,MYTHIC RARE
+396258,2,0,1,0,1,0,Kamigawa,equipment,Bottle,Blue,Red,,,,RARE
+396259,2,2,0,1,0,0,Kaldheim,creature,zombie,Black,White,,,,MYTHIC RARE
+396260,3,2,1,3,0,2,Strixhaven,equipment,Sword,Green,,,,,COMMON
+396261,2,3,1,3,3,1,Ravnica,creature,zombie,Black,,,,,RARE
+396262,3,3,0,0,3,1,Kamigawa,equipment,Ring,Red,Black,Green,,,MYTHIC RARE
+396263,1,0,0,1,1,0,DnD,creature,zombie,Red,,,,,MYTHIC RARE
+396264,3,1,0,1,3,3,Strixhaven,creature,elf,Red,,,,,RARE
+396265,1,0,3,1,1,1,DnD,equipment,Talisman,White,Black,,,,UNCOMMON
+396266,2,2,2,2,2,3,Kamigawa,creature,human,Black,,,,,MYTHIC RARE
+396267,3,1,0,3,1,2,Strixhaven,creature,human,Black,Red,,,,MYTHIC RARE
+396268,3,0,2,2,2,0,Kaldheim,creature,dwarf,White,Blue,Black,Red,,RARE
+396269,2,3,2,3,2,0,Innistrad,creature,dwarf,Green,Blue,Red,,,RARE
+396270,0,2,1,2,1,3,Innistrad,creature,boar,Black,Blue,,,,RARE
+396271,0,0,1,3,2,1,Ravnica,equipment,Ring,Blue,White,,,,MYTHIC RARE
+396272,3,1,3,3,2,0,Strixhaven,creature,dwarf,Blue,Black,Red,,,RARE
+396273,1,1,1,2,0,0,Kaldheim,creature,boar,Red,White,,,,COMMON
+396274,2,1,2,0,0,2,Strixhaven,equipment,Boots,Black,,,,,UNCOMMON
+396275,0,2,1,0,1,3,Innistrad,creature,dragon,Blue,White,Red,,,MYTHIC RARE
+396276,0,2,2,3,0,0,DnD,equipment,Sword,Red,,,,,RARE
+396277,3,2,3,2,3,0,DnD,equipment,Talisman,Blue,Green,Red,White,,COMMON
+396278,1,2,0,2,3,0,DnD,equipment,Ring,White,Blue,,,,UNCOMMON
+396279,3,1,1,2,1,1,Innistrad,equipment,Bottle,Black,White,Green,,,MYTHIC RARE
+396280,1,1,3,0,3,2,Kaldheim,equipment,Boots,Red,Green,Blue,,,UNCOMMON
+396281,3,3,0,2,3,1,Strixhaven,creature,elf,Black,Blue,Green,Red,,MYTHIC RARE
+396282,3,2,0,2,2,0,DnD,equipment,Talisman,White,Red,Black,,,MYTHIC RARE
+396283,3,3,0,2,1,0,DnD,creature,elf,Green,,,,,COMMON
+396284,0,1,0,0,2,1,Ravnica,creature,elf,Black,Green,Blue,White,,MYTHIC RARE
+396285,1,3,3,1,2,0,Kaldheim,creature,elf,Red,Black,,,,COMMON
+396286,3,0,2,0,1,2,Strixhaven,creature,boar,Red,,,,,RARE
+396287,2,3,0,2,0,1,Kaldheim,creature,zombie,White,Green,Black,Red,,RARE
+396288,1,0,1,3,1,1,Kaldheim,equipment,Boots,Black,Blue,Red,White,,MYTHIC RARE
+396289,1,0,3,2,0,3,DnD,creature,zombie,Green,Blue,,,,UNCOMMON
+396290,2,3,0,3,2,0,Strixhaven,equipment,Boots,Black,,,,,UNCOMMON
+396291,1,3,1,3,1,0,Ravnica,creature,human,Red,Green,Blue,,,COMMON
+396292,3,3,1,2,1,1,Strixhaven,equipment,Sword,White,,,,,RARE
+396293,3,3,2,3,3,0,DnD,equipment,Boots,Black,Green,White,,,MYTHIC RARE
+396294,0,3,2,1,0,1,Ravnica,equipment,Boots,White,Red,,,,MYTHIC RARE
+396295,0,2,3,0,0,1,Ravnica,creature,boar,Green,Red,,,,UNCOMMON
+396296,0,1,3,0,1,0,Innistrad,equipment,Boots,Blue,Green,White,,,MYTHIC RARE
+396297,1,1,3,0,2,1,Innistrad,creature,dwarf,Black,White,Blue,,,RARE
+396298,3,2,1,3,3,1,DnD,equipment,Boots,Red,Blue,White,,,UNCOMMON
+396299,0,2,1,1,3,2,Innistrad,equipment,Ring,Green,Black,,,,UNCOMMON
+396300,2,0,2,3,2,3,Innistrad,equipment,Boots,Black,Green,,,,COMMON
+396301,3,1,2,1,1,1,DnD,creature,human,White,Green,,,,MYTHIC RARE
+396302,2,2,2,3,1,0,DnD,equipment,Sword,Blue,Red,,,,COMMON
+396303,2,1,2,0,1,2,Innistrad,creature,elf,Green,Red,,,,COMMON
+396304,3,3,3,0,3,1,Innistrad,equipment,Ring,Red,,,,,MYTHIC RARE
+396305,1,3,3,0,3,1,Ravnica,creature,zombie,Green,Red,,,,UNCOMMON
+396306,3,2,3,0,2,3,DnD,equipment,Talisman,Blue,White,Black,Green,,COMMON
+396307,0,1,0,0,2,3,Strixhaven,equipment,Sword,Red,Green,Blue,,,RARE
+396308,0,2,1,3,3,1,Innistrad,creature,dragon,White,Green,Blue,Black,,MYTHIC RARE
+396309,1,2,0,0,3,3,Ravnica,creature,dragon,Green,,,,,UNCOMMON
+396310,3,1,3,0,1,0,Kaldheim,creature,zombie,Red,,,,,COMMON
+396311,3,1,2,1,3,1,Ravnica,creature,elf,Red,Green,,,,UNCOMMON
+396312,1,2,0,3,2,3,Strixhaven,creature,human,Green,,,,,UNCOMMON
+396313,0,1,3,2,0,2,Ravnica,equipment,Talisman,Red,,,,,UNCOMMON
+396314,0,3,3,2,1,3,Innistrad,equipment,Talisman,White,,,,,UNCOMMON
+396315,2,3,2,2,2,0,Kaldheim,creature,zombie,White,Red,Green,Black,,RARE
+396316,1,2,0,1,0,3,Kamigawa,equipment,Talisman,Red,White,Black,,,MYTHIC RARE
+396317,3,0,1,0,3,2,Innistrad,equipment,Bottle,Red,Green,Blue,,,UNCOMMON
+396318,3,1,2,3,2,0,Kamigawa,equipment,Bottle,Green,Red,Black,,,MYTHIC RARE
+396319,2,2,0,0,3,0,DnD,equipment,Talisman,White,Black,,,,UNCOMMON
+396320,1,3,0,3,0,0,Ravnica,equipment,Sword,White,,,,,MYTHIC RARE
+396321,0,3,2,1,0,1,DnD,creature,dwarf,Green,,,,,MYTHIC RARE
+396322,2,1,2,3,1,0,Kaldheim,equipment,Talisman,Black,Red,White,,,RARE
+396323,1,1,1,1,0,3,Strixhaven,creature,dragon,Red,Green,Black,White,,MYTHIC RARE
+396324,2,1,0,1,1,3,Kaldheim,equipment,Boots,Blue,Red,White,,,RARE
+396325,3,3,0,1,2,1,Innistrad,equipment,Sword,Black,White,,,,RARE
+396326,3,3,1,3,1,1,Innistrad,creature,elf,White,Red,Black,,,UNCOMMON
+396327,3,1,0,3,2,2,Kamigawa,creature,dwarf,Red,,,,,UNCOMMON
+396328,0,1,2,2,0,1,DnD,equipment,Bottle,Red,Blue,White,,,RARE
+396329,0,2,1,1,1,1,Innistrad,equipment,Boots,Green,Blue,White,,,MYTHIC RARE
+396330,0,1,2,3,2,0,Kamigawa,creature,dragon,Red,Green,Blue,,,COMMON
+396331,2,1,2,2,0,0,Innistrad,equipment,Boots,White,Black,Green,,,UNCOMMON
+396332,3,1,2,1,2,3,Ravnica,creature,dragon,White,Blue,Green,Black,,MYTHIC RARE
+396333,0,1,3,2,0,2,Ravnica,equipment,Bottle,Red,Green,,,,COMMON
+396334,3,0,3,0,2,1,Kamigawa,equipment,Talisman,Blue,Red,,,,MYTHIC RARE
+396335,2,1,2,1,1,0,Innistrad,equipment,Ring,Red,Black,,,,MYTHIC RARE
+396336,1,1,3,3,3,2,Kamigawa,equipment,Ring,Green,Red,White,,,RARE
+396337,2,0,1,3,1,3,Kamigawa,creature,zombie,Black,White,,,,MYTHIC RARE
+396338,3,0,3,1,2,3,Innistrad,creature,elf,White,Green,Black,,,MYTHIC RARE
+396339,2,1,2,1,0,2,Innistrad,equipment,Sword,Blue,Black,,,,MYTHIC RARE
+396340,0,3,0,0,1,2,DnD,creature,zombie,Red,White,,,,UNCOMMON
+396341,2,2,1,0,1,3,Strixhaven,equipment,Bottle,Red,Blue,Green,,,MYTHIC RARE
+396342,2,2,2,3,0,0,Strixhaven,creature,boar,Green,,,,,RARE
+396343,2,2,2,1,2,2,DnD,equipment,Sword,Red,Blue,Green,,,RARE
+396344,2,0,0,1,0,1,Kaldheim,equipment,Sword,Blue,Black,,,,RARE
+396345,1,3,1,0,2,0,Innistrad,creature,dwarf,Green,Black,,,,RARE
+396346,2,1,2,1,1,0,Innistrad,creature,dwarf,Red,Black,Green,,,UNCOMMON
+396347,1,1,2,2,0,3,Strixhaven,creature,dragon,White,Red,Blue,,,COMMON
+396348,3,2,0,3,1,2,DnD,creature,dwarf,White,Black,,,,MYTHIC RARE
+396349,3,3,2,2,1,0,Strixhaven,equipment,Sword,Blue,Black,White,,,UNCOMMON
+396350,2,2,2,3,1,1,Kamigawa,creature,dragon,Black,Green,Blue,,,UNCOMMON
+396351,0,2,3,2,2,1,Strixhaven,equipment,Sword,Red,Green,White,,,MYTHIC RARE
+396352,1,1,0,3,0,3,Kamigawa,equipment,Boots,Blue,White,Red,,,RARE
+396353,1,3,1,0,3,2,Kamigawa,equipment,Bottle,White,,,,,MYTHIC RARE
+396354,2,1,2,0,0,0,DnD,equipment,Talisman,Green,Blue,Red,,,MYTHIC RARE
+396355,1,0,2,0,1,3,Ravnica,equipment,Ring,Blue,,,,,RARE
+396356,2,0,0,2,2,3,Ravnica,creature,dwarf,Red,,,,,COMMON
+396357,0,3,3,1,0,1,Strixhaven,creature,dwarf,Black,Blue,Green,,,MYTHIC RARE
+396358,2,1,2,3,3,3,Kamigawa,equipment,Sword,Red,Black,White,,,UNCOMMON
+396359,3,1,3,0,0,1,Kaldheim,equipment,Bottle,Green,Blue,White,,,COMMON
+396360,3,0,0,0,2,3,DnD,creature,boar,Green,Red,,,,MYTHIC RARE
+396361,0,3,1,3,3,2,Ravnica,equipment,Bottle,Black,,,,,MYTHIC RARE
+396362,3,3,2,3,1,3,Innistrad,creature,elf,Red,Blue,Black,White,,UNCOMMON
+396363,1,1,0,1,3,1,Innistrad,equipment,Ring,Black,Green,Blue,,,COMMON
+396364,1,3,3,3,2,0,Strixhaven,creature,dwarf,White,Red,Blue,,,COMMON
+396365,2,0,1,2,2,1,Kamigawa,equipment,Bottle,Blue,Green,Red,White,,MYTHIC RARE
+396366,0,0,1,1,1,2,Strixhaven,creature,zombie,Red,,,,,MYTHIC RARE
+396367,0,1,1,0,1,3,Kaldheim,equipment,Ring,Black,Blue,White,,,MYTHIC RARE
+396368,0,3,1,0,3,2,Kamigawa,creature,dwarf,White,Green,,,,UNCOMMON
+396369,0,0,0,1,2,0,DnD,equipment,Sword,Red,Green,Blue,,,RARE
+396370,3,2,3,2,3,2,Kaldheim,equipment,Talisman,Black,Blue,,,,MYTHIC RARE
+396371,3,3,0,1,3,1,DnD,equipment,Ring,Black,Red,,,,UNCOMMON
+396372,1,2,3,2,2,0,Kaldheim,creature,zombie,Black,Green,Blue,,,UNCOMMON
+396373,0,2,0,2,0,2,Kamigawa,equipment,Talisman,Green,White,Blue,,,COMMON
+396374,2,3,2,0,3,1,Kamigawa,equipment,Talisman,Red,Blue,Black,,,UNCOMMON
+396375,2,2,1,0,0,3,DnD,equipment,Sword,Green,,,,,UNCOMMON
+396376,0,1,0,1,2,1,Strixhaven,equipment,Sword,Black,,,,,MYTHIC RARE
+396377,2,0,3,3,3,0,Ravnica,creature,human,Green,Blue,White,,,RARE
+396378,1,0,0,2,0,0,DnD,creature,dragon,Green,Black,Blue,,,RARE
+396379,2,1,1,0,2,3,Ravnica,creature,elf,White,Green,,,,RARE
+396380,0,2,2,1,3,0,Ravnica,equipment,Sword,Red,Green,,,,UNCOMMON
+396381,1,3,3,2,3,1,Ravnica,creature,elf,Black,White,Blue,Red,,COMMON
+396382,2,3,2,0,3,1,Innistrad,equipment,Boots,Red,Blue,White,,,MYTHIC RARE
+396383,0,0,0,3,3,3,Ravnica,creature,zombie,Blue,White,,,,RARE
+396384,2,1,2,3,0,1,Innistrad,equipment,Boots,White,Red,,,,RARE
+396385,1,3,1,1,2,0,Strixhaven,creature,boar,White,Blue,Green,,,RARE
+396386,0,3,0,0,3,1,Kaldheim,equipment,Sword,Blue,White,Green,,,COMMON
+396387,3,1,0,1,2,0,Innistrad,equipment,Bottle,Green,Blue,Black,,,MYTHIC RARE
+396388,3,1,1,1,1,1,Kamigawa,creature,boar,Black,,,,,COMMON
+396389,2,3,2,0,1,2,Innistrad,equipment,Ring,Black,Green,Red,White,,COMMON
+396390,1,0,3,3,1,3,Kaldheim,equipment,Sword,Black,Red,,,,MYTHIC RARE
+396391,0,3,2,2,0,2,Strixhaven,equipment,Bottle,Green,White,Blue,Black,,COMMON
+396392,3,2,2,3,3,3,DnD,equipment,Sword,Black,,,,,RARE
+396393,0,1,0,1,3,1,Innistrad,creature,human,Black,Green,White,Red,,RARE
+396394,1,3,3,2,2,2,Ravnica,equipment,Talisman,Black,Green,White,Red,,COMMON
+396395,1,2,2,3,1,1,Kamigawa,equipment,Talisman,Black,Green,,,,RARE
+396396,2,2,0,0,3,2,DnD,creature,dragon,Black,Blue,Red,,,UNCOMMON
+396397,1,2,3,2,3,2,Strixhaven,equipment,Boots,Green,Red,Black,,,RARE
+396398,3,2,0,0,2,2,Kamigawa,equipment,Sword,Blue,White,Black,,,UNCOMMON
+396399,2,1,3,1,3,0,DnD,equipment,Talisman,White,Black,Blue,,,MYTHIC RARE
+396400,2,3,2,3,1,1,Strixhaven,equipment,Ring,Green,Blue,White,Red,,RARE
+396401,3,2,0,2,1,3,Ravnica,creature,dragon,Black,Blue,Green,,,RARE
+396402,1,2,1,1,3,1,Ravnica,creature,dragon,Black,,,,,COMMON
+396403,0,0,1,2,1,3,DnD,creature,zombie,Green,Black,White,,,COMMON
+396404,0,1,1,1,2,3,Innistrad,equipment,Boots,Black,,,,,UNCOMMON
+396405,0,0,1,3,0,0,Kamigawa,equipment,Talisman,Red,Blue,Black,,,UNCOMMON
+396406,2,0,3,0,0,2,Strixhaven,equipment,Talisman,Green,Red,,,,UNCOMMON
+396407,0,1,1,2,1,1,Kamigawa,equipment,Sword,Blue,Green,,,,COMMON
+396408,0,0,3,3,0,3,Kaldheim,equipment,Sword,Blue,Green,Black,Red,,RARE
+396409,0,2,1,1,2,3,Ravnica,creature,human,Green,Red,,,,COMMON
+396410,1,2,0,1,2,3,Kamigawa,creature,elf,Black,Blue,,,,UNCOMMON
+396411,3,1,1,2,2,2,Kamigawa,equipment,Bottle,White,Green,,,,COMMON
+396412,2,3,1,3,2,3,Kamigawa,equipment,Sword,Black,White,Blue,,,RARE
+396413,0,1,0,1,0,0,Ravnica,creature,human,Red,,,,,RARE
+396414,3,3,1,1,1,3,Kaldheim,equipment,Talisman,Green,,,,,RARE
+396415,1,2,1,0,2,1,Kamigawa,equipment,Bottle,Green,,,,,MYTHIC RARE
+396416,3,2,1,2,2,0,Innistrad,creature,zombie,Red,Green,Black,,,UNCOMMON
+396417,2,3,2,1,2,1,Kamigawa,equipment,Sword,Black,Red,Green,,,UNCOMMON
+396418,2,1,2,3,2,1,Strixhaven,equipment,Ring,Blue,White,,,,MYTHIC RARE
+396419,0,0,2,3,3,1,Kaldheim,creature,zombie,White,,,,,COMMON
+396420,2,3,2,2,2,2,Kamigawa,creature,human,White,,,,,COMMON
+396421,1,1,0,2,3,3,DnD,creature,human,Blue,White,,,,UNCOMMON
+396422,1,1,3,3,1,1,Kamigawa,creature,human,White,Blue,Green,,,UNCOMMON
+396423,1,3,2,2,2,2,Strixhaven,creature,dwarf,Green,Red,Black,,,COMMON
+396424,0,0,0,0,2,2,Innistrad,creature,elf,Blue,Green,Black,White,,COMMON
+396425,1,3,1,3,2,2,Ravnica,equipment,Boots,White,Black,,,,MYTHIC RARE
+396426,0,2,2,0,2,1,Ravnica,creature,dwarf,Black,,,,,UNCOMMON
+396427,1,2,2,3,3,1,Kaldheim,creature,elf,White,Black,,,,MYTHIC RARE
+396428,3,0,1,1,0,0,Innistrad,equipment,Sword,White,Green,,,,COMMON
+396429,2,3,0,0,3,3,DnD,equipment,Talisman,Red,White,Blue,,,MYTHIC RARE
+396430,0,2,1,2,3,3,Kamigawa,equipment,Talisman,Green,White,,,,UNCOMMON
+396431,0,1,2,2,1,2,Ravnica,equipment,Talisman,Green,,,,,RARE
+396432,0,3,2,1,3,3,Kamigawa,equipment,Boots,Green,Blue,White,,,RARE
+396433,1,3,2,1,0,2,Kaldheim,creature,human,Blue,Black,Red,,,UNCOMMON
+396434,2,3,2,1,3,3,Innistrad,equipment,Talisman,Blue,Black,White,,,MYTHIC RARE
+396435,2,2,0,2,3,1,Strixhaven,creature,dwarf,Black,Green,Red,Blue,,UNCOMMON
+396436,3,0,0,3,2,3,Ravnica,creature,zombie,Black,Green,Blue,,,UNCOMMON
+396437,1,1,0,2,3,2,Kamigawa,equipment,Talisman,Blue,Green,,,,MYTHIC RARE
+396438,3,1,1,2,2,2,Innistrad,creature,dragon,Blue,White,,,,COMMON
+396439,1,1,2,1,2,3,DnD,creature,dragon,Blue,,,,,MYTHIC RARE
+396440,1,3,3,0,3,1,Ravnica,creature,human,Red,White,Green,,,RARE
+396441,1,1,2,2,1,2,Kamigawa,equipment,Bottle,White,,,,,RARE
+396442,0,3,2,2,2,1,Kamigawa,equipment,Sword,White,Blue,Green,,,MYTHIC RARE
+396443,1,1,3,3,0,1,Strixhaven,creature,human,White,Blue,,,,MYTHIC RARE
+396444,0,1,2,2,0,1,Ravnica,creature,dwarf,Black,Green,Blue,,,UNCOMMON
+396445,3,0,0,3,2,1,Strixhaven,creature,zombie,Black,Blue,,,,RARE
+396446,0,1,1,0,0,2,Kamigawa,equipment,Bottle,Red,Black,Blue,,,COMMON
+396447,1,0,3,3,1,1,Innistrad,equipment,Bottle,White,,,,,MYTHIC RARE
+396448,3,2,0,2,0,1,Innistrad,equipment,Sword,Blue,White,,,,COMMON
+396449,3,1,3,2,1,0,Kamigawa,creature,elf,Red,Green,,,,COMMON
+396450,2,3,0,3,0,0,Kaldheim,equipment,Bottle,Green,White,Red,,,UNCOMMON
+396451,2,2,2,3,2,3,DnD,equipment,Ring,White,Black,,,,UNCOMMON
+396452,2,2,2,2,0,0,Ravnica,equipment,Bottle,Green,,,,,MYTHIC RARE
+396453,2,2,0,2,1,2,Strixhaven,creature,dragon,Blue,White,Red,,,COMMON
+396454,0,2,2,3,0,1,DnD,creature,zombie,White,Blue,Black,Green,,MYTHIC RARE
+396455,0,2,1,3,0,0,Innistrad,equipment,Talisman,Green,Black,,,,UNCOMMON
+396456,2,2,3,1,1,0,Ravnica,creature,boar,Black,Red,White,Blue,,COMMON
+396457,1,1,3,2,3,1,Kaldheim,creature,human,Green,,,,,COMMON
+396458,0,2,3,3,1,3,Kamigawa,creature,boar,Black,Red,Green,,,MYTHIC RARE
+396459,3,3,3,1,0,2,Strixhaven,creature,human,Black,Red,Green,,,UNCOMMON
+396460,3,1,3,1,2,1,Kaldheim,equipment,Ring,Black,White,Red,Blue,,RARE
+396461,0,1,3,2,3,1,Kamigawa,equipment,Ring,Black,Green,,,,UNCOMMON
+396462,3,1,2,3,1,1,Kamigawa,equipment,Ring,Red,Black,,,,MYTHIC RARE
+396463,1,1,3,1,2,0,Strixhaven,creature,elf,Green,Black,Red,,,UNCOMMON
+396464,2,3,0,0,2,1,Innistrad,equipment,Talisman,Black,White,Red,,,UNCOMMON
+396465,1,2,3,1,3,1,Kaldheim,creature,elf,White,,,,,MYTHIC RARE
+396466,2,2,2,2,2,2,Ravnica,creature,dwarf,Blue,,,,,COMMON
+396467,1,2,2,0,2,2,Kamigawa,equipment,Boots,Blue,Red,,,,MYTHIC RARE
+396468,0,0,1,2,1,1,DnD,equipment,Sword,Green,,,,,UNCOMMON
+396469,0,3,0,2,1,1,Strixhaven,creature,dwarf,Blue,Green,,,,UNCOMMON
+396470,1,0,0,2,0,3,DnD,equipment,Talisman,Blue,Red,White,Green,,COMMON
+396471,2,1,0,0,1,3,Innistrad,creature,dragon,Black,Green,,,,UNCOMMON
+396472,3,1,0,1,0,3,Ravnica,creature,elf,Red,Blue,White,Green,,UNCOMMON
+396473,2,3,3,1,0,1,DnD,equipment,Ring,Green,Red,,,,RARE
+396474,3,0,1,3,2,2,Kamigawa,equipment,Bottle,Black,,,,,MYTHIC RARE
+396475,0,0,0,2,0,2,Innistrad,equipment,Bottle,Black,Green,Red,,,RARE
+396476,0,0,2,3,1,3,Innistrad,creature,dragon,Green,Red,Blue,,,UNCOMMON
+396477,1,1,2,1,1,1,Ravnica,creature,dwarf,Blue,White,,,,COMMON
+396478,0,3,1,3,2,1,DnD,equipment,Talisman,Green,Black,,,,UNCOMMON
+396479,1,1,0,1,3,0,Strixhaven,creature,elf,Black,,,,,RARE
+396480,2,3,1,0,0,0,Kaldheim,equipment,Talisman,Blue,,,,,UNCOMMON
+396481,3,3,3,2,3,1,Ravnica,equipment,Boots,Green,Red,,,,MYTHIC RARE
+396482,1,2,3,1,1,3,Innistrad,creature,zombie,White,Black,,,,COMMON
+396483,0,3,0,3,0,1,DnD,equipment,Bottle,Green,Blue,Red,Black,,MYTHIC RARE
+396484,0,2,2,2,3,3,DnD,creature,elf,White,Green,,,,COMMON
+396485,3,1,2,1,3,1,Innistrad,creature,elf,Green,White,Black,,,RARE
+396486,2,1,1,1,3,0,Ravnica,equipment,Ring,Blue,White,Red,,,RARE
+396487,2,1,3,0,1,2,Kaldheim,equipment,Sword,Blue,White,,,,MYTHIC RARE
+396488,2,2,3,2,3,3,Kaldheim,creature,dwarf,Black,Red,White,,,COMMON
+396489,2,0,0,2,3,3,DnD,equipment,Talisman,White,Red,Green,Blue,,COMMON
+396490,3,1,0,0,0,3,Kaldheim,equipment,Talisman,Red,Black,,,,COMMON
+396491,0,1,1,2,0,3,Kamigawa,creature,zombie,White,Blue,,,,COMMON
+396492,2,2,1,0,1,3,Kaldheim,creature,zombie,Red,Blue,Green,Black,,UNCOMMON
+396493,2,3,1,3,0,0,Strixhaven,creature,zombie,White,,,,,RARE
+396494,0,2,2,3,2,0,Kamigawa,creature,dwarf,Blue,Green,,,,COMMON
+396495,1,0,2,1,2,1,Ravnica,equipment,Sword,White,Red,Green,Blue,,COMMON
+396496,1,2,3,3,2,3,DnD,equipment,Talisman,Blue,,,,,RARE
+396497,3,0,2,0,3,2,Innistrad,creature,dwarf,Red,Blue,,,,UNCOMMON
+396498,2,1,3,3,2,2,Strixhaven,equipment,Bottle,Red,Blue,Green,,,RARE
+396499,0,0,2,0,1,2,Kamigawa,equipment,Bottle,Black,Red,,,,UNCOMMON
+396500,1,1,2,1,2,1,Ravnica,equipment,Sword,White,,,,,COMMON
+396501,0,3,1,3,2,3,Kaldheim,equipment,Bottle,Black,Red,,,,RARE
+396502,3,0,2,0,0,2,Innistrad,creature,zombie,Blue,Red,Green,,,RARE
+396503,3,1,3,3,0,1,Kamigawa,equipment,Ring,White,Black,,,,UNCOMMON
+396504,2,1,3,1,1,3,DnD,creature,dragon,Blue,,,,,UNCOMMON
+396505,2,0,3,2,3,0,Kamigawa,equipment,Bottle,Green,Black,,,,RARE
+396506,1,3,3,1,2,0,Strixhaven,equipment,Ring,White,Green,,,,UNCOMMON
+396507,0,1,3,2,0,3,Kaldheim,creature,elf,Blue,Green,,,,UNCOMMON
+396508,1,2,3,0,1,3,Kaldheim,creature,dragon,Blue,Red,,,,UNCOMMON
+396509,1,2,0,1,3,3,DnD,equipment,Boots,Blue,Red,Green,,,COMMON
+396510,3,1,2,3,3,2,Innistrad,creature,boar,Green,Red,Black,,,COMMON
+396511,0,2,3,0,3,0,Ravnica,equipment,Talisman,Black,Blue,Green,Red,,MYTHIC RARE
+396512,0,1,3,2,3,0,Strixhaven,equipment,Sword,White,Green,Red,,,MYTHIC RARE
+396513,3,2,1,3,2,3,DnD,equipment,Bottle,White,Blue,Black,,,COMMON
+396514,0,1,2,2,3,2,Kamigawa,creature,dragon,Blue,Black,Red,,,COMMON
+396515,2,0,0,3,2,0,Strixhaven,creature,dwarf,Black,Red,,,,COMMON
+396516,0,3,1,0,3,1,DnD,equipment,Talisman,Green,White,Blue,Black,,UNCOMMON
+396517,3,1,3,3,0,2,Ravnica,equipment,Bottle,Black,Blue,,,,MYTHIC RARE
+396518,1,0,3,0,3,1,Ravnica,equipment,Boots,Red,Black,Green,,,MYTHIC RARE
+396519,3,0,3,0,3,1,Kaldheim,creature,boar,Black,Blue,,,,COMMON
+396520,2,1,2,3,1,0,DnD,creature,dragon,Blue,,,,,COMMON
+396521,2,1,0,1,0,2,Ravnica,creature,boar,Black,Blue,,,,RARE
+396522,2,3,3,0,1,0,Ravnica,creature,boar,Red,White,,,,UNCOMMON
+396523,1,0,2,3,0,0,Innistrad,creature,elf,Black,Blue,,,,MYTHIC RARE
+396524,0,1,3,2,2,2,Strixhaven,equipment,Talisman,Black,Green,,,,MYTHIC RARE
+396525,1,3,0,2,2,1,Kaldheim,equipment,Talisman,White,Black,Red,,,COMMON
+396526,1,0,1,0,1,3,Ravnica,creature,dwarf,Red,Blue,White,Black,,RARE
+396527,3,0,2,2,2,1,Strixhaven,equipment,Sword,Red,,,,,COMMON
+396528,1,3,1,0,0,1,Kamigawa,equipment,Boots,Black,Blue,Red,White,,UNCOMMON
+396529,0,0,1,3,2,2,Kamigawa,creature,human,White,Black,Green,,,RARE
+396530,1,3,1,2,0,0,Kamigawa,equipment,Boots,Red,,,,,RARE
+396531,1,3,0,2,3,0,Innistrad,equipment,Talisman,Blue,White,Black,Red,,COMMON
+396532,0,2,0,2,2,3,Strixhaven,creature,dwarf,Green,Black,Red,,,RARE
+396533,1,3,2,0,2,0,Kaldheim,equipment,Sword,Red,Green,Blue,,,COMMON
+396534,2,1,0,0,0,0,Ravnica,equipment,Bottle,White,Blue,Red,Black,,RARE
+396535,1,2,2,2,1,2,DnD,equipment,Bottle,Black,Green,,,,COMMON
+396536,0,1,3,2,3,1,Innistrad,creature,boar,Black,White,,,,RARE
+396537,0,2,0,1,0,3,Kaldheim,creature,dwarf,White,Red,,,,UNCOMMON
+396538,3,2,3,0,3,1,Innistrad,equipment,Boots,White,,,,,MYTHIC RARE
+396539,3,3,3,1,3,1,Kamigawa,creature,dragon,Blue,Red,White,,,COMMON
+396540,3,0,3,0,2,2,Kaldheim,creature,boar,Black,White,Red,,,UNCOMMON
+396541,1,0,1,3,3,3,Ravnica,equipment,Boots,Blue,,,,,COMMON
+396542,2,2,0,2,3,1,Strixhaven,creature,zombie,Green,Blue,White,Red,,RARE
+396543,2,3,1,0,1,3,Strixhaven,creature,boar,Black,Blue,White,,,RARE
+396544,0,1,2,0,3,2,Ravnica,equipment,Talisman,White,,,,,COMMON
+396545,1,3,2,0,0,1,Kamigawa,equipment,Ring,Black,,,,,UNCOMMON
+396546,1,0,3,3,0,2,Kamigawa,equipment,Boots,Red,Green,,,,MYTHIC RARE
+396547,1,1,3,0,1,2,Innistrad,equipment,Boots,Black,White,Green,Red,,UNCOMMON
+396548,2,3,1,2,0,3,Kaldheim,equipment,Bottle,Black,,,,,COMMON
+396549,3,2,1,3,0,3,Strixhaven,equipment,Sword,Black,,,,,COMMON
+396550,3,1,2,1,0,1,Kaldheim,creature,human,White,,,,,COMMON
+396551,1,1,1,0,3,0,Kamigawa,creature,dwarf,Red,Black,,,,MYTHIC RARE
+396552,2,0,2,1,3,3,Ravnica,equipment,Boots,Red,Green,Blue,,,COMMON
+396553,0,3,2,0,3,2,Strixhaven,equipment,Bottle,Blue,,,,,RARE
+396554,2,0,0,2,3,0,DnD,creature,zombie,Black,,,,,UNCOMMON
+396555,2,3,3,0,1,2,Kaldheim,equipment,Boots,Green,Red,White,,,MYTHIC RARE
+396556,2,0,3,0,2,0,Kamigawa,equipment,Sword,Black,Green,,,,COMMON
+396557,1,0,3,3,2,3,DnD,creature,human,White,Red,Blue,Black,,UNCOMMON
+396558,2,0,2,2,0,2,Kaldheim,equipment,Boots,Black,Red,,,,MYTHIC RARE
+396559,2,2,1,2,2,3,DnD,creature,boar,Red,,,,,COMMON
+396560,2,3,3,2,1,3,DnD,creature,elf,Green,Black,White,,,COMMON
+396561,3,2,2,1,1,2,Kamigawa,equipment,Bottle,Green,Red,Black,,,RARE
+396562,3,3,0,0,3,3,Strixhaven,equipment,Sword,Green,White,,,,COMMON
+396563,0,3,1,1,2,1,Strixhaven,equipment,Boots,White,,,,,MYTHIC RARE
+396564,2,0,3,2,3,2,Kamigawa,creature,boar,Black,Blue,Red,,,COMMON
+396565,2,0,2,2,2,1,Kamigawa,equipment,Bottle,Green,White,Red,,,RARE
+396566,0,3,3,3,0,0,Kamigawa,equipment,Boots,Black,Red,,,,COMMON
+396567,0,2,0,0,1,2,Strixhaven,creature,boar,Red,,,,,MYTHIC RARE
+396568,1,2,3,1,0,1,Innistrad,equipment,Talisman,Blue,Green,,,,COMMON
+396569,2,3,3,3,2,3,Kamigawa,equipment,Talisman,Blue,,,,,RARE
+396570,2,2,3,3,2,3,Ravnica,equipment,Sword,Green,Black,Red,,,RARE
+396571,2,1,0,2,1,2,Kaldheim,creature,dragon,White,Blue,,,,MYTHIC RARE
+396572,0,0,3,0,0,2,Ravnica,equipment,Boots,Blue,Green,,,,UNCOMMON
+396573,0,0,1,1,0,3,Strixhaven,creature,elf,Blue,,,,,UNCOMMON
+396574,0,2,2,3,0,2,DnD,creature,dwarf,Black,Red,,,,MYTHIC RARE
+396575,1,1,0,1,2,2,Kaldheim,creature,elf,White,,,,,RARE
+396576,3,0,2,2,3,2,Strixhaven,creature,zombie,Black,Blue,,,,MYTHIC RARE
+396577,0,1,3,3,2,1,DnD,equipment,Boots,White,Blue,,,,RARE
+396578,2,2,0,2,3,2,Innistrad,equipment,Talisman,Blue,White,,,,COMMON
+396579,2,2,3,2,3,3,DnD,equipment,Sword,Blue,,,,,MYTHIC RARE
+396580,1,0,2,2,3,0,Kamigawa,creature,zombie,Red,Green,,,,RARE
+396581,3,1,0,0,3,1,Ravnica,equipment,Ring,Red,Black,White,,,UNCOMMON
+396582,1,2,3,2,1,1,Ravnica,creature,dragon,Green,Black,Blue,,,COMMON
+396583,1,1,0,2,3,2,Kaldheim,equipment,Bottle,Red,White,,,,COMMON
+396584,0,0,1,1,0,3,Kaldheim,creature,human,White,Blue,Red,,,MYTHIC RARE
+396585,1,0,3,3,1,3,Ravnica,creature,dragon,Green,Blue,,,,UNCOMMON
+396586,3,0,0,1,3,2,Kaldheim,creature,elf,Black,Red,Blue,,,COMMON
+396587,2,2,1,3,2,3,Innistrad,equipment,Boots,Red,Blue,,,,COMMON
+396588,1,0,0,2,3,3,Kaldheim,creature,human,White,,,,,COMMON
+396589,1,2,3,2,0,2,Kamigawa,equipment,Boots,Blue,,,,,RARE
+396590,0,1,0,2,1,0,Ravnica,equipment,Boots,Black,Red,Blue,,,MYTHIC RARE
+396591,3,1,2,0,3,3,Ravnica,creature,boar,Red,,,,,UNCOMMON
+396592,0,2,3,1,0,0,Ravnica,creature,dwarf,Black,,,,,RARE
+396593,1,3,0,3,3,1,Kamigawa,creature,boar,Black,Red,,,,COMMON
+396594,3,0,0,0,3,0,Innistrad,equipment,Ring,White,Green,Red,,,RARE
+396595,1,0,0,0,2,0,Ravnica,equipment,Sword,Red,Green,,,,UNCOMMON
+396596,0,1,2,2,0,1,Innistrad,equipment,Talisman,Green,,,,,MYTHIC RARE
+396597,0,1,2,1,2,2,Kaldheim,creature,human,Blue,Black,Green,,,COMMON
+396598,0,1,1,2,3,0,Kaldheim,equipment,Boots,White,,,,,MYTHIC RARE
+396599,1,1,0,2,0,1,Kaldheim,equipment,Sword,Green,Red,,,,UNCOMMON
+396600,0,2,0,0,2,2,Kamigawa,creature,dragon,Red,Green,,,,UNCOMMON
+396601,3,0,2,1,1,1,Strixhaven,creature,boar,White,Black,Blue,Red,,COMMON
+396602,1,1,3,3,0,3,Strixhaven,equipment,Sword,Black,Green,,,,MYTHIC RARE
+396603,1,3,0,3,1,1,Kaldheim,creature,human,Blue,Red,,,,UNCOMMON
+396604,1,2,1,3,3,1,Kamigawa,equipment,Bottle,White,Blue,Red,,,UNCOMMON
+396605,1,2,0,3,3,1,Innistrad,equipment,Sword,Blue,White,,,,COMMON
+396606,0,2,2,3,0,0,Ravnica,creature,boar,Blue,Red,Black,Green,White,UNCOMMON
+396607,0,3,3,2,3,0,Kaldheim,equipment,Boots,Black,Blue,White,,,MYTHIC RARE
+396608,1,0,1,3,3,0,Kaldheim,equipment,Talisman,Green,Red,,,,UNCOMMON
+396609,2,0,2,1,0,1,Kamigawa,equipment,Sword,Green,White,Red,,,MYTHIC RARE
+396610,0,2,2,3,3,1,Kamigawa,equipment,Talisman,White,,,,,MYTHIC RARE
+396611,2,1,2,2,2,3,Kaldheim,creature,zombie,White,Blue,,,,UNCOMMON
+396612,1,3,1,0,0,1,Kamigawa,equipment,Boots,White,Blue,Black,,,MYTHIC RARE
+396613,3,2,1,1,1,3,Kamigawa,equipment,Ring,Green,,,,,UNCOMMON
+396614,1,2,3,3,3,3,Kamigawa,creature,elf,Green,Black,Blue,Red,,UNCOMMON
+396615,3,1,1,1,0,0,DnD,creature,elf,Green,Black,,,,UNCOMMON
+396616,2,0,3,1,0,1,Kaldheim,equipment,Talisman,Green,,,,,RARE
+396617,0,0,2,1,2,2,Kaldheim,equipment,Boots,Red,Green,Black,,,MYTHIC RARE
+396618,3,1,0,1,0,1,DnD,creature,boar,Red,,,,,RARE
+396619,0,1,2,1,1,0,Strixhaven,creature,zombie,Red,White,,,,MYTHIC RARE
+396620,3,0,2,0,1,2,Strixhaven,creature,dwarf,Blue,Green,White,,,MYTHIC RARE
+396621,3,3,2,0,2,0,DnD,equipment,Bottle,Blue,White,Red,,,UNCOMMON
+396622,1,0,0,1,3,2,Kamigawa,equipment,Sword,Black,White,,,,MYTHIC RARE
+396623,2,1,1,2,2,3,Innistrad,creature,dragon,White,Black,Green,,,RARE
+396624,3,2,2,1,3,2,Kamigawa,creature,elf,Black,Red,White,,,MYTHIC RARE
+396625,3,2,0,0,2,1,Kaldheim,creature,dwarf,Green,White,,,,UNCOMMON
+396626,0,2,1,1,2,0,Kaldheim,equipment,Talisman,Blue,Black,Red,,,UNCOMMON
+396627,1,3,0,0,2,1,Kamigawa,creature,zombie,Blue,,,,,UNCOMMON
+396628,1,0,0,1,0,0,Innistrad,equipment,Boots,Blue,,,,,COMMON
+396629,2,2,0,0,2,1,Ravnica,equipment,Sword,Blue,Green,,,,UNCOMMON
+396630,0,1,2,3,3,1,Strixhaven,creature,boar,Blue,,,,,MYTHIC RARE
+396631,0,0,2,2,3,3,Kaldheim,equipment,Sword,White,Red,Black,Green,Blue,RARE
+396632,3,3,3,3,0,2,Innistrad,creature,dragon,Green,,,,,COMMON
+396633,1,2,2,3,2,2,Kaldheim,equipment,Ring,White,Green,Red,Blue,,UNCOMMON
+396634,1,0,3,1,1,2,Strixhaven,creature,human,Blue,Red,White,Black,,COMMON
+396635,1,3,2,0,1,3,Strixhaven,equipment,Sword,Green,,,,,MYTHIC RARE
+396636,3,3,2,2,1,0,Strixhaven,creature,dwarf,Green,Blue,,,,MYTHIC RARE
+396637,1,1,3,2,2,3,Innistrad,creature,dwarf,Red,Blue,,,,UNCOMMON
+396638,2,1,0,1,2,0,DnD,creature,dragon,Red,White,,,,MYTHIC RARE
+396639,0,2,1,3,0,2,Innistrad,equipment,Boots,White,,,,,UNCOMMON
+396640,0,2,3,0,2,1,Strixhaven,creature,human,White,Green,Red,,,RARE
+396641,2,3,2,1,3,0,Kaldheim,creature,human,Green,,,,,MYTHIC RARE
+396642,2,0,1,3,3,1,Innistrad,equipment,Boots,Red,Black,Blue,Green,,COMMON
+396643,3,0,3,3,2,0,Kamigawa,equipment,Boots,Red,Green,,,,COMMON
+396644,3,0,2,2,1,0,Kaldheim,creature,boar,Blue,,,,,UNCOMMON
+396645,1,1,1,3,2,3,DnD,equipment,Bottle,Red,Blue,,,,MYTHIC RARE
+396646,2,1,0,1,2,1,Strixhaven,creature,human,White,Black,Red,,,COMMON
+396647,2,0,0,2,2,3,Strixhaven,equipment,Boots,Blue,Green,White,,,MYTHIC RARE
+396648,0,1,2,0,1,0,DnD,creature,human,White,Black,,,,COMMON
+396649,3,0,0,1,3,0,Innistrad,equipment,Boots,Red,Blue,,,,COMMON
+396650,3,3,2,3,0,2,Ravnica,equipment,Bottle,Black,Red,Green,,,RARE
+396651,1,1,0,1,2,3,Ravnica,creature,elf,Blue,Green,,,,MYTHIC RARE
+396652,0,0,0,1,1,3,Innistrad,creature,dragon,White,Red,Black,Green,,UNCOMMON
+396653,2,0,3,0,1,3,DnD,creature,dragon,White,Green,,,,MYTHIC RARE
+396654,0,2,2,1,0,2,Strixhaven,equipment,Talisman,Green,Red,Black,,,UNCOMMON
+396655,0,1,2,1,2,3,Kamigawa,creature,human,White,,,,,COMMON
+396656,1,0,0,2,2,2,Ravnica,equipment,Talisman,White,Blue,,,,MYTHIC RARE
+396657,2,3,3,1,3,3,Kaldheim,equipment,Boots,Green,Red,,,,RARE
+396658,0,0,3,2,1,3,Kamigawa,equipment,Boots,Red,Black,,,,RARE
+396659,1,1,0,0,2,0,Strixhaven,equipment,Boots,Red,Green,White,,,RARE
+396660,2,1,1,3,2,1,Ravnica,equipment,Sword,Blue,,,,,MYTHIC RARE
+396661,3,3,0,1,2,1,Strixhaven,creature,elf,Black,Green,Blue,Red,,RARE
+396662,0,2,0,3,1,1,Strixhaven,equipment,Boots,White,Red,,,,RARE
+396663,0,2,1,2,3,1,Innistrad,creature,dragon,Black,,,,,UNCOMMON
+396664,0,3,2,3,1,3,Kaldheim,creature,dwarf,Blue,Black,,,,COMMON
+396665,0,1,0,1,2,1,Strixhaven,equipment,Bottle,Green,White,,,,UNCOMMON
+396666,2,2,0,0,0,0,Innistrad,creature,human,Green,Blue,Red,,,COMMON
+396667,0,1,1,2,1,2,DnD,creature,human,Black,,,,,RARE
+396668,0,3,2,3,2,1,DnD,creature,zombie,Black,Green,,,,UNCOMMON
+396669,2,1,1,0,3,0,Kaldheim,equipment,Talisman,Green,White,,,,RARE
+396670,1,1,0,1,2,2,Kaldheim,creature,dragon,Black,Green,,,,RARE
+396671,1,3,1,3,1,0,Strixhaven,equipment,Ring,Black,Blue,Green,White,,MYTHIC RARE
+396672,2,0,0,1,1,1,Kamigawa,equipment,Talisman,White,Green,,,,UNCOMMON
+396673,1,0,0,0,1,1,Kamigawa,creature,elf,White,Blue,,,,COMMON
+396674,1,2,0,3,0,3,Kaldheim,creature,boar,White,Black,Blue,,,UNCOMMON
+396675,1,3,2,0,2,3,Strixhaven,equipment,Talisman,Red,Black,,,,UNCOMMON
+396676,2,1,2,2,0,1,Strixhaven,equipment,Boots,White,Black,Blue,,,UNCOMMON
+396677,3,1,2,1,1,2,DnD,equipment,Sword,Blue,Green,,,,RARE
+396678,1,1,3,3,1,3,DnD,equipment,Sword,Black,,,,,COMMON
+396679,3,2,1,2,1,0,Innistrad,equipment,Boots,White,Black,Green,,,UNCOMMON
+396680,3,3,3,3,2,0,Kaldheim,creature,zombie,Green,Red,Blue,White,,MYTHIC RARE
+396681,3,1,0,1,1,3,Kamigawa,creature,dragon,Black,Blue,White,,,UNCOMMON
+396682,0,1,3,0,0,1,Kaldheim,equipment,Talisman,Blue,Red,White,,,RARE
+396683,3,0,1,2,2,2,DnD,creature,boar,Red,Green,,,,COMMON
+396684,2,3,2,3,2,2,Kaldheim,creature,human,White,Blue,,,,RARE
+396685,2,3,3,0,2,3,Ravnica,equipment,Ring,Black,Green,White,,,MYTHIC RARE
+396686,3,2,0,3,0,3,DnD,creature,zombie,Green,Red,Blue,,,MYTHIC RARE
+396687,3,2,3,0,1,3,Innistrad,equipment,Talisman,Black,Green,White,Blue,,RARE
+396688,1,0,2,1,3,1,Strixhaven,creature,human,Red,Blue,Green,,,MYTHIC RARE
+396689,2,3,1,1,0,2,Kamigawa,equipment,Ring,Green,White,Black,,,COMMON
+396690,3,1,0,0,0,2,Kamigawa,creature,dwarf,Green,Blue,Black,,,MYTHIC RARE
+396691,3,1,0,1,1,3,Kamigawa,equipment,Bottle,White,Blue,Red,Green,,COMMON
+396692,2,3,1,3,1,2,Innistrad,equipment,Ring,White,Blue,,,,RARE
+396693,3,3,3,1,0,1,Kamigawa,creature,boar,Blue,Red,White,,,COMMON
+396694,0,3,3,1,1,3,Kamigawa,creature,boar,White,,,,,RARE
+396695,2,2,0,3,2,1,Innistrad,creature,elf,Red,White,,,,UNCOMMON
+396696,1,3,2,3,2,2,DnD,equipment,Talisman,Black,,,,,UNCOMMON
+396697,3,0,3,0,3,3,Kaldheim,creature,dwarf,Red,White,Green,,,UNCOMMON
+396698,2,1,3,1,0,2,Kamigawa,creature,dragon,Blue,White,,,,MYTHIC RARE
+396699,3,0,1,0,3,0,DnD,equipment,Ring,Red,Black,,,,COMMON
+396700,2,1,1,2,1,0,Strixhaven,equipment,Bottle,Green,,,,,MYTHIC RARE
+396701,3,3,3,2,1,1,Kamigawa,equipment,Sword,Blue,,,,,COMMON
+396702,3,3,1,0,0,0,Kamigawa,creature,elf,Black,Green,Blue,,,COMMON
+396703,2,0,1,0,3,3,Innistrad,creature,zombie,White,Blue,Red,,,MYTHIC RARE
+396704,0,0,3,2,0,1,Kamigawa,equipment,Bottle,Green,White,,,,COMMON
+396705,3,0,1,3,2,0,Kamigawa,creature,elf,Red,Black,Green,Blue,,MYTHIC RARE
+396706,0,1,3,1,0,1,Strixhaven,creature,dragon,White,Green,,,,COMMON
+396707,1,1,2,0,2,3,Strixhaven,equipment,Boots,White,Red,Black,Green,,UNCOMMON
+396708,3,2,2,1,0,2,Ravnica,creature,human,White,Red,Blue,,,UNCOMMON
+396709,2,2,3,2,0,0,Kaldheim,creature,elf,Red,,,,,COMMON
+396710,1,3,2,2,0,2,Kaldheim,creature,zombie,Red,,,,,MYTHIC RARE
+396711,2,3,3,2,1,3,Innistrad,creature,elf,White,Green,,,,RARE
+396712,3,3,1,0,3,1,DnD,equipment,Talisman,Black,Blue,,,,MYTHIC RARE
+396713,1,2,1,2,0,1,Innistrad,equipment,Ring,Blue,Red,White,,,MYTHIC RARE
+396714,1,0,1,3,0,0,Ravnica,creature,boar,Black,,,,,COMMON
+396715,0,2,1,1,0,2,Kaldheim,creature,dragon,Blue,Red,Green,White,,RARE
+396716,3,1,2,3,0,0,Strixhaven,equipment,Sword,Black,,,,,COMMON
+396717,1,2,2,2,1,3,Kaldheim,creature,boar,Black,White,,,,MYTHIC RARE
+396718,2,1,3,0,1,2,DnD,creature,dragon,Blue,Green,,,,UNCOMMON
+396719,2,3,0,1,3,2,Ravnica,equipment,Talisman,Green,White,Red,Blue,,RARE
+396720,3,3,2,0,3,1,Strixhaven,equipment,Ring,Black,Blue,,,,MYTHIC RARE
+396721,3,0,2,2,1,0,Ravnica,creature,dragon,Blue,Red,,,,UNCOMMON
+396722,3,1,0,3,3,3,Strixhaven,creature,dragon,Green,,,,,MYTHIC RARE
+396723,0,0,2,0,1,2,Kamigawa,creature,human,Red,,,,,RARE
+396724,3,2,2,2,3,1,Kaldheim,equipment,Bottle,Blue,Red,,,,COMMON
+396725,1,1,3,2,1,0,Ravnica,equipment,Sword,Red,Black,,,,COMMON
+396726,0,1,1,1,3,2,Ravnica,equipment,Ring,Red,,,,,MYTHIC RARE
+396727,0,2,2,3,1,1,Innistrad,creature,human,White,Black,,,,UNCOMMON
+396728,1,3,3,3,2,2,Kamigawa,creature,boar,Black,,,,,UNCOMMON
+396729,1,3,0,2,0,2,Innistrad,creature,zombie,Black,Red,Green,,,MYTHIC RARE
+396730,3,2,3,2,2,2,Strixhaven,creature,dwarf,Black,,,,,UNCOMMON
+396731,3,2,3,3,1,0,Kaldheim,equipment,Ring,Black,White,Green,,,COMMON
+396732,2,2,1,0,1,3,DnD,equipment,Boots,Red,Blue,,,,MYTHIC RARE
+396733,0,3,1,3,0,3,DnD,equipment,Talisman,Black,,,,,RARE
+396734,0,2,0,0,2,3,DnD,creature,dwarf,Red,White,,,,COMMON
+396735,0,0,3,1,3,2,DnD,equipment,Boots,Black,,,,,UNCOMMON
+396736,1,3,2,1,0,3,Strixhaven,creature,boar,Green,Red,Blue,,,RARE
+396737,0,1,3,3,3,2,Kaldheim,equipment,Ring,Black,Green,,,,UNCOMMON
+396738,1,3,0,3,0,0,Innistrad,equipment,Talisman,Black,,,,,UNCOMMON
+396739,2,0,1,3,1,1,Kaldheim,equipment,Talisman,White,Blue,Red,Black,,UNCOMMON
+396740,2,1,1,3,3,0,Innistrad,creature,human,Black,,,,,MYTHIC RARE
+396741,0,0,0,1,0,1,Kamigawa,equipment,Sword,Green,Black,,,,COMMON
+396742,3,0,3,1,2,1,Strixhaven,creature,zombie,White,,,,,COMMON
+396743,2,0,2,0,0,1,Kamigawa,equipment,Bottle,Green,Black,White,,,COMMON
+396744,2,0,0,2,0,0,Innistrad,equipment,Ring,Blue,White,,,,COMMON
+396745,2,3,1,0,2,3,Ravnica,creature,elf,Green,Black,White,Red,,RARE
+396746,0,2,1,0,3,0,Kamigawa,equipment,Boots,White,Red,Black,,,MYTHIC RARE
+396747,2,0,3,1,2,2,Ravnica,equipment,Boots,White,Black,,,,COMMON
+396748,3,1,1,1,2,2,Kaldheim,creature,boar,Black,White,Green,Red,,UNCOMMON
+396749,3,2,2,2,1,0,Kamigawa,equipment,Bottle,Green,Black,Blue,,,MYTHIC RARE
+396750,2,2,2,2,1,1,Kamigawa,equipment,Talisman,Blue,,,,,UNCOMMON
+396751,3,3,1,2,2,2,Kamigawa,creature,dwarf,Black,Blue,,,,COMMON
+396752,2,2,3,1,3,1,Innistrad,creature,human,White,Green,,,,UNCOMMON
+396753,3,3,0,0,3,3,DnD,equipment,Ring,Green,Black,Blue,,,MYTHIC RARE
+396754,2,0,2,0,1,2,Kaldheim,equipment,Boots,Red,,,,,UNCOMMON
+396755,0,3,0,2,3,1,Strixhaven,creature,zombie,White,Green,,,,RARE
+396756,2,2,0,1,3,3,Ravnica,equipment,Bottle,White,Red,Green,Black,,RARE
+396757,2,1,1,1,2,3,Kamigawa,creature,boar,Green,White,Black,,,MYTHIC RARE
+396758,1,0,3,3,0,2,Strixhaven,creature,boar,White,Blue,,,,UNCOMMON
+396759,0,1,2,1,3,1,DnD,creature,zombie,Green,Red,,,,RARE
+396760,3,3,2,0,3,0,Ravnica,creature,dragon,Green,Blue,,,,UNCOMMON
+396761,2,3,1,0,0,2,Kamigawa,creature,boar,Blue,Green,,,,MYTHIC RARE
+396762,3,3,0,3,3,3,DnD,creature,dragon,Black,,,,,UNCOMMON
+396763,0,3,1,1,2,3,Strixhaven,creature,zombie,Red,Black,Green,,,COMMON
+396764,1,1,1,1,0,3,Strixhaven,creature,zombie,Red,,,,,RARE
+396765,3,1,2,1,0,2,Ravnica,creature,dragon,Red,Black,,,,MYTHIC RARE
+396766,0,1,1,1,3,0,DnD,creature,dragon,Red,White,Blue,,,MYTHIC RARE
+396767,0,1,1,0,2,3,DnD,equipment,Bottle,Green,Blue,White,,,MYTHIC RARE
+396768,3,3,3,1,3,0,Strixhaven,equipment,Talisman,Blue,,,,,RARE
+396769,0,2,1,1,2,3,DnD,creature,elf,Red,Green,,,,UNCOMMON
+396770,2,2,0,1,0,0,Innistrad,equipment,Boots,Black,White,,,,RARE
+396771,3,2,0,2,1,1,DnD,creature,boar,Green,,,,,COMMON
+396772,1,0,2,0,2,3,Strixhaven,equipment,Sword,Black,Green,White,,,MYTHIC RARE
+396773,1,2,2,0,2,3,Kamigawa,creature,elf,Green,,,,,UNCOMMON
+396774,3,2,3,3,2,3,DnD,creature,dragon,Black,Green,White,Blue,,UNCOMMON
+396775,1,2,3,0,1,1,Kamigawa,creature,boar,Green,,,,,UNCOMMON
+396776,3,2,0,1,3,3,DnD,equipment,Boots,Blue,Red,,,,RARE
+396777,2,2,1,0,3,0,Ravnica,equipment,Sword,White,Green,,,,UNCOMMON
+396778,2,1,1,2,3,3,Ravnica,creature,human,White,Black,Green,,,COMMON
+396779,1,0,2,1,1,1,Kaldheim,creature,zombie,Black,,,,,UNCOMMON
+396780,0,0,2,2,2,2,Innistrad,creature,dragon,Red,,,,,UNCOMMON
+396781,3,2,0,1,0,0,Ravnica,creature,elf,White,Blue,Green,,,MYTHIC RARE
+396782,2,3,1,3,0,1,DnD,creature,dragon,White,Red,,,,RARE
+396783,1,2,0,0,1,0,Ravnica,equipment,Boots,White,Red,Blue,Green,Black,RARE
+396784,0,3,0,2,0,1,Strixhaven,equipment,Boots,Black,Green,Blue,,,MYTHIC RARE
+396785,1,2,0,3,2,0,Kamigawa,creature,dwarf,White,,,,,COMMON
+396786,3,1,3,3,3,3,Strixhaven,creature,boar,Black,,,,,COMMON
+396787,0,3,3,3,2,3,Kaldheim,equipment,Talisman,White,Green,,,,MYTHIC RARE
+396788,1,0,1,0,0,2,Kamigawa,creature,zombie,Green,Red,,,,UNCOMMON
+396789,2,0,1,1,1,3,Ravnica,creature,zombie,Green,,,,,RARE
+396790,3,0,0,2,3,2,DnD,equipment,Talisman,Black,Green,,,,COMMON
+396791,3,3,0,2,3,0,Strixhaven,creature,zombie,Blue,White,Red,,,COMMON
+396792,2,3,3,1,0,2,Ravnica,equipment,Boots,Red,Black,Blue,,,UNCOMMON
+396793,0,2,3,3,3,3,DnD,creature,human,Red,White,,,,COMMON
+396794,2,2,1,0,0,0,Ravnica,equipment,Talisman,Blue,Black,,,,MYTHIC RARE
+396795,3,0,3,1,0,3,DnD,creature,dragon,Blue,,,,,UNCOMMON
+396796,3,3,2,0,2,2,Ravnica,equipment,Sword,Black,Red,,,,RARE
+396797,3,0,0,1,0,0,Innistrad,equipment,Ring,Black,Green,,,,RARE
+396798,3,1,0,3,0,3,Innistrad,equipment,Boots,Black,Blue,Red,,,COMMON
+396799,3,0,1,2,0,1,Kamigawa,equipment,Sword,White,Green,Black,,,COMMON
+396800,1,3,1,2,2,3,Kamigawa,equipment,Talisman,Blue,Green,,,,MYTHIC RARE
+396801,3,0,3,1,3,0,Ravnica,creature,human,Red,Black,,,,UNCOMMON
+396802,0,2,2,2,3,0,Kaldheim,equipment,Talisman,Black,Blue,,,,MYTHIC RARE
+396803,1,2,1,3,0,3,Kaldheim,equipment,Bottle,Blue,,,,,COMMON
+396804,2,2,0,1,3,0,Innistrad,creature,boar,Red,Green,,,,RARE
+396805,2,1,0,2,2,0,Ravnica,equipment,Bottle,Red,White,Green,Blue,,MYTHIC RARE
+396806,3,3,0,2,2,1,DnD,equipment,Sword,White,Red,,,,COMMON
+396807,2,0,3,0,3,0,Strixhaven,equipment,Sword,Green,Red,,,,UNCOMMON
+396808,1,1,2,2,2,3,Kaldheim,creature,dragon,Black,,,,,UNCOMMON
+396809,0,1,1,2,2,3,Innistrad,creature,boar,Black,White,Blue,,,MYTHIC RARE
+396810,3,2,2,0,3,3,Kamigawa,creature,dwarf,Blue,Green,Red,White,,COMMON
+396811,2,3,1,0,3,0,Innistrad,creature,dragon,Blue,White,Green,,,COMMON
+396812,2,0,2,1,2,2,Ravnica,creature,zombie,Blue,,,,,RARE
+396813,2,1,1,2,1,1,Ravnica,equipment,Bottle,White,Red,Black,Green,,MYTHIC RARE
+396814,3,1,3,1,1,1,Kaldheim,equipment,Talisman,Black,,,,,RARE
+396815,1,2,3,1,3,1,Kamigawa,creature,dwarf,Black,Green,,,,UNCOMMON
+396816,1,1,3,0,1,0,DnD,equipment,Talisman,Blue,Green,Black,White,,COMMON
+396817,3,1,2,0,3,3,Ravnica,creature,dragon,White,Red,Blue,,,MYTHIC RARE
+396818,2,3,1,2,1,3,Ravnica,creature,dwarf,Blue,White,Green,Red,,MYTHIC RARE
+396819,0,3,1,2,1,2,Innistrad,equipment,Bottle,Green,Black,,,,UNCOMMON
+396820,3,3,3,3,2,1,Kamigawa,equipment,Ring,Green,,,,,UNCOMMON
+396821,2,3,0,2,0,0,Kamigawa,creature,dragon,White,Blue,Black,,,RARE
+396822,1,3,0,3,0,1,Strixhaven,equipment,Talisman,Black,,,,,COMMON
+396823,0,2,0,1,1,2,Ravnica,equipment,Talisman,Green,,,,,RARE
+396824,3,3,3,2,1,2,Strixhaven,creature,elf,Red,White,Black,Blue,,MYTHIC RARE
+396825,1,1,0,0,3,2,Innistrad,equipment,Ring,Red,Black,,,,COMMON
+396826,3,3,2,0,3,3,DnD,equipment,Bottle,Blue,Black,,,,RARE
+396827,0,0,0,0,2,3,Kaldheim,creature,human,Red,,,,,COMMON
+396828,2,1,2,1,1,2,Kaldheim,equipment,Bottle,Green,,,,,UNCOMMON
+396829,3,0,3,3,3,0,DnD,equipment,Ring,Blue,Black,Green,,,COMMON
+396830,2,1,1,0,2,3,Kamigawa,equipment,Ring,Black,Green,White,,,RARE
+396831,3,1,2,0,0,3,Ravnica,creature,elf,White,Blue,,,,COMMON
+396832,1,2,2,0,2,3,Strixhaven,creature,human,Green,Blue,White,,,MYTHIC RARE
+396833,2,0,0,3,2,3,Innistrad,creature,dragon,Black,Blue,Green,White,,UNCOMMON
+396834,1,2,3,0,3,2,DnD,creature,boar,Blue,Green,Red,,,UNCOMMON
+396835,2,1,2,2,0,0,Strixhaven,creature,elf,Green,White,Black,Red,,COMMON
+396836,3,1,2,0,2,2,Strixhaven,creature,elf,Blue,Black,Red,White,,MYTHIC RARE
+396837,0,3,2,2,3,3,Strixhaven,equipment,Boots,White,Green,Red,,,RARE
+396838,2,0,2,0,2,1,Kamigawa,creature,elf,Blue,Green,,,,UNCOMMON
+396839,2,3,0,3,2,0,Ravnica,creature,dragon,White,Black,Red,,,UNCOMMON
+396840,3,3,3,2,3,0,Kamigawa,creature,dwarf,Green,,,,,UNCOMMON
+396841,0,2,0,1,3,3,Kamigawa,equipment,Bottle,Blue,White,,,,RARE
+396842,3,0,0,2,3,0,DnD,equipment,Talisman,Black,Blue,,,,MYTHIC RARE
+396843,2,0,3,3,1,1,Ravnica,creature,dwarf,Black,White,,,,MYTHIC RARE
+396844,0,2,0,2,0,3,DnD,creature,dragon,Red,Green,White,,,UNCOMMON
+396845,0,3,3,1,2,1,Kamigawa,creature,dragon,White,Black,Blue,,,COMMON
+396846,3,1,1,3,0,1,Innistrad,equipment,Boots,Green,,,,,RARE
+396847,1,1,1,2,2,0,Ravnica,creature,human,White,Red,,,,RARE
+396848,1,2,0,2,3,1,Kamigawa,creature,dwarf,Red,Black,,,,MYTHIC RARE
+396849,0,1,0,2,2,3,Innistrad,creature,boar,Black,White,Blue,,,MYTHIC RARE
+396850,1,0,3,2,3,3,DnD,creature,zombie,Black,,,,,COMMON
+396851,2,1,0,1,3,2,Kaldheim,creature,dwarf,Red,,,,,MYTHIC RARE
+396852,0,3,0,0,1,2,Innistrad,creature,human,White,Green,Black,,,UNCOMMON
+396853,0,0,1,1,1,1,Ravnica,creature,dragon,Red,Black,Green,Blue,,COMMON
+396854,2,1,0,2,2,1,Innistrad,creature,boar,White,,,,,UNCOMMON
+396855,3,2,2,0,0,3,Innistrad,creature,elf,Black,Blue,,,,UNCOMMON
+396856,1,2,2,3,0,2,DnD,creature,human,Black,White,Green,,,MYTHIC RARE
+396857,0,0,0,0,2,0,Kamigawa,creature,dragon,Green,Red,White,Black,,RARE
+396858,1,3,2,0,2,2,Kaldheim,creature,dwarf,Red,Blue,White,,,COMMON
+396859,2,1,3,3,1,3,Kamigawa,equipment,Boots,Blue,Black,,,,RARE
+396860,2,0,2,1,1,2,Kamigawa,equipment,Sword,Green,Blue,Red,,,COMMON
+396861,2,3,0,1,1,1,Kaldheim,equipment,Bottle,Black,Green,,,,MYTHIC RARE
+396862,2,2,1,3,1,1,Strixhaven,creature,dwarf,Black,Red,Green,,,RARE
+396863,2,3,1,2,1,0,Strixhaven,creature,zombie,White,,,,,MYTHIC RARE
+396864,3,3,1,2,1,3,Kaldheim,creature,human,Black,,,,,RARE
+396865,3,2,3,3,3,0,Strixhaven,equipment,Bottle,White,Green,Black,,,UNCOMMON
+396866,1,1,1,0,0,1,Kaldheim,equipment,Boots,Green,Red,,,,UNCOMMON
+396867,3,1,2,2,1,2,Kaldheim,equipment,Boots,White,Black,Blue,,,MYTHIC RARE
+396868,3,2,0,1,2,1,Ravnica,equipment,Ring,White,,,,,RARE
+396869,2,0,3,3,1,2,Kamigawa,equipment,Ring,Blue,,,,,RARE
+396870,1,3,0,0,3,1,Kamigawa,creature,zombie,Red,,,,,UNCOMMON
+396871,1,1,0,3,0,0,Strixhaven,creature,dwarf,Blue,Green,White,,,COMMON
+396872,3,1,2,2,1,2,Strixhaven,creature,elf,White,Red,Black,,,COMMON
+396873,0,0,1,2,0,3,Kaldheim,creature,dragon,White,,,,,UNCOMMON
+396874,3,0,3,3,3,0,Strixhaven,creature,boar,White,,,,,COMMON
+396875,3,1,1,1,2,1,Innistrad,equipment,Sword,Green,,,,,UNCOMMON
+396876,3,1,2,1,2,0,Kamigawa,creature,human,Blue,Green,Black,,,UNCOMMON
+396877,0,3,1,1,1,1,Kamigawa,equipment,Ring,Red,White,Green,Black,,COMMON
+396878,2,3,1,1,2,1,Ravnica,creature,zombie,Blue,Black,,,,UNCOMMON
+396879,1,0,3,2,2,0,Kaldheim,equipment,Boots,Black,Red,,,,UNCOMMON
+396880,3,3,3,2,1,3,Kamigawa,creature,dragon,Green,,,,,RARE
+396881,2,3,1,2,2,1,Kaldheim,creature,dragon,Black,Green,Red,,,COMMON
+396882,0,2,2,1,0,3,Kaldheim,equipment,Sword,Black,,,,,MYTHIC RARE
+396883,0,2,1,2,1,3,Strixhaven,creature,dwarf,White,,,,,RARE
+396884,0,1,1,3,1,1,Ravnica,equipment,Boots,White,Green,Blue,,,MYTHIC RARE
+396885,2,0,0,3,1,1,Kaldheim,creature,human,Blue,White,Red,,,RARE
+396886,1,2,2,1,1,0,Ravnica,creature,boar,Green,Blue,Black,,,UNCOMMON
+396887,2,1,1,0,0,2,Ravnica,creature,elf,Blue,White,Red,,,UNCOMMON
+396888,0,0,3,0,1,1,Kaldheim,creature,boar,Red,Green,White,,,COMMON
+396889,3,0,1,2,1,0,Strixhaven,creature,elf,Red,White,Blue,,,RARE
+396890,3,1,0,2,0,0,Kamigawa,equipment,Bottle,Red,Blue,Black,Green,,COMMON
+396891,0,1,3,3,1,0,Strixhaven,creature,dragon,Black,White,Red,Blue,,UNCOMMON
+396892,1,1,2,0,0,1,Strixhaven,equipment,Ring,Green,Red,,,,UNCOMMON
+396893,2,0,3,2,3,0,DnD,equipment,Boots,Red,Green,Blue,,,MYTHIC RARE
+396894,3,3,3,1,3,0,Innistrad,creature,dragon,Red,,,,,COMMON
+396895,2,3,0,1,0,1,Ravnica,equipment,Boots,Black,Green,White,,,RARE
+396896,3,3,1,0,3,1,Kaldheim,creature,dragon,Black,White,,,,MYTHIC RARE
+396897,2,0,0,1,0,1,Ravnica,creature,boar,White,Green,Red,,,RARE
+396898,0,1,1,1,1,1,Innistrad,creature,boar,Black,Blue,,,,COMMON
+396899,0,1,2,1,3,2,Ravnica,equipment,Ring,White,Blue,,,,MYTHIC RARE
+396900,0,3,2,2,0,3,Kaldheim,equipment,Boots,Green,Red,White,,,COMMON
+396901,3,3,1,1,3,3,Ravnica,equipment,Boots,Blue,,,,,COMMON
+396902,0,0,2,1,2,3,Kaldheim,equipment,Bottle,Black,Red,Blue,,,UNCOMMON
+396903,3,3,0,1,3,3,Kaldheim,equipment,Sword,Blue,,,,,COMMON
+396904,2,1,0,0,0,1,Innistrad,creature,dragon,Blue,,,,,MYTHIC RARE
+396905,3,2,2,2,3,1,DnD,equipment,Boots,Green,Red,White,,,MYTHIC RARE
+396906,3,1,0,0,3,3,Innistrad,equipment,Bottle,Blue,,,,,COMMON
+396907,3,2,1,3,3,3,Strixhaven,equipment,Boots,Black,White,Red,,,UNCOMMON
+396908,1,3,1,2,3,1,DnD,equipment,Talisman,Blue,White,Red,Green,,MYTHIC RARE
+396909,3,1,1,0,1,1,Strixhaven,creature,dragon,White,Green,,,,COMMON
+396910,3,0,2,3,3,0,Ravnica,creature,human,White,Green,,,,MYTHIC RARE
+396911,1,1,1,3,3,2,Kaldheim,equipment,Boots,Green,White,Black,,,COMMON
+396912,2,2,3,3,0,0,Kamigawa,creature,zombie,Green,White,,,,COMMON
+396913,1,3,2,1,2,1,Ravnica,creature,dragon,White,Black,Red,,,COMMON
+396914,0,2,2,2,3,0,Kaldheim,equipment,Sword,Green,Black,,,,RARE
+396915,1,3,1,0,2,1,Strixhaven,creature,human,White,,,,,UNCOMMON
+396916,2,2,3,3,2,1,DnD,creature,elf,Blue,,,,,MYTHIC RARE
+396917,0,2,3,2,2,0,Strixhaven,creature,elf,Blue,,,,,MYTHIC RARE
+396918,2,2,2,0,1,1,Kamigawa,equipment,Sword,Blue,Green,,,,MYTHIC RARE
+396919,1,0,0,1,3,3,DnD,equipment,Bottle,Blue,,,,,MYTHIC RARE
+396920,2,1,1,3,3,2,Kamigawa,equipment,Bottle,Red,White,Black,Blue,,RARE
+396921,3,3,3,1,1,1,Kamigawa,creature,dragon,Red,,,,,UNCOMMON
+396922,3,1,3,3,0,2,Kaldheim,creature,zombie,Black,,,,,MYTHIC RARE
+396923,2,1,1,0,3,1,Ravnica,equipment,Sword,Red,Black,,,,MYTHIC RARE
+396924,0,1,0,3,0,2,Strixhaven,equipment,Boots,Blue,Red,Green,White,,MYTHIC RARE
+396925,2,0,1,1,2,0,Kaldheim,equipment,Talisman,Black,Green,Blue,Red,,MYTHIC RARE
+396926,2,0,0,0,3,1,Strixhaven,creature,dwarf,Blue,White,Green,,,UNCOMMON
+396927,3,1,3,3,0,0,Kamigawa,equipment,Bottle,Black,Blue,,,,COMMON
+396928,1,2,0,2,3,0,Ravnica,equipment,Ring,Black,,,,,COMMON
+396929,2,0,0,2,3,1,DnD,creature,zombie,Red,White,Black,,,COMMON
+396930,1,0,0,1,2,3,Strixhaven,equipment,Talisman,Black,White,Red,,,UNCOMMON
+396931,2,0,3,1,3,1,Kaldheim,creature,zombie,Green,,,,,RARE
+396932,0,2,0,1,1,3,Strixhaven,equipment,Bottle,Red,Black,,,,UNCOMMON
+396933,2,0,0,0,3,3,Kamigawa,equipment,Ring,White,Blue,Black,Red,,RARE
+396934,1,1,3,3,3,0,Strixhaven,equipment,Sword,Red,Green,White,,,UNCOMMON
+396935,1,2,2,1,3,2,Kamigawa,equipment,Sword,Blue,Red,Green,White,,RARE
+396936,2,2,2,1,1,2,Kaldheim,equipment,Ring,Black,,,,,RARE
+396937,0,1,3,3,2,0,Innistrad,equipment,Talisman,Blue,Black,Red,,,RARE
+396938,3,1,3,0,3,2,Innistrad,creature,dragon,Blue,,,,,RARE
+396939,0,0,2,2,1,0,Innistrad,creature,human,White,,,,,COMMON
+396940,0,3,2,1,2,1,DnD,creature,dragon,Blue,,,,,RARE
+396941,3,0,0,3,0,2,Strixhaven,creature,zombie,Red,,,,,RARE
+396942,0,2,0,3,0,2,Kamigawa,creature,dragon,White,Blue,,,,UNCOMMON
+396943,2,0,2,0,2,1,Ravnica,equipment,Ring,Blue,,,,,COMMON
+396944,1,0,0,3,0,3,Innistrad,creature,human,Green,,,,,UNCOMMON
+396945,3,0,0,3,2,2,Kaldheim,creature,dragon,Green,White,Black,,,COMMON
+396946,3,0,0,2,0,2,Innistrad,equipment,Talisman,Blue,Red,Green,,,MYTHIC RARE
+396947,3,2,2,0,3,0,Kamigawa,creature,dragon,White,Green,Blue,Red,,COMMON
+396948,3,3,2,2,3,1,Strixhaven,creature,boar,Black,Red,,,,RARE
+396949,2,0,0,3,0,0,Innistrad,creature,human,Red,,,,,RARE
+396950,3,3,0,3,0,0,Ravnica,equipment,Bottle,Green,Blue,Black,,,RARE
+396951,0,2,2,0,1,3,DnD,equipment,Bottle,Black,,,,,COMMON
+396952,3,1,3,1,1,1,Kamigawa,equipment,Talisman,Black,Blue,Green,,,RARE
+396953,1,1,0,2,1,0,Kamigawa,equipment,Sword,Green,White,Black,,,COMMON
+396954,0,2,2,0,0,2,Kaldheim,creature,human,Black,Green,White,,,RARE
+396955,0,2,2,1,2,2,Kamigawa,equipment,Boots,Red,Green,Blue,,,UNCOMMON
+396956,3,0,2,0,0,2,Kaldheim,creature,boar,Green,White,Red,,,MYTHIC RARE
+396957,2,0,0,0,2,0,Ravnica,equipment,Boots,Red,Blue,Black,,,UNCOMMON
+396958,0,2,3,1,2,0,Strixhaven,creature,dwarf,White,Blue,Black,Green,,MYTHIC RARE
+396959,1,0,2,0,0,3,Ravnica,equipment,Bottle,Blue,Black,Green,Red,,MYTHIC RARE
+396960,3,0,0,2,1,3,Kaldheim,equipment,Ring,Red,,,,,UNCOMMON
+396961,2,1,3,2,2,1,Ravnica,equipment,Sword,White,,,,,MYTHIC RARE
+396962,0,1,2,1,0,2,Strixhaven,equipment,Boots,Blue,White,Green,,,COMMON
+396963,1,2,2,1,2,1,Ravnica,equipment,Bottle,Red,Green,,,,RARE
+396964,1,3,3,0,3,0,Kamigawa,creature,zombie,Black,Green,Red,,,UNCOMMON
+396965,0,3,1,2,2,1,Innistrad,creature,boar,Black,,,,,MYTHIC RARE
+396966,1,1,0,1,2,2,Strixhaven,equipment,Bottle,Red,Green,,,,MYTHIC RARE
+396967,3,0,0,2,1,0,Kaldheim,creature,boar,Blue,Red,White,,,MYTHIC RARE
+396968,0,3,3,3,3,2,Kamigawa,creature,dragon,Blue,White,Green,,,MYTHIC RARE
+396969,3,1,0,1,3,3,Kaldheim,equipment,Sword,Blue,White,,,,COMMON
+396970,1,1,0,1,0,0,Kamigawa,creature,boar,White,,,,,MYTHIC RARE
+396971,1,3,1,0,2,2,Innistrad,equipment,Ring,Blue,,,,,UNCOMMON
+396972,1,2,3,1,0,0,Strixhaven,creature,zombie,Blue,Green,,,,UNCOMMON
+396973,0,1,0,1,0,0,Ravnica,equipment,Sword,Black,,,,,UNCOMMON
+396974,3,1,3,0,2,2,Innistrad,equipment,Ring,Blue,Red,Green,,,COMMON
+396975,0,3,1,3,2,2,Ravnica,creature,elf,White,Black,Red,Blue,,UNCOMMON
+396976,1,3,0,1,3,1,DnD,equipment,Bottle,Blue,Red,Black,,,MYTHIC RARE
+396977,0,0,1,3,1,0,Kamigawa,creature,elf,White,,,,,COMMON
+396978,2,0,2,3,3,2,Kamigawa,creature,zombie,White,Red,Green,,,MYTHIC RARE
+396979,3,1,3,3,0,3,Strixhaven,creature,human,Black,Red,,,,RARE
+396980,1,0,2,3,1,1,Strixhaven,creature,dragon,White,Black,Red,,,UNCOMMON
+396981,0,1,3,3,3,0,Innistrad,creature,human,Blue,Red,White,,,UNCOMMON
+396982,3,1,1,2,1,1,Ravnica,equipment,Ring,Green,Red,,,,RARE
+396983,0,2,2,1,2,3,Innistrad,equipment,Bottle,Black,Blue,Green,Red,,COMMON
+396984,2,1,1,2,2,3,DnD,creature,human,Green,Red,,,,MYTHIC RARE
+396985,3,1,3,3,1,3,Strixhaven,equipment,Talisman,Blue,Green,,,,COMMON
+396986,1,3,1,2,2,1,Ravnica,equipment,Bottle,Blue,,,,,UNCOMMON
+396987,2,2,0,3,2,0,Innistrad,equipment,Talisman,Black,,,,,MYTHIC RARE
+396988,1,2,0,2,1,3,Ravnica,equipment,Ring,Red,Black,,,,MYTHIC RARE
+396989,0,3,0,2,0,3,Strixhaven,equipment,Talisman,Black,Blue,White,Red,,COMMON
+396990,3,2,0,3,2,0,Strixhaven,creature,human,Red,White,,,,MYTHIC RARE
+396991,1,3,1,0,1,1,Strixhaven,equipment,Bottle,Black,Green,White,Red,,RARE
+396992,2,1,0,0,1,1,Strixhaven,creature,dragon,White,Blue,,,,UNCOMMON
+396993,2,3,3,3,2,0,Ravnica,creature,elf,Blue,,,,,MYTHIC RARE
+396994,3,1,2,0,3,0,Innistrad,creature,elf,Black,,,,,COMMON
+396995,1,3,2,3,1,1,Kamigawa,creature,elf,Green,Blue,White,,,MYTHIC RARE
+396996,0,2,3,1,2,0,Innistrad,equipment,Talisman,Black,,,,,COMMON
+396997,0,2,2,2,3,0,Ravnica,creature,dragon,Green,Black,,,,COMMON
+396998,1,1,1,1,2,3,Innistrad,equipment,Ring,White,,,,,MYTHIC RARE
+396999,0,3,3,2,2,0,Innistrad,creature,human,Black,,,,,MYTHIC RARE
+397000,2,3,1,1,3,1,Innistrad,creature,human,Red,,,,,UNCOMMON
+397001,0,1,2,0,3,2,Strixhaven,equipment,Boots,Black,Red,,,,COMMON
+397002,0,3,0,0,3,2,Kaldheim,equipment,Bottle,Black,Blue,Green,,,MYTHIC RARE
+397003,3,0,0,2,2,2,Strixhaven,creature,dragon,Black,Red,,,,COMMON
+397004,2,1,2,0,2,0,Strixhaven,equipment,Boots,Green,Blue,,,,COMMON
+397005,1,1,1,0,2,1,Innistrad,equipment,Ring,Red,Green,Blue,,,COMMON
+397006,0,2,1,3,0,2,Strixhaven,equipment,Bottle,Green,Red,White,,,RARE
+397007,2,2,3,1,2,1,Kaldheim,equipment,Ring,Black,Red,,,,COMMON
+397008,0,1,2,0,2,0,Innistrad,creature,boar,Blue,Red,Black,,,MYTHIC RARE
+397009,2,0,2,0,2,0,Innistrad,creature,dwarf,White,Green,,,,UNCOMMON
+397010,1,2,2,0,2,2,Strixhaven,equipment,Talisman,Blue,Black,Green,White,Red,UNCOMMON
+397011,3,0,2,1,3,0,DnD,creature,dragon,Black,Green,White,,,COMMON
+397012,2,1,2,3,2,3,Kaldheim,equipment,Ring,Red,,,,,UNCOMMON
+397013,3,2,2,3,3,3,Kaldheim,equipment,Sword,Blue,,,,,MYTHIC RARE
+397014,2,0,0,1,3,1,Innistrad,equipment,Boots,White,Green,Red,,,RARE
+397015,2,1,0,2,0,3,Ravnica,equipment,Bottle,Blue,,,,,UNCOMMON
+397016,0,2,1,2,1,1,DnD,creature,human,Blue,,,,,COMMON
+397017,0,1,2,2,1,3,DnD,equipment,Sword,Black,Red,Blue,,,MYTHIC RARE
+397018,3,2,3,1,2,2,Innistrad,creature,boar,Blue,,,,,RARE
+397019,1,0,0,1,3,0,Kaldheim,equipment,Talisman,White,Red,Green,Blue,,MYTHIC RARE
+397020,0,0,3,3,0,2,DnD,creature,zombie,Red,Black,Green,,,RARE
+397021,1,2,1,1,3,0,Kaldheim,creature,dragon,White,Black,,,,RARE
+397022,1,2,0,0,3,2,DnD,creature,human,Red,Green,,,,RARE
+397023,2,2,1,3,1,0,Strixhaven,equipment,Ring,White,Blue,,,,RARE
+397024,0,2,1,0,3,1,Kamigawa,creature,dragon,Green,Black,,,,COMMON
+397025,2,1,0,0,3,0,Strixhaven,creature,dragon,Blue,,,,,RARE
+397026,1,0,3,1,1,2,Strixhaven,creature,zombie,Red,Green,,,,MYTHIC RARE
+397027,1,3,3,3,3,2,DnD,equipment,Bottle,Red,Green,White,,,UNCOMMON
+397028,0,0,2,2,0,2,Kaldheim,equipment,Sword,White,,,,,MYTHIC RARE
+397029,1,0,0,3,1,0,Innistrad,equipment,Ring,Blue,White,Green,Red,,COMMON
+397030,0,3,0,2,3,0,Strixhaven,creature,zombie,White,Green,,,,COMMON
+397031,1,2,1,0,3,3,Strixhaven,creature,elf,Blue,Red,Black,,,RARE
+397032,2,2,2,1,3,2,Kaldheim,equipment,Boots,Blue,Green,,,,MYTHIC RARE
+397033,0,2,3,0,1,0,Kamigawa,equipment,Bottle,White,Black,Green,,,RARE
+397034,3,0,0,0,2,1,DnD,creature,dragon,White,Green,Red,,,RARE
+397035,1,0,0,0,2,2,DnD,creature,dragon,Red,White,,,,COMMON
+397036,3,3,1,3,1,1,Strixhaven,equipment,Sword,Blue,White,Black,,,MYTHIC RARE
+397037,2,1,0,1,3,2,DnD,creature,boar,Black,Blue,,,,COMMON
+397038,0,1,1,3,1,3,Kaldheim,creature,boar,White,Blue,,,,COMMON
+397039,1,2,2,3,2,1,Kamigawa,creature,dragon,Blue,Black,Red,,,UNCOMMON
+397040,3,1,3,3,2,1,DnD,creature,dwarf,Red,White,Blue,,,COMMON
+397041,1,2,2,2,3,2,DnD,equipment,Talisman,Green,White,Black,,,COMMON
+397042,0,2,1,2,0,1,Kamigawa,creature,boar,Blue,Black,White,Green,,UNCOMMON
+397043,2,3,0,0,0,2,DnD,equipment,Sword,Green,Red,White,Blue,,COMMON
+397044,0,1,2,3,1,1,DnD,creature,dragon,Red,White,Blue,,,UNCOMMON
+397045,1,1,2,1,3,2,Kaldheim,creature,boar,Blue,,,,,MYTHIC RARE
+397046,2,0,1,3,0,0,Kamigawa,equipment,Sword,Black,Blue,Green,Red,,COMMON
+397047,2,3,3,3,0,0,Strixhaven,equipment,Boots,Green,White,,,,MYTHIC RARE
+397048,3,0,3,3,0,3,DnD,equipment,Ring,White,,,,,MYTHIC RARE
+397049,1,2,1,2,1,3,Kamigawa,equipment,Bottle,White,Green,Blue,,,RARE
+397050,2,1,3,0,1,0,Ravnica,creature,dragon,Green,White,,,,MYTHIC RARE
+397051,0,2,1,3,3,1,Kaldheim,creature,elf,Black,Red,Blue,Green,,RARE
+397052,3,3,2,1,3,3,Kaldheim,equipment,Ring,Red,Blue,Green,,,UNCOMMON
+397053,0,2,3,1,3,3,Innistrad,equipment,Boots,White,Red,,,,RARE
+397054,1,2,1,0,3,0,Ravnica,creature,zombie,Red,White,Black,Blue,,COMMON
+397055,0,1,0,0,2,0,Strixhaven,equipment,Bottle,Red,White,Black,Blue,,MYTHIC RARE
+397056,2,2,0,2,1,3,Innistrad,equipment,Bottle,Green,White,Blue,,,MYTHIC RARE
+397057,0,1,1,1,3,0,Innistrad,creature,dwarf,White,Green,Red,,,MYTHIC RARE
+397058,2,3,1,3,1,1,Innistrad,equipment,Ring,Black,,,,,UNCOMMON
+397059,3,1,1,1,2,3,Kaldheim,creature,dragon,Blue,White,,,,UNCOMMON
+397060,1,2,0,0,0,1,Innistrad,creature,dragon,Black,Blue,,,,UNCOMMON
+397061,2,1,3,2,1,3,DnD,equipment,Sword,Green,Black,,,,RARE
+397062,0,0,1,0,2,1,Kaldheim,equipment,Boots,Black,,,,,COMMON
+397063,1,1,3,2,1,3,Strixhaven,equipment,Boots,Green,Red,Black,,,UNCOMMON
+397064,3,3,1,0,2,0,DnD,creature,human,Blue,Green,,,,RARE
+397065,0,1,2,1,2,0,Strixhaven,creature,zombie,Blue,White,Black,,,RARE
+397066,3,1,3,0,3,2,Ravnica,creature,human,Green,White,,,,UNCOMMON
+397067,1,3,1,3,2,1,Innistrad,creature,boar,Green,Red,,,,UNCOMMON
+397068,3,3,0,1,2,3,DnD,creature,human,Green,,,,,COMMON
+397069,0,2,3,1,3,3,Kaldheim,creature,boar,White,Black,,,,RARE
+397070,2,0,0,1,0,0,Kaldheim,creature,boar,Blue,,,,,RARE
+397071,3,2,3,0,3,3,Strixhaven,equipment,Talisman,White,,,,,MYTHIC RARE
+397072,1,3,3,1,1,0,Innistrad,equipment,Boots,Red,Green,,,,RARE
+397073,2,1,3,3,0,1,Ravnica,creature,dragon,Black,,,,,MYTHIC RARE
+397074,0,2,0,0,3,2,DnD,equipment,Bottle,White,Blue,,,,MYTHIC RARE
+397075,3,0,2,0,2,0,Strixhaven,equipment,Sword,Blue,Green,,,,RARE
+397076,1,2,2,3,1,3,Kaldheim,equipment,Talisman,Red,,,,,UNCOMMON
+397077,2,0,0,2,1,2,Strixhaven,creature,dragon,White,Green,Black,,,UNCOMMON
+397078,0,1,2,0,1,3,Strixhaven,equipment,Boots,White,Green,Black,,,RARE
+397079,3,0,1,0,1,2,Innistrad,equipment,Talisman,Black,Green,,,,COMMON
+397080,0,3,1,1,2,3,Kamigawa,equipment,Boots,Black,Green,Red,,,MYTHIC RARE
+397081,1,2,3,2,0,2,Kaldheim,equipment,Bottle,Green,Red,,,,UNCOMMON
+397082,0,3,3,2,0,0,DnD,equipment,Boots,Blue,Red,,,,COMMON
+397083,0,1,2,2,2,1,Kamigawa,equipment,Boots,Red,,,,,MYTHIC RARE
+397084,1,1,1,1,1,3,DnD,equipment,Boots,Green,Red,,,,RARE
+397085,3,2,0,0,1,2,Strixhaven,creature,human,Blue,Red,Black,,,MYTHIC RARE
+397086,2,2,1,1,1,2,DnD,creature,dragon,Blue,Red,,,,COMMON
+397087,0,3,2,2,2,1,Kamigawa,creature,dwarf,Red,Blue,,,,COMMON
+397088,0,3,2,0,3,3,DnD,equipment,Ring,Red,Blue,,,,UNCOMMON
+397089,0,2,2,0,3,3,Kaldheim,equipment,Boots,White,Black,,,,COMMON
+397090,2,3,1,1,2,1,Kaldheim,equipment,Talisman,White,Black,Red,,,UNCOMMON
+397091,0,2,3,2,1,3,DnD,equipment,Talisman,Blue,Red,,,,MYTHIC RARE
+397092,2,1,3,2,1,1,Innistrad,creature,dwarf,Black,,,,,MYTHIC RARE
+397093,1,3,2,2,2,0,Kaldheim,creature,elf,Green,,,,,COMMON
+397094,3,3,1,3,2,1,Kamigawa,creature,dwarf,Blue,Red,,,,UNCOMMON
+397095,3,1,1,1,2,3,Kaldheim,equipment,Ring,Red,Blue,White,,,COMMON
+397096,0,1,2,3,0,0,Innistrad,creature,dwarf,White,Red,Blue,,,RARE
+397097,3,0,3,1,2,1,Ravnica,creature,boar,Red,Blue,Black,,,COMMON
+397098,0,2,1,1,2,3,Strixhaven,creature,dragon,Blue,White,,,,RARE
+397099,2,1,0,1,2,2,Strixhaven,creature,dragon,Blue,Black,,,,MYTHIC RARE
+397100,2,2,1,2,3,2,Kaldheim,creature,zombie,Green,,,,,UNCOMMON
+397101,2,3,2,1,0,3,Kamigawa,creature,boar,Red,Green,Black,,,MYTHIC RARE
+397102,1,2,1,3,0,1,Kaldheim,creature,dwarf,Blue,Green,,,,UNCOMMON
+397103,2,2,1,3,0,1,Kaldheim,equipment,Ring,Red,Black,Green,,,COMMON
+397104,2,0,3,2,1,3,Strixhaven,equipment,Ring,Black,White,Green,Red,Blue,RARE
+397105,1,3,3,1,1,1,Ravnica,creature,dwarf,Red,,,,,MYTHIC RARE
+397106,2,3,1,0,2,1,Ravnica,creature,zombie,Red,White,Blue,,,UNCOMMON
+397107,2,2,3,3,3,1,Kamigawa,creature,dragon,Black,Blue,Green,,,MYTHIC RARE
+397108,0,2,1,2,1,2,Kaldheim,equipment,Sword,Green,Red,,,,RARE
+397109,0,0,1,1,3,1,Kaldheim,creature,boar,Green,White,,,,UNCOMMON
+397110,1,0,3,3,3,1,Ravnica,equipment,Ring,Blue,Red,Black,,,COMMON
+397111,2,1,2,0,1,0,DnD,equipment,Boots,White,,,,,RARE
+397112,2,1,1,0,0,1,Kaldheim,equipment,Talisman,Green,Blue,,,,COMMON
+397113,1,1,0,0,0,1,DnD,equipment,Boots,Blue,Black,White,,,UNCOMMON
+397114,2,3,1,1,3,0,Kamigawa,equipment,Ring,Black,White,,,,COMMON
+397115,2,1,0,0,2,2,Kaldheim,creature,boar,Red,,,,,UNCOMMON
+397116,3,2,0,3,0,3,Kaldheim,equipment,Boots,Blue,,,,,UNCOMMON
+397117,1,1,3,2,1,2,Kaldheim,creature,boar,White,,,,,UNCOMMON
+397118,2,0,2,3,1,3,Innistrad,equipment,Boots,Black,,,,,COMMON
+397119,3,2,0,2,3,3,Kamigawa,creature,boar,Green,Black,White,,,RARE
+397120,1,3,2,0,1,2,Kamigawa,creature,dwarf,Red,Black,White,,,UNCOMMON
+397121,3,3,2,0,3,3,DnD,creature,dwarf,White,Black,Blue,,,MYTHIC RARE
+397122,1,0,2,3,3,3,Kamigawa,creature,elf,Green,Blue,,,,COMMON
+397123,0,0,0,3,1,3,Innistrad,creature,elf,Green,,,,,UNCOMMON
+397124,0,1,3,2,0,0,Kamigawa,creature,dragon,Black,Green,White,,,COMMON
+397125,0,0,3,1,2,3,Ravnica,creature,zombie,Green,Red,,,,UNCOMMON
+397126,2,0,3,2,3,3,Kamigawa,creature,elf,Green,White,Black,Blue,,RARE
+397127,3,1,3,0,3,3,Kaldheim,equipment,Talisman,White,Blue,Red,,,UNCOMMON
+397128,0,2,1,1,3,0,Strixhaven,creature,boar,Blue,,,,,MYTHIC RARE
+397129,1,1,3,3,2,1,Strixhaven,creature,dwarf,Red,Green,Blue,,,COMMON
+397130,3,0,0,3,3,2,Kaldheim,equipment,Bottle,Red,Green,Blue,,,MYTHIC RARE
+397131,1,0,2,2,3,1,Ravnica,creature,elf,Black,,,,,MYTHIC RARE
+397132,2,2,2,2,0,3,Kaldheim,equipment,Sword,Red,Green,,,,UNCOMMON
+397133,2,2,1,1,1,1,Ravnica,equipment,Sword,White,,,,,RARE
+397134,2,3,0,3,0,2,Strixhaven,equipment,Boots,Blue,White,,,,COMMON
+397135,2,2,2,3,0,0,Strixhaven,creature,boar,Green,,,,,RARE
+397136,0,2,1,1,1,2,Kamigawa,equipment,Sword,Blue,,,,,UNCOMMON
+397137,2,1,1,0,1,0,Strixhaven,creature,boar,Green,White,,,,MYTHIC RARE
+397138,0,0,2,0,1,2,Ravnica,equipment,Sword,Black,White,,,,UNCOMMON
+397139,2,3,3,0,2,3,Ravnica,equipment,Ring,Green,,,,,MYTHIC RARE
+397140,3,2,3,1,3,2,Kamigawa,creature,human,Black,Red,,,,COMMON
+397141,2,2,3,0,2,2,Kamigawa,creature,zombie,White,Blue,,,,COMMON
+397142,0,2,1,1,2,2,Ravnica,creature,human,Blue,,,,,MYTHIC RARE
+397143,1,2,0,3,1,3,Innistrad,equipment,Boots,Blue,,,,,COMMON
+397144,0,3,0,2,1,2,DnD,creature,zombie,Green,Black,,,,COMMON
+397145,3,1,1,0,0,0,Ravnica,creature,dwarf,Blue,,,,,MYTHIC RARE
+397146,0,3,1,0,0,0,Kaldheim,creature,zombie,White,,,,,UNCOMMON
+397147,3,0,0,2,3,3,Innistrad,creature,dragon,Blue,Green,,,,UNCOMMON
+397148,0,0,1,1,2,0,Strixhaven,creature,boar,Blue,Black,,,,COMMON
+397149,3,0,1,2,1,1,DnD,creature,elf,Black,White,,,,COMMON
+397150,3,0,1,3,3,0,Strixhaven,creature,dragon,White,,,,,UNCOMMON
+397151,0,3,0,2,1,0,Ravnica,creature,elf,Blue,Green,,,,UNCOMMON
+397152,0,0,2,2,3,3,Strixhaven,equipment,Talisman,White,Black,Green,,,MYTHIC RARE
+397153,0,3,0,1,2,2,Strixhaven,creature,zombie,Green,White,,,,MYTHIC RARE
+397154,0,1,3,1,3,1,Strixhaven,creature,dwarf,Blue,Black,White,,,COMMON
+397155,1,2,1,1,0,0,Kamigawa,equipment,Sword,Green,,,,,COMMON
+397156,3,0,3,1,2,2,Ravnica,creature,zombie,Red,Black,Green,Blue,,MYTHIC RARE
+397157,2,3,0,0,2,0,Innistrad,equipment,Talisman,Red,White,,,,RARE
+397158,0,2,0,3,3,3,Kaldheim,equipment,Sword,Black,Red,,,,RARE
+397159,1,3,2,1,3,1,DnD,creature,human,White,,,,,UNCOMMON
+397160,2,2,0,0,0,1,Strixhaven,creature,boar,White,Blue,Green,,,UNCOMMON
+397161,2,1,0,2,0,2,Strixhaven,creature,dragon,Green,Blue,,,,MYTHIC RARE
+397162,3,1,0,1,1,0,Strixhaven,creature,dwarf,Red,Blue,White,,,UNCOMMON
+397163,0,2,0,0,0,0,DnD,equipment,Ring,Black,,,,,UNCOMMON
+397164,3,1,0,3,3,1,Strixhaven,creature,dragon,White,Green,,,,RARE
+397165,0,1,0,1,0,3,Innistrad,equipment,Ring,Blue,White,Black,Red,Green,COMMON
+397166,0,3,2,2,1,3,DnD,creature,dragon,Green,White,,,,RARE
+397167,2,1,1,1,2,0,Innistrad,equipment,Sword,Red,Black,,,,COMMON
+397168,2,0,3,1,3,0,Strixhaven,creature,elf,Red,White,,,,RARE
+397169,1,3,3,2,3,3,Kaldheim,creature,human,Blue,Green,Red,,,COMMON
+397170,2,0,1,3,0,0,Kaldheim,equipment,Ring,White,Green,Blue,,,RARE
+397171,3,1,3,3,3,0,Kamigawa,equipment,Boots,Black,,,,,RARE
+397172,0,2,1,3,3,0,Kamigawa,creature,elf,Blue,Black,Red,,,COMMON
+397173,3,1,0,3,0,0,Innistrad,equipment,Sword,Black,White,,,,MYTHIC RARE
+397174,0,1,2,0,1,3,Innistrad,equipment,Sword,Blue,Black,,,,RARE
+397175,0,0,0,0,1,1,Ravnica,creature,human,Green,Blue,,,,RARE
+397176,1,2,0,2,2,0,Ravnica,equipment,Sword,Blue,,,,,COMMON
+397177,2,2,2,1,2,2,Strixhaven,creature,dwarf,Red,Black,White,,,COMMON
+397178,3,0,2,0,1,3,Innistrad,equipment,Ring,Red,Green,,,,RARE
+397179,3,3,2,0,2,2,Strixhaven,creature,elf,Green,Black,Blue,,,UNCOMMON
+397180,0,2,0,0,2,0,DnD,creature,elf,Blue,Black,Red,,,RARE
+397181,1,0,0,0,0,0,Innistrad,equipment,Bottle,Green,,,,,MYTHIC RARE
+397182,2,3,0,2,3,2,DnD,creature,elf,Green,Red,Black,White,,COMMON
+397183,2,1,0,3,0,1,DnD,equipment,Talisman,White,,,,,COMMON
+397184,2,1,2,1,1,0,Ravnica,equipment,Ring,Blue,Black,,,,COMMON
+397185,1,0,1,3,1,1,DnD,creature,dragon,Green,Blue,,,,RARE
+397186,0,1,0,3,0,3,Kamigawa,equipment,Boots,White,Red,,,,RARE
+397187,1,2,0,1,3,3,Kamigawa,equipment,Boots,Green,Black,,,,RARE
+397188,1,2,1,1,3,1,Kaldheim,equipment,Sword,Green,Black,,,,COMMON
+397189,1,3,3,0,2,2,Innistrad,equipment,Talisman,White,,,,,UNCOMMON
+397190,0,1,2,1,3,1,Ravnica,equipment,Talisman,White,Green,,,,RARE
+397191,1,1,3,3,1,1,Innistrad,creature,dragon,Black,Blue,Green,,,UNCOMMON
+397192,3,0,0,3,1,2,Innistrad,equipment,Bottle,Green,Black,Red,,,MYTHIC RARE
+397193,0,1,3,2,1,2,Ravnica,equipment,Boots,Black,Green,,,,UNCOMMON
+397194,3,1,3,3,2,3,Ravnica,equipment,Bottle,White,,,,,UNCOMMON
+397195,1,0,3,1,2,1,Strixhaven,equipment,Bottle,Red,Green,Blue,White,,COMMON
+397196,2,2,1,3,1,0,Kamigawa,creature,dragon,Red,,,,,UNCOMMON
+397197,0,0,1,0,3,0,DnD,creature,dwarf,Green,Blue,Red,,,UNCOMMON
+397198,1,3,3,0,3,1,Innistrad,creature,boar,Blue,White,Red,,,COMMON
+397199,2,2,1,2,3,1,DnD,equipment,Bottle,Red,,,,,MYTHIC RARE
+397200,1,3,0,3,0,3,Kamigawa,equipment,Boots,White,,,,,MYTHIC RARE
+397201,3,3,0,2,0,0,Kamigawa,creature,human,Black,,,,,MYTHIC RARE
+397202,2,2,0,3,0,0,Kamigawa,creature,boar,Green,Red,Black,,,UNCOMMON
+397203,1,3,1,2,0,0,Kaldheim,creature,elf,Red,,,,,UNCOMMON
+397204,3,3,2,2,1,2,Kaldheim,creature,zombie,Black,Green,,,,MYTHIC RARE
+397205,2,3,2,0,3,1,DnD,equipment,Boots,Blue,,,,,MYTHIC RARE
+397206,0,0,3,1,1,3,Kamigawa,equipment,Sword,Blue,White,,,,RARE
+397207,0,3,2,0,3,2,Kaldheim,creature,boar,Red,White,Blue,,,COMMON
+397208,0,2,1,2,0,0,Strixhaven,equipment,Talisman,White,,,,,COMMON
+397209,3,1,1,1,2,2,Kaldheim,creature,zombie,Green,Black,White,,,COMMON
+397210,0,2,3,3,0,3,Ravnica,equipment,Ring,White,Green,,,,UNCOMMON
+397211,0,2,1,0,3,3,DnD,creature,elf,Black,Blue,,,,RARE
+397212,1,3,3,2,1,1,Kaldheim,creature,elf,White,Black,,,,MYTHIC RARE
+397213,3,0,2,1,0,0,DnD,equipment,Boots,White,Red,,,,COMMON
+397214,2,1,1,1,3,1,DnD,creature,dwarf,Green,White,,,,UNCOMMON
+397215,2,3,3,2,2,3,Kamigawa,creature,dragon,Black,Blue,Red,,,COMMON
+397216,0,1,1,2,1,0,Kamigawa,equipment,Ring,Red,White,,,,COMMON
+397217,3,2,2,3,2,3,Strixhaven,creature,dwarf,Blue,,,,,UNCOMMON
+397218,2,0,3,0,3,1,Ravnica,creature,zombie,Green,Black,Red,,,MYTHIC RARE
+397219,2,3,1,2,2,0,Ravnica,equipment,Bottle,Blue,Red,White,,,COMMON
+397220,1,2,2,2,2,2,Strixhaven,creature,human,Black,Red,White,Green,,COMMON
+397221,1,2,2,3,1,1,DnD,equipment,Ring,Blue,Green,Black,,,RARE
+397222,0,1,1,1,3,2,Ravnica,equipment,Boots,Red,,,,,RARE
+397223,0,0,3,1,3,3,Strixhaven,creature,elf,Blue,Black,,,,UNCOMMON
+397224,3,1,3,0,1,3,DnD,creature,zombie,Blue,,,,,UNCOMMON
+397225,3,2,0,1,2,0,Strixhaven,equipment,Bottle,Black,Red,,,,UNCOMMON
+397226,0,2,3,3,0,2,Strixhaven,creature,elf,Green,Blue,,,,RARE
+397227,0,0,1,0,0,3,Innistrad,equipment,Bottle,Blue,,,,,MYTHIC RARE
+397228,2,2,3,3,0,1,Kamigawa,equipment,Ring,Blue,Green,,,,RARE
+397229,2,2,1,1,2,3,Kamigawa,creature,dwarf,Blue,Red,,,,MYTHIC RARE
+397230,1,1,0,3,0,3,Kamigawa,equipment,Sword,Black,Red,Blue,Green,,COMMON
+397231,0,1,3,1,1,2,Kamigawa,equipment,Talisman,White,Green,,,,RARE
+397232,1,1,2,0,1,2,Kamigawa,creature,zombie,Red,Blue,Green,,,UNCOMMON
+397233,1,2,2,0,2,2,Kaldheim,creature,elf,Blue,Black,,,,RARE
+397234,3,3,2,1,3,2,Kamigawa,creature,boar,Red,Green,,,,MYTHIC RARE
+397235,0,0,2,3,0,3,Strixhaven,equipment,Bottle,White,Blue,Green,,,UNCOMMON
+397236,3,1,2,3,2,0,Innistrad,creature,dragon,White,Red,,,,COMMON
+397237,0,1,1,0,3,1,Strixhaven,equipment,Talisman,White,Black,,,,RARE
+397238,1,3,3,2,3,1,Kamigawa,equipment,Ring,Blue,Red,,,,COMMON
+397239,0,1,3,2,3,1,Strixhaven,creature,zombie,White,Blue,,,,UNCOMMON
+397240,0,3,0,2,0,3,Innistrad,creature,dragon,White,Black,,,,MYTHIC RARE
+397241,0,1,1,1,1,1,Kaldheim,equipment,Talisman,Black,White,Red,,,COMMON
+397242,1,1,2,0,2,3,Kaldheim,creature,elf,Red,,,,,MYTHIC RARE
+397243,2,3,2,3,2,3,Kaldheim,creature,boar,Red,,,,,RARE
+397244,0,1,1,3,1,1,Kamigawa,creature,zombie,White,Black,Green,,,UNCOMMON
+397245,0,3,2,2,0,3,DnD,creature,zombie,Green,Red,Black,,,RARE
+397246,0,1,0,3,1,3,Kaldheim,equipment,Talisman,White,Black,Red,,,MYTHIC RARE
+397247,1,2,1,1,3,2,Ravnica,creature,dragon,Black,Red,White,Green,,MYTHIC RARE
+397248,1,2,2,2,1,0,Kaldheim,creature,elf,Red,,,,,RARE
+397249,3,0,2,3,2,1,Strixhaven,creature,dwarf,Black,Green,Blue,,,MYTHIC RARE
+397250,0,0,1,0,3,2,Ravnica,creature,boar,White,Black,Blue,,,MYTHIC RARE
+397251,2,0,3,0,1,2,Kamigawa,creature,zombie,White,,,,,RARE
+397252,3,3,1,2,0,0,Strixhaven,creature,zombie,Blue,,,,,RARE
+397253,1,0,0,2,0,2,Kaldheim,equipment,Sword,Black,,,,,RARE
+397254,1,3,1,3,1,3,Innistrad,equipment,Ring,Blue,Red,Black,,,MYTHIC RARE
+397255,1,1,0,2,2,2,Innistrad,creature,human,Black,,,,,COMMON
+397256,1,0,1,2,1,3,Innistrad,creature,boar,White,Red,Blue,Black,,UNCOMMON
+397257,0,2,1,2,3,0,Kamigawa,creature,elf,Red,Green,,,,COMMON
+397258,2,3,1,3,0,2,Strixhaven,creature,boar,White,Black,Blue,Green,,RARE
+397259,3,3,1,3,1,0,Kamigawa,creature,dwarf,Blue,Black,Red,Green,,COMMON
+397260,1,3,1,2,0,3,DnD,creature,elf,Black,,,,,MYTHIC RARE
+397261,0,1,0,2,2,0,Innistrad,equipment,Talisman,Blue,Black,Green,White,,RARE
+397262,0,0,2,2,0,3,Kaldheim,equipment,Talisman,Green,,,,,COMMON
+397263,1,0,1,0,0,3,Innistrad,creature,elf,Green,White,Red,,,RARE
+397264,1,3,3,1,3,1,Strixhaven,creature,dwarf,White,Blue,Red,Green,,RARE
+397265,0,1,0,3,2,3,Ravnica,creature,boar,Black,White,Blue,,,RARE
+397266,0,2,3,0,1,0,Innistrad,creature,dwarf,Blue,Black,,,,COMMON
+397267,0,3,1,3,0,3,Innistrad,equipment,Sword,Green,,,,,UNCOMMON
+397268,0,2,1,3,3,2,Ravnica,creature,human,Black,White,Blue,Green,,UNCOMMON
+397269,1,0,2,1,3,1,DnD,creature,boar,White,Blue,,,,RARE
+397270,3,3,0,2,1,2,Kaldheim,equipment,Ring,Blue,Black,,,,UNCOMMON
+397271,1,0,1,1,1,2,DnD,equipment,Talisman,Red,,,,,RARE
+397272,2,3,1,0,2,1,Kaldheim,equipment,Bottle,Blue,Red,Green,Black,,MYTHIC RARE
+397273,3,0,2,1,0,0,Innistrad,equipment,Sword,Blue,Red,Black,,,RARE
+397274,1,0,3,0,0,2,Strixhaven,creature,elf,White,,,,,MYTHIC RARE
+397275,0,1,1,3,0,0,Ravnica,creature,zombie,Red,White,Green,,,RARE
+397276,0,0,2,3,1,3,Kaldheim,creature,dragon,Blue,Red,Green,,,MYTHIC RARE
+397277,2,2,3,3,1,2,Innistrad,creature,dragon,Green,White,Red,,,COMMON
+397278,0,3,2,2,2,3,Strixhaven,equipment,Boots,Red,White,Green,Black,,MYTHIC RARE
+397279,1,0,1,2,2,2,Innistrad,equipment,Sword,Red,Green,White,,,MYTHIC RARE
+397280,2,0,3,3,1,2,DnD,equipment,Boots,Blue,Green,,,,RARE
+397281,2,2,1,0,3,1,Ravnica,equipment,Bottle,Green,Red,,,,MYTHIC RARE
+397282,0,2,0,0,1,3,Kaldheim,equipment,Ring,White,,,,,MYTHIC RARE
+397283,3,2,2,1,2,0,Ravnica,equipment,Talisman,Green,,,,,MYTHIC RARE
+397284,3,0,2,3,3,2,Ravnica,creature,human,White,,,,,MYTHIC RARE
+397285,2,0,0,1,1,1,Kaldheim,creature,human,Green,,,,,RARE
+397286,2,1,0,1,0,3,Strixhaven,creature,dwarf,Red,White,Green,,,MYTHIC RARE
+397287,3,1,1,2,1,1,Innistrad,equipment,Boots,Black,Blue,Green,,,UNCOMMON
+397288,0,1,2,0,0,1,Kaldheim,creature,dragon,Green,Blue,Black,,,MYTHIC RARE
+397289,2,1,2,3,3,0,Innistrad,equipment,Boots,Red,,,,,RARE
+397290,1,3,1,0,1,0,Kaldheim,equipment,Talisman,Green,,,,,UNCOMMON
+397291,0,1,1,1,3,1,Kamigawa,equipment,Talisman,Black,Blue,Red,White,,MYTHIC RARE
+397292,0,3,1,2,2,2,Innistrad,creature,dragon,Red,Blue,,,,UNCOMMON
+397293,0,1,2,1,1,3,Kamigawa,creature,zombie,Red,Green,,,,UNCOMMON
+397294,3,0,1,1,3,1,Strixhaven,equipment,Bottle,White,,,,,RARE
+397295,3,3,3,1,1,1,Kamigawa,creature,dragon,Red,Black,,,,RARE
+397296,3,0,0,3,0,1,Ravnica,equipment,Talisman,Green,White,Red,Black,,RARE
+397297,0,0,1,2,3,2,Ravnica,creature,dwarf,Red,Green,White,,,MYTHIC RARE
+397298,2,0,2,0,1,2,Innistrad,creature,boar,White,Red,Black,,,UNCOMMON
+397299,2,0,1,3,0,3,Ravnica,creature,dwarf,Red,,,,,COMMON
+397300,0,1,3,2,0,2,Innistrad,equipment,Ring,Blue,White,Black,Green,,MYTHIC RARE
+397301,3,3,3,1,0,2,Kamigawa,creature,elf,White,Black,Green,,,UNCOMMON
+397302,3,1,0,1,2,2,Kaldheim,creature,elf,White,,,,,MYTHIC RARE
+397303,2,2,0,0,0,0,Ravnica,creature,elf,Green,White,,,,MYTHIC RARE
+397304,0,2,3,3,1,3,DnD,equipment,Boots,Black,Green,White,,,UNCOMMON
+397305,1,1,1,2,2,3,Kamigawa,equipment,Ring,Black,Blue,Green,White,,COMMON
+397306,0,3,2,3,3,2,DnD,equipment,Bottle,White,Green,Blue,,,MYTHIC RARE
+397307,0,2,3,1,1,3,Kamigawa,creature,boar,White,Black,Blue,,,MYTHIC RARE
+397308,3,2,3,0,2,3,Ravnica,creature,human,White,Green,Black,Red,,COMMON
+397309,1,2,3,2,0,2,Kaldheim,equipment,Sword,Red,White,Blue,,,COMMON
+397310,2,0,2,2,0,1,Kaldheim,creature,zombie,Green,White,Red,Black,,MYTHIC RARE
+397311,3,3,0,2,0,2,Ravnica,equipment,Boots,Red,Green,,,,COMMON
+397312,1,1,0,3,1,1,Strixhaven,creature,dwarf,White,,,,,COMMON
+397313,1,0,0,0,0,3,Kamigawa,creature,boar,Green,Blue,Red,,,RARE
+397314,0,2,0,1,1,0,Ravnica,creature,zombie,Red,Black,,,,RARE
+397315,1,1,1,0,2,2,Ravnica,creature,boar,White,Green,Black,Blue,,MYTHIC RARE
+397316,2,1,3,1,2,3,DnD,creature,zombie,Green,Black,,,,COMMON
+397317,0,1,1,2,3,2,DnD,creature,dwarf,Black,,,,,MYTHIC RARE
+397318,0,3,1,0,0,1,DnD,equipment,Talisman,White,Green,Black,,,RARE
+397319,2,0,1,0,1,0,Kamigawa,equipment,Bottle,White,Red,,,,COMMON
+397320,3,3,0,3,3,2,DnD,creature,dwarf,Black,Red,Blue,White,,RARE
+397321,2,0,0,3,2,3,Kamigawa,creature,elf,White,,,,,COMMON
+397322,0,0,2,3,2,1,Ravnica,equipment,Ring,Red,Green,,,,RARE
+397323,3,2,1,0,0,1,DnD,equipment,Talisman,Red,Green,,,,COMMON
+397324,0,3,3,1,3,0,DnD,equipment,Boots,Blue,White,Red,,,UNCOMMON
+397325,1,0,2,0,3,3,Ravnica,equipment,Sword,Blue,Red,,,,MYTHIC RARE
+397326,2,3,2,0,2,0,Strixhaven,equipment,Boots,Blue,Green,,,,MYTHIC RARE
+397327,1,0,3,0,3,3,Ravnica,creature,human,Black,White,Green,,,MYTHIC RARE
+397328,1,1,1,3,2,0,Kamigawa,creature,elf,Red,White,,,,COMMON
+397329,2,2,1,1,2,0,Ravnica,creature,human,Black,,,,,MYTHIC RARE
+397330,3,1,1,2,3,2,Kaldheim,creature,elf,Red,Black,Green,Blue,,UNCOMMON
+397331,3,2,3,1,0,0,DnD,creature,human,Green,White,Blue,,,RARE
+397332,3,2,2,1,0,2,Innistrad,creature,boar,Black,Blue,,,,MYTHIC RARE
+397333,2,2,2,0,3,1,Innistrad,equipment,Boots,Blue,Black,,,,RARE
+397334,1,0,1,1,1,1,Kaldheim,equipment,Sword,Black,Green,White,Blue,,MYTHIC RARE
+397335,2,0,0,2,3,3,Strixhaven,creature,boar,Blue,,,,,COMMON
+397336,1,1,1,2,2,1,DnD,equipment,Boots,White,Blue,Black,,,UNCOMMON
+397337,0,0,3,2,1,2,Kaldheim,creature,human,Green,Black,Blue,,,RARE
+397338,0,0,0,1,2,0,Kaldheim,equipment,Talisman,White,Blue,Black,,,RARE
+397339,0,0,1,2,1,0,DnD,equipment,Talisman,Black,Blue,Red,,,COMMON
+397340,3,1,1,0,1,0,Kaldheim,equipment,Sword,Black,Blue,Green,,,UNCOMMON
+397341,1,3,2,2,0,0,Ravnica,creature,human,Red,,,,,RARE
+397342,0,2,1,1,2,2,Ravnica,equipment,Sword,Blue,Red,,,,MYTHIC RARE
+397343,3,1,3,0,2,2,Kaldheim,creature,human,White,Green,Red,,,RARE
+397344,2,3,2,3,1,2,Strixhaven,creature,zombie,Black,Green,Blue,,,MYTHIC RARE
+397345,3,3,1,0,3,0,Kaldheim,creature,zombie,White,Black,Red,,,RARE
+397346,1,0,2,0,1,1,Kamigawa,creature,boar,Red,Green,,,,UNCOMMON
+397347,1,1,2,0,0,1,Kaldheim,creature,human,White,Red,,,,COMMON
+397348,2,0,2,1,1,3,Innistrad,equipment,Talisman,Black,White,,,,UNCOMMON
+397349,3,2,3,3,2,1,Kaldheim,creature,boar,Blue,White,Red,Green,,COMMON
+397350,0,3,3,3,1,1,Ravnica,equipment,Talisman,Red,Black,Blue,,,COMMON
+397351,0,1,0,2,1,3,Kaldheim,creature,elf,Green,Black,Blue,,,MYTHIC RARE
+397352,0,3,3,3,1,1,Strixhaven,equipment,Bottle,Blue,,,,,UNCOMMON
+397353,1,3,2,0,1,0,Kamigawa,creature,zombie,Red,Green,Black,,,COMMON
+397354,0,2,0,3,0,2,Strixhaven,creature,dwarf,White,Black,,,,UNCOMMON
+397355,1,1,3,1,3,3,Strixhaven,equipment,Sword,White,Green,Red,,,UNCOMMON
+397356,1,3,3,1,2,1,Innistrad,creature,zombie,Black,Green,,,,COMMON
+397357,3,2,1,3,0,2,DnD,creature,elf,Blue,White,,,,COMMON
+397358,3,3,0,0,1,2,Kaldheim,equipment,Boots,Red,Blue,Green,,,MYTHIC RARE
+397359,1,1,3,1,3,0,Kaldheim,creature,human,Red,Green,,,,UNCOMMON
+397360,3,3,1,1,2,2,DnD,creature,human,White,Black,Blue,,,COMMON
+397361,1,0,0,1,0,0,Kaldheim,equipment,Boots,Green,,,,,COMMON
+397362,3,0,0,1,1,2,DnD,equipment,Bottle,White,Green,Black,Red,,UNCOMMON
+397363,3,3,1,1,0,1,Kamigawa,creature,zombie,Red,Black,Blue,,,MYTHIC RARE
+397364,0,2,0,2,2,2,Kaldheim,creature,dragon,Black,Red,,,,RARE
+397365,3,3,3,1,0,0,Innistrad,creature,human,Black,Red,,,,MYTHIC RARE
+397366,1,1,1,3,0,1,DnD,equipment,Bottle,White,Green,,,,COMMON
+397367,1,0,3,1,1,0,Ravnica,equipment,Talisman,Black,Red,Blue,,,MYTHIC RARE
+397368,3,2,0,2,0,3,Kaldheim,equipment,Boots,Green,,,,,RARE
+397369,3,2,2,1,3,0,Strixhaven,equipment,Sword,Green,Red,,,,RARE
+397370,1,3,2,0,3,1,Innistrad,equipment,Bottle,White,Black,Blue,,,COMMON
+397371,1,3,0,0,1,0,Ravnica,creature,human,White,,,,,RARE
+397372,0,0,1,0,3,1,Kamigawa,creature,boar,White,Green,,,,COMMON
+397373,2,1,2,3,2,2,Kaldheim,equipment,Bottle,White,Blue,Red,,,COMMON
+397374,1,2,1,1,0,1,Kamigawa,equipment,Boots,Blue,Green,White,,,UNCOMMON
+397375,2,1,3,2,0,3,Innistrad,equipment,Ring,Green,Red,White,,,UNCOMMON
+397376,0,1,3,0,3,1,Strixhaven,creature,elf,White,,,,,MYTHIC RARE
+397377,1,3,0,3,0,1,Strixhaven,equipment,Sword,Red,,,,,MYTHIC RARE
+397378,1,1,3,3,1,3,Kamigawa,creature,dragon,White,,,,,COMMON
+397379,3,3,3,2,3,0,Kaldheim,creature,elf,Red,,,,,COMMON
+397380,2,2,0,0,3,2,Strixhaven,creature,zombie,Red,Black,White,,,COMMON
+397381,1,2,0,2,0,2,Ravnica,equipment,Sword,Black,Blue,White,,,MYTHIC RARE
+397382,3,3,3,0,0,3,Ravnica,equipment,Boots,Red,Green,,,,MYTHIC RARE
+397383,3,1,2,0,0,1,Ravnica,creature,dragon,White,,,,,UNCOMMON
+397384,2,3,2,2,1,1,Innistrad,creature,human,Black,,,,,MYTHIC RARE
+397385,3,2,2,1,1,1,Innistrad,equipment,Ring,Red,Black,Blue,,,RARE
+397386,1,3,1,3,3,2,DnD,creature,dwarf,Black,Blue,,,,COMMON
+397387,1,1,3,3,3,2,Kamigawa,equipment,Sword,White,Green,,,,MYTHIC RARE
+397388,1,2,2,0,1,1,Ravnica,equipment,Ring,Black,Green,White,Blue,,UNCOMMON
+397389,3,3,3,1,3,1,DnD,equipment,Ring,Blue,Red,Black,White,,RARE
+397390,1,3,0,1,1,3,Kaldheim,equipment,Ring,White,Green,Black,Red,,MYTHIC RARE
+397391,1,0,3,0,2,3,Innistrad,creature,human,White,Blue,,,,COMMON
+397392,2,1,3,1,0,0,Innistrad,creature,elf,Blue,Green,,,,COMMON
+397393,3,3,3,2,2,3,Innistrad,creature,zombie,Blue,,,,,RARE
+397394,0,3,3,1,2,3,Kamigawa,creature,elf,Red,Green,Black,,,RARE
+397395,1,0,0,0,3,1,Ravnica,equipment,Bottle,White,,,,,COMMON
+397396,1,3,3,3,2,3,DnD,creature,human,Black,White,Blue,,,UNCOMMON
+397397,2,0,1,2,0,2,Kamigawa,equipment,Boots,Red,,,,,COMMON
+397398,2,2,2,2,0,3,DnD,creature,dwarf,Black,Green,Blue,White,,RARE
+397399,2,1,0,0,3,3,Kamigawa,creature,dwarf,Green,Black,Red,,,RARE
+397400,1,1,0,1,0,1,DnD,creature,zombie,Red,Blue,Green,,,UNCOMMON
+397401,0,0,0,0,0,1,Innistrad,equipment,Ring,White,,,,,MYTHIC RARE
+397402,0,3,1,2,2,2,Kamigawa,creature,elf,Green,Red,,,,MYTHIC RARE
+397403,2,2,3,0,0,2,Kamigawa,creature,elf,Green,White,,,,MYTHIC RARE
+397404,1,2,3,1,0,3,Ravnica,creature,boar,Green,Blue,Red,,,UNCOMMON
+397405,2,3,0,3,2,3,Innistrad,creature,dragon,White,,,,,COMMON
+397406,3,2,3,1,0,1,DnD,equipment,Sword,Green,,,,,RARE
+397407,3,3,0,1,2,1,Strixhaven,equipment,Boots,Black,Red,,,,COMMON
+397408,3,2,2,2,1,2,DnD,equipment,Ring,Black,Green,Red,White,,UNCOMMON
+397409,3,0,1,0,3,3,Ravnica,equipment,Talisman,Black,Green,,,,MYTHIC RARE
+397410,0,2,3,2,1,3,Kamigawa,creature,zombie,Red,,,,,UNCOMMON
+397411,1,3,2,0,2,0,Strixhaven,creature,dwarf,Red,Green,,,,RARE
+397412,2,3,3,3,0,0,Kamigawa,equipment,Boots,White,,,,,RARE
+397413,2,1,0,0,3,3,Kaldheim,equipment,Boots,White,Black,Green,,,UNCOMMON
+397414,0,2,3,2,2,0,Ravnica,creature,elf,Green,,,,,MYTHIC RARE
+397415,1,3,1,1,3,0,Ravnica,equipment,Bottle,Black,Green,Red,,,COMMON
+397416,3,0,3,2,3,0,Ravnica,equipment,Talisman,Blue,Green,,,,MYTHIC RARE
+397417,0,2,3,1,1,1,Strixhaven,creature,dwarf,Green,,,,,MYTHIC RARE
+397418,3,1,0,0,1,0,Innistrad,creature,dragon,White,Red,Blue,Green,,RARE
+397419,2,3,0,1,1,0,Innistrad,equipment,Talisman,Blue,Green,Red,,,UNCOMMON
+397420,0,1,3,3,0,3,Strixhaven,equipment,Boots,Green,Black,Blue,White,,UNCOMMON
+397421,3,2,3,2,2,2,Strixhaven,equipment,Boots,Red,Black,White,,,RARE
+397422,3,0,3,1,3,1,DnD,equipment,Talisman,Green,Blue,,,,UNCOMMON
+397423,2,2,3,0,1,3,Ravnica,equipment,Bottle,Blue,Black,,,,UNCOMMON
+397424,2,2,2,2,3,3,Innistrad,creature,human,Red,,,,,UNCOMMON
+397425,0,0,1,0,2,2,Strixhaven,equipment,Talisman,White,Black,,,,UNCOMMON
+397426,2,2,2,0,2,2,Kaldheim,creature,dragon,White,Green,Red,Blue,,MYTHIC RARE
+397427,0,1,0,3,3,1,Kamigawa,creature,dwarf,Black,Green,Red,,,MYTHIC RARE
+397428,2,0,2,2,2,0,Strixhaven,equipment,Talisman,White,,,,,COMMON
+397429,1,2,2,3,1,3,Kaldheim,creature,boar,Blue,White,,,,UNCOMMON
+397430,0,0,1,0,3,0,Innistrad,equipment,Bottle,Black,,,,,RARE
+397431,3,1,2,0,0,3,Kamigawa,creature,boar,Black,,,,,RARE
+397432,1,0,1,3,1,3,Strixhaven,equipment,Ring,Red,White,,,,UNCOMMON
+397433,1,1,3,1,2,0,Strixhaven,equipment,Sword,Green,Red,,,,MYTHIC RARE
+397434,0,3,3,3,1,3,Kaldheim,creature,human,Red,,,,,UNCOMMON
+397435,3,3,1,1,1,3,Kaldheim,creature,dragon,Blue,,,,,MYTHIC RARE
+397436,0,2,1,3,1,0,Kaldheim,equipment,Bottle,Black,,,,,MYTHIC RARE
+397437,1,0,1,0,1,0,Kaldheim,creature,dragon,Blue,Red,,,,UNCOMMON
+397438,1,0,0,2,0,3,Kamigawa,creature,dragon,Blue,,,,,RARE
+397439,1,3,0,0,1,0,Kamigawa,creature,elf,White,Green,,,,UNCOMMON
+397440,2,2,2,1,0,3,Kamigawa,equipment,Ring,Red,White,Green,,,RARE
+397441,1,1,1,0,3,0,DnD,creature,elf,Black,Blue,Green,White,,UNCOMMON
+397442,2,3,0,0,0,3,Kamigawa,creature,dwarf,Black,,,,,UNCOMMON
+397443,3,2,2,1,1,0,Strixhaven,creature,elf,Black,,,,,MYTHIC RARE
+397444,1,0,2,0,3,0,Strixhaven,creature,zombie,Red,White,Blue,,,MYTHIC RARE
+397445,2,1,3,1,2,0,DnD,equipment,Boots,Red,Green,,,,UNCOMMON
+397446,1,1,3,3,2,2,Kamigawa,creature,elf,Black,,,,,UNCOMMON
+397447,0,3,3,3,2,0,Strixhaven,equipment,Bottle,Blue,,,,,UNCOMMON
+397448,3,1,1,1,3,1,DnD,creature,human,Green,Black,,,,COMMON
+397449,0,1,3,1,0,3,Innistrad,creature,zombie,Black,Green,,,,RARE
+397450,2,3,1,1,3,1,Kaldheim,equipment,Sword,Red,Green,,,,COMMON
+397451,1,0,1,3,0,0,DnD,creature,dragon,Black,Green,,,,MYTHIC RARE
+397452,0,0,1,3,0,0,Strixhaven,creature,boar,Red,White,Green,Black,,RARE
+397453,2,2,1,0,3,0,Kamigawa,creature,dragon,White,,,,,MYTHIC RARE
+397454,3,1,2,1,0,1,Ravnica,creature,dragon,Green,Red,,,,MYTHIC RARE
+397455,2,3,1,2,0,3,Innistrad,equipment,Boots,Green,Blue,,,,RARE
+397456,1,0,0,3,1,0,Strixhaven,equipment,Sword,Green,Red,White,,,RARE
+397457,1,2,2,1,3,2,Kamigawa,equipment,Talisman,Red,,,,,RARE
+397458,0,3,0,0,2,1,Innistrad,creature,boar,Green,Red,,,,RARE
+397459,0,1,2,1,1,1,Kamigawa,creature,elf,Green,,,,,UNCOMMON
+397460,0,3,1,2,0,3,Kaldheim,creature,elf,Red,Black,,,,RARE
+397461,3,1,2,0,3,0,Kaldheim,equipment,Boots,Green,Blue,White,,,MYTHIC RARE
+397462,0,1,3,0,2,0,Kaldheim,equipment,Boots,White,,,,,COMMON
+397463,2,2,2,3,2,2,Strixhaven,equipment,Ring,Black,White,Green,,,RARE
+397464,3,0,2,1,3,3,Ravnica,equipment,Sword,Black,Red,Blue,White,,MYTHIC RARE
+397465,1,0,2,2,0,1,Kaldheim,equipment,Sword,White,Red,,,,UNCOMMON
+397466,3,0,3,1,2,2,Kaldheim,creature,boar,White,Blue,,,,UNCOMMON
+397467,3,2,3,3,3,0,Ravnica,equipment,Sword,Black,,,,,UNCOMMON
+397468,0,1,0,1,2,2,Strixhaven,creature,boar,Green,Red,Black,,,UNCOMMON
+397469,2,1,0,0,1,0,Innistrad,equipment,Talisman,Black,White,,,,MYTHIC RARE
+397470,2,1,3,0,2,0,Strixhaven,equipment,Sword,Green,Red,,,,COMMON
+397471,1,2,3,1,1,3,DnD,creature,dragon,Green,,,,,RARE
+397472,2,3,3,3,0,1,Ravnica,equipment,Ring,Blue,Black,Red,White,,RARE
+397473,3,3,1,1,0,1,DnD,equipment,Talisman,White,Black,Red,,,MYTHIC RARE
+397474,1,2,0,2,0,3,Ravnica,equipment,Bottle,Blue,Green,,,,RARE
+397475,2,0,0,0,3,3,Innistrad,equipment,Ring,Green,White,,,,RARE
+397476,3,2,3,0,2,0,Strixhaven,creature,dwarf,Green,,,,,MYTHIC RARE
+397477,2,1,3,0,1,1,DnD,creature,zombie,White,Blue,,,,RARE
+397478,3,0,0,3,1,0,Ravnica,equipment,Talisman,Green,Red,,,,UNCOMMON
+397479,3,1,1,3,3,2,Strixhaven,equipment,Sword,Green,Red,Black,,,COMMON
+397480,1,0,2,0,1,1,Innistrad,equipment,Ring,Blue,Red,,,,RARE
+397481,1,0,2,2,3,1,Kaldheim,equipment,Ring,Blue,White,,,,COMMON
+397482,2,2,1,1,1,0,Kaldheim,equipment,Bottle,Blue,,,,,UNCOMMON
+397483,1,2,2,2,0,3,Kamigawa,creature,human,Black,,,,,UNCOMMON
+397484,3,0,3,1,0,3,Innistrad,creature,dwarf,Green,,,,,RARE
+397485,1,0,1,2,0,3,Kaldheim,equipment,Boots,White,Green,Black,Blue,,UNCOMMON
+397486,3,3,0,2,2,3,Ravnica,equipment,Ring,Black,White,,,,COMMON
+397487,1,2,3,0,1,2,Kamigawa,equipment,Sword,Green,Black,,,,RARE
+397488,0,2,2,0,0,1,Ravnica,creature,dwarf,Black,Red,Blue,Green,,UNCOMMON
+397489,2,3,1,0,2,0,Ravnica,equipment,Sword,Black,Blue,Green,White,,COMMON
+397490,1,0,1,0,1,0,DnD,equipment,Ring,Blue,,,,,UNCOMMON
+397491,0,0,2,1,1,1,Kaldheim,equipment,Boots,Black,Blue,,,,COMMON
+397492,0,1,2,1,1,3,Kamigawa,equipment,Boots,Green,White,,,,UNCOMMON
+397493,0,1,2,1,1,2,Kaldheim,creature,boar,Red,White,Blue,Green,,RARE
+397494,3,1,0,2,1,1,DnD,creature,dragon,White,Black,,,,MYTHIC RARE
+397495,1,1,0,2,2,3,Kamigawa,creature,elf,White,Black,,,,RARE
+397496,3,2,2,1,3,3,Ravnica,creature,boar,Red,Green,,,,MYTHIC RARE
+397497,3,3,3,3,0,2,Strixhaven,equipment,Talisman,Red,White,Black,Green,,RARE
+397498,0,0,2,1,3,3,Ravnica,creature,dragon,Black,Green,Blue,Red,White,RARE
+397499,3,2,2,3,1,3,Kamigawa,equipment,Boots,Red,Green,Blue,,,COMMON
+397500,0,2,3,0,2,3,Strixhaven,equipment,Bottle,Black,White,Blue,,,MYTHIC RARE
+397501,1,1,1,1,0,1,Strixhaven,creature,human,Red,Blue,,,,UNCOMMON
+397502,3,1,1,1,3,2,DnD,creature,dragon,Red,White,,,,COMMON
+397503,0,3,2,1,2,1,Innistrad,creature,zombie,Green,White,Red,,,COMMON
+397504,1,0,3,2,1,3,Ravnica,equipment,Ring,White,Black,,,,COMMON
+397505,2,2,0,1,1,2,Kaldheim,equipment,Boots,Green,White,Red,,,MYTHIC RARE
+397506,2,0,1,3,1,0,DnD,creature,boar,Black,Blue,Red,Green,,RARE
+397507,2,1,3,0,3,1,Kamigawa,creature,boar,Black,Blue,,,,MYTHIC RARE
+397508,1,0,0,1,1,1,Strixhaven,creature,zombie,Black,Red,Green,White,,MYTHIC RARE
+397509,0,2,0,1,3,0,Innistrad,equipment,Ring,Red,,,,,COMMON
+397510,1,1,1,1,3,3,Kamigawa,equipment,Ring,Blue,White,Red,,,COMMON
+397511,0,1,1,0,1,1,Ravnica,equipment,Sword,Black,Blue,Red,,,UNCOMMON
+397512,1,2,1,3,1,1,Kaldheim,creature,human,White,Blue,Black,,,COMMON
+397513,3,3,1,3,1,1,Strixhaven,creature,human,Green,Black,Blue,,,MYTHIC RARE
+397514,1,0,0,2,3,3,Ravnica,equipment,Ring,White,Green,,,,RARE
+397515,3,2,1,3,1,3,Innistrad,equipment,Bottle,Blue,Green,Black,,,COMMON
+397516,2,3,1,1,1,0,DnD,creature,human,Green,Blue,Red,,,MYTHIC RARE
+397517,1,2,3,1,3,3,Kamigawa,creature,dwarf,White,,,,,COMMON
+397518,0,0,2,0,3,2,Kaldheim,equipment,Boots,Black,Blue,,,,COMMON
+397519,2,1,1,3,3,2,Strixhaven,equipment,Boots,Blue,,,,,MYTHIC RARE
+397520,3,0,2,1,2,1,Strixhaven,equipment,Bottle,Black,Green,,,,MYTHIC RARE
+397521,1,3,0,3,2,2,Innistrad,equipment,Sword,Red,,,,,RARE
+397522,3,3,3,3,0,1,Ravnica,creature,dwarf,Green,Blue,,,,COMMON
+397523,2,1,3,3,2,3,Ravnica,equipment,Boots,Red,,,,,RARE
+397524,1,3,3,2,2,2,Kamigawa,creature,elf,Green,,,,,RARE
+397525,1,0,3,3,3,2,Kaldheim,creature,dwarf,Blue,Red,,,,COMMON
+397526,0,2,1,3,1,2,Innistrad,equipment,Talisman,White,,,,,RARE
+397527,1,0,2,2,2,1,Kamigawa,equipment,Talisman,Blue,White,Red,,,COMMON
+397528,0,1,1,2,2,1,Innistrad,equipment,Sword,White,Green,,,,MYTHIC RARE
+397529,1,3,1,0,0,1,Ravnica,equipment,Sword,Green,Blue,,,,UNCOMMON
+397530,1,1,0,0,1,3,Ravnica,creature,boar,White,Blue,,,,RARE
+397531,2,2,3,1,1,3,Kamigawa,creature,dragon,Red,Black,,,,COMMON
+397532,3,0,0,2,1,3,Strixhaven,equipment,Talisman,Red,Black,White,,,MYTHIC RARE
+397533,1,3,1,1,2,0,DnD,creature,zombie,Black,Green,,,,MYTHIC RARE
+397534,0,2,1,1,1,1,DnD,creature,dwarf,Black,Red,,,,COMMON
+397535,2,0,1,0,3,2,Strixhaven,creature,dragon,Green,,,,,COMMON
+397536,0,0,3,1,1,0,Ravnica,equipment,Bottle,Blue,,,,,RARE
+397537,3,3,0,3,1,1,Innistrad,creature,elf,Black,White,,,,MYTHIC RARE
+397538,3,3,0,1,3,3,Ravnica,equipment,Boots,Red,White,Blue,,,COMMON
+397539,0,0,0,1,1,0,Kaldheim,creature,human,Green,White,,,,MYTHIC RARE
+397540,2,1,1,1,0,1,Ravnica,equipment,Sword,White,Red,Black,,,RARE
+397541,2,1,0,2,0,1,DnD,equipment,Sword,Green,,,,,RARE
+397542,2,2,3,2,2,0,Innistrad,creature,zombie,Black,,,,,RARE
+397543,1,2,3,2,3,2,Kaldheim,equipment,Talisman,Blue,Green,,,,UNCOMMON
+397544,0,2,1,0,3,1,Innistrad,creature,boar,Red,Green,White,,,UNCOMMON
+397545,3,3,2,1,0,1,Innistrad,creature,elf,Red,Green,Blue,,,COMMON
+397546,2,2,0,3,3,3,DnD,creature,elf,Green,Red,,,,UNCOMMON
+397547,0,2,2,2,2,0,Kaldheim,equipment,Sword,Red,,,,,COMMON
+397548,2,0,1,1,3,0,Kaldheim,equipment,Sword,Blue,,,,,MYTHIC RARE
+397549,2,3,2,3,0,3,DnD,equipment,Boots,White,Black,Green,Blue,,RARE
+397550,2,1,0,0,0,1,Kaldheim,creature,dragon,Green,,,,,COMMON
+397551,0,1,3,0,3,3,Kaldheim,creature,boar,Green,Red,White,,,MYTHIC RARE
+397552,3,0,1,1,1,1,Ravnica,creature,boar,Red,White,Black,,,UNCOMMON
+397553,1,3,2,2,2,3,Ravnica,equipment,Ring,Green,Red,,,,COMMON
+397554,2,0,2,3,0,2,Kaldheim,creature,dragon,Green,Blue,White,Black,,MYTHIC RARE
+397555,1,2,2,3,1,3,Kaldheim,equipment,Talisman,Red,Blue,,,,RARE
+397556,3,1,1,1,2,3,DnD,equipment,Boots,Blue,Green,Black,,,UNCOMMON
+397557,2,0,3,2,1,2,DnD,creature,dragon,Red,Blue,Black,,,COMMON
+397558,2,1,0,2,3,2,Kamigawa,equipment,Sword,Green,Blue,White,Black,,RARE
+397559,1,2,1,2,1,1,Kaldheim,equipment,Boots,White,Blue,Black,,,MYTHIC RARE
+397560,3,0,2,0,0,0,Kamigawa,equipment,Bottle,Blue,,,,,UNCOMMON
+397561,0,3,3,2,3,3,Strixhaven,equipment,Boots,Blue,White,Red,,,COMMON
+397562,3,0,0,1,2,2,DnD,creature,zombie,Red,White,Green,,,UNCOMMON
+397563,0,0,1,2,3,1,Kaldheim,equipment,Bottle,Green,Red,Black,,,RARE
+397564,2,0,1,2,1,1,Ravnica,creature,zombie,White,Black,,,,UNCOMMON
+397565,3,0,3,2,1,3,Ravnica,creature,zombie,Black,Red,White,,,MYTHIC RARE
+397566,2,3,1,0,3,0,Strixhaven,equipment,Talisman,White,Black,Green,,,RARE
+397567,2,2,2,0,1,0,Ravnica,equipment,Talisman,Red,Black,Green,,,MYTHIC RARE
+397568,2,2,3,1,0,2,Kaldheim,equipment,Ring,Black,Red,,,,COMMON
+397569,1,1,2,2,2,1,Innistrad,creature,boar,Red,White,,,,MYTHIC RARE
+397570,1,2,2,0,2,0,Kamigawa,creature,dragon,Black,Green,Red,,,COMMON
+397571,1,1,0,0,1,0,DnD,creature,dwarf,Red,White,,,,MYTHIC RARE
+397572,3,2,1,2,2,2,Kaldheim,creature,elf,Green,Blue,White,Red,,MYTHIC RARE
+397573,0,0,3,1,0,2,Ravnica,equipment,Ring,Red,Black,Blue,,,UNCOMMON
+397574,0,2,0,2,1,1,Ravnica,creature,boar,Red,Blue,,,,RARE
+397575,0,2,0,1,1,3,DnD,creature,dragon,Black,,,,,MYTHIC RARE
+397576,2,3,0,2,2,0,Kaldheim,equipment,Ring,White,Blue,Black,Green,,MYTHIC RARE
+397577,0,0,3,1,0,0,Strixhaven,equipment,Bottle,Blue,White,,,,UNCOMMON
+397578,2,0,1,1,3,3,Innistrad,equipment,Boots,Blue,Green,Black,,,UNCOMMON
+397579,2,2,3,2,3,3,Kamigawa,equipment,Boots,White,Blue,Black,,,UNCOMMON
+397580,0,2,3,2,1,3,Strixhaven,creature,boar,Black,White,Blue,Green,,COMMON
+397581,0,2,1,2,0,0,Strixhaven,equipment,Talisman,White,,,,,UNCOMMON
+397582,0,1,3,3,1,2,Kamigawa,equipment,Bottle,Red,Green,Black,Blue,,UNCOMMON
+397583,1,1,1,0,0,0,Innistrad,equipment,Talisman,Green,White,Black,,,COMMON
+397584,1,3,0,0,2,2,Kamigawa,creature,zombie,Blue,Green,,,,RARE
+397585,0,1,3,0,0,2,Ravnica,equipment,Talisman,Red,White,,,,COMMON
+397586,1,3,2,1,2,3,Strixhaven,creature,elf,Black,Green,,,,COMMON
+397587,0,2,3,2,3,0,Kamigawa,equipment,Boots,Green,White,Black,Red,,MYTHIC RARE
+397588,0,3,2,1,2,3,Innistrad,equipment,Boots,White,,,,,COMMON
+397589,3,2,0,2,2,3,Ravnica,creature,boar,Blue,Green,,,,UNCOMMON
+397590,1,1,3,3,2,3,Innistrad,creature,human,Green,Blue,Red,Black,,MYTHIC RARE
+397591,2,2,3,2,3,3,Ravnica,creature,human,Red,,,,,UNCOMMON
+397592,3,0,3,3,0,0,Innistrad,creature,human,Black,,,,,UNCOMMON
+397593,3,1,2,0,3,0,Innistrad,creature,dragon,Blue,White,Black,,,UNCOMMON
+397594,3,3,3,3,0,3,Kaldheim,creature,boar,White,,,,,UNCOMMON
+397595,0,2,0,0,3,1,Ravnica,creature,boar,Blue,Black,White,,,MYTHIC RARE
+397596,2,2,3,3,2,2,DnD,equipment,Bottle,Green,,,,,RARE
+397597,3,3,1,1,0,2,Innistrad,creature,human,Green,Blue,Red,White,,RARE
+397598,3,3,2,2,1,3,Strixhaven,equipment,Ring,Blue,Red,,,,UNCOMMON
+397599,0,2,0,0,3,0,Strixhaven,equipment,Sword,Green,Red,Black,,,UNCOMMON
+397600,3,1,0,1,0,1,Ravnica,creature,boar,Green,White,,,,COMMON
+397601,3,2,0,1,0,1,Ravnica,equipment,Sword,White,Black,,,,RARE
+397602,3,0,2,0,0,3,Kamigawa,equipment,Ring,White,Green,Black,,,UNCOMMON
+397603,2,3,1,3,1,0,Ravnica,equipment,Bottle,White,,,,,MYTHIC RARE
+397604,3,2,3,3,2,3,Ravnica,creature,elf,Red,Black,White,Green,,COMMON
+397605,1,2,3,2,3,0,Kamigawa,creature,dragon,Green,Black,,,,COMMON
+397606,3,2,2,0,2,0,Strixhaven,equipment,Bottle,Black,Blue,,,,RARE
+397607,3,3,0,1,1,3,Ravnica,equipment,Boots,White,,,,,UNCOMMON
+397608,0,0,1,1,1,2,DnD,equipment,Sword,Blue,White,,,,UNCOMMON
+397609,3,0,2,3,2,3,Ravnica,equipment,Sword,Black,Green,Red,White,,RARE
+397610,1,3,2,3,2,0,Strixhaven,equipment,Ring,White,,,,,COMMON
+397611,1,1,2,0,3,1,Ravnica,creature,dragon,Blue,Green,Red,Black,,MYTHIC RARE
+397612,3,3,3,3,0,0,Kaldheim,equipment,Boots,Red,White,Green,,,RARE
+397613,0,2,2,3,0,0,Kamigawa,equipment,Sword,White,Green,,,,RARE
+397614,3,1,0,1,1,0,DnD,equipment,Talisman,Blue,,,,,RARE
+397615,0,0,2,1,1,3,Strixhaven,creature,dwarf,Black,Blue,,,,UNCOMMON
+397616,0,3,3,3,2,2,DnD,equipment,Talisman,Green,,,,,MYTHIC RARE
+397617,0,0,0,3,0,2,Strixhaven,equipment,Sword,Blue,Green,,,,UNCOMMON
+397618,0,2,1,3,1,0,Ravnica,equipment,Talisman,Red,Black,,,,RARE
+397619,1,1,3,2,2,3,DnD,equipment,Boots,White,,,,,COMMON
+397620,2,3,1,0,2,2,DnD,equipment,Boots,Red,White,Black,Blue,,COMMON
+397621,2,0,1,2,1,3,DnD,creature,boar,White,Green,Blue,,,MYTHIC RARE
+397622,0,2,3,0,2,1,DnD,creature,zombie,Green,,,,,MYTHIC RARE
+397623,2,3,1,2,1,2,Strixhaven,equipment,Talisman,Black,Green,,,,RARE
+397624,3,1,3,0,3,0,Strixhaven,creature,elf,White,,,,,RARE
+397625,0,2,1,2,0,0,Ravnica,equipment,Bottle,Green,,,,,COMMON
+397626,0,2,0,0,0,3,Innistrad,creature,elf,Green,Black,Blue,,,UNCOMMON
+397627,2,2,1,0,3,0,DnD,equipment,Talisman,White,Red,Blue,,,MYTHIC RARE
+397628,3,1,2,1,2,1,Strixhaven,creature,dragon,Green,Red,White,Black,,COMMON
+397629,0,2,0,2,0,3,DnD,creature,dragon,Green,White,,,,RARE
+397630,3,0,2,0,0,0,DnD,creature,human,Red,Black,,,,MYTHIC RARE
+397631,1,0,2,3,0,0,Ravnica,creature,dwarf,Red,,,,,RARE
+397632,3,2,0,2,2,3,Innistrad,creature,dwarf,White,Blue,Green,,,RARE
+397633,2,0,1,3,2,3,Kamigawa,creature,dwarf,Green,Black,Blue,,,UNCOMMON
+397634,1,0,3,2,3,1,Kamigawa,equipment,Boots,White,,,,,MYTHIC RARE
+397635,2,2,1,1,2,2,DnD,equipment,Ring,Blue,Green,,,,RARE
+397636,3,1,1,2,3,1,DnD,creature,dragon,Black,Green,,,,COMMON
+397637,0,1,0,0,2,2,Innistrad,equipment,Talisman,Green,White,Black,,,COMMON
+397638,2,2,0,1,3,3,Ravnica,creature,dragon,Black,Green,Blue,,,RARE
+397639,1,1,1,2,3,1,Kaldheim,equipment,Boots,Red,White,Green,Blue,,COMMON
+397640,3,1,0,3,3,2,Kamigawa,equipment,Boots,Blue,,,,,COMMON
+397641,0,2,1,0,2,2,Kamigawa,creature,elf,Blue,White,,,,MYTHIC RARE
+397642,3,3,1,3,2,0,Strixhaven,equipment,Boots,Green,Black,,,,RARE
+397643,0,0,3,2,1,2,Kamigawa,creature,dragon,Black,Blue,White,,,UNCOMMON
+397644,3,0,3,3,1,2,Ravnica,equipment,Boots,Black,Green,Blue,Red,,COMMON
+397645,3,2,0,0,2,1,Ravnica,equipment,Boots,Green,Red,Black,,,RARE
+397646,2,2,1,1,2,1,DnD,equipment,Talisman,White,Black,Blue,,,UNCOMMON
+397647,0,0,1,1,2,1,Kamigawa,creature,elf,White,Green,,,,COMMON
+397648,0,0,1,1,0,0,Innistrad,creature,elf,Green,Black,,,,RARE
+397649,3,3,0,1,2,2,Ravnica,creature,elf,Green,Black,,,,UNCOMMON
+397650,0,0,3,0,3,2,Ravnica,creature,elf,Black,Green,,,,UNCOMMON
+397651,1,3,2,0,2,1,Kamigawa,equipment,Talisman,Blue,,,,,COMMON
+397652,0,0,1,1,2,3,Strixhaven,creature,human,White,Red,Green,,,RARE
+397653,1,0,2,2,2,1,Strixhaven,equipment,Boots,Green,Blue,White,,,COMMON
+397654,1,0,0,3,2,0,Kaldheim,equipment,Boots,Blue,Black,,,,COMMON
+397655,3,3,0,1,3,2,DnD,creature,boar,Red,Green,,,,UNCOMMON
+397656,2,3,2,3,3,1,Strixhaven,equipment,Talisman,White,,,,,RARE
+397657,0,3,3,2,2,1,Ravnica,equipment,Sword,Black,Blue,,,,UNCOMMON
+397658,2,3,3,3,3,2,DnD,creature,boar,Blue,Red,Black,,,MYTHIC RARE
+397659,3,0,1,3,1,1,DnD,equipment,Talisman,Green,,,,,MYTHIC RARE
+397660,0,3,3,2,1,1,Strixhaven,creature,dwarf,Green,Red,Black,,,RARE
+397661,2,2,3,0,3,0,Innistrad,equipment,Talisman,Black,Blue,,,,COMMON
+397662,0,2,3,2,2,1,Strixhaven,equipment,Talisman,Blue,White,,,,RARE
+397663,2,1,2,3,3,2,Ravnica,creature,elf,Black,Red,White,,,COMMON
+397664,2,3,1,3,1,3,Strixhaven,creature,zombie,Black,Green,,,,MYTHIC RARE
+397665,1,2,1,1,2,2,DnD,creature,zombie,Red,Blue,,,,MYTHIC RARE
+397666,2,2,0,2,3,0,Innistrad,equipment,Talisman,Red,Green,Black,,,MYTHIC RARE
+397667,0,3,2,1,2,3,Ravnica,creature,elf,Red,Green,,,,COMMON
+397668,3,0,1,0,2,2,Innistrad,creature,dwarf,Black,,,,,RARE
+397669,1,3,3,3,3,0,Kaldheim,creature,dragon,Red,,,,,MYTHIC RARE
+397670,0,3,2,2,3,0,DnD,creature,dwarf,Red,White,,,,UNCOMMON
+397671,2,0,3,1,1,1,DnD,equipment,Sword,Black,Red,,,,RARE
+397672,1,1,0,1,2,0,Innistrad,creature,boar,White,Blue,Green,,,MYTHIC RARE
+397673,0,3,1,1,3,0,DnD,creature,human,Blue,Green,,,,RARE
+397674,1,0,2,1,1,3,DnD,creature,zombie,Green,Blue,White,,,RARE
+397675,1,3,3,1,0,1,Innistrad,creature,boar,Red,White,,,,MYTHIC RARE
+397676,0,1,2,3,2,1,Strixhaven,creature,elf,Blue,Red,Black,,,MYTHIC RARE
+397677,1,2,0,0,2,2,Ravnica,creature,dwarf,Black,Red,Blue,,,MYTHIC RARE
+397678,0,2,1,3,2,0,Kamigawa,equipment,Bottle,Green,White,,,,RARE
+397679,2,2,0,3,1,0,Kaldheim,creature,zombie,Green,Blue,Black,,,COMMON
+397680,1,2,2,1,2,0,Ravnica,equipment,Bottle,Red,Blue,Green,,,MYTHIC RARE
+397681,0,0,0,1,3,2,Ravnica,equipment,Talisman,Red,,,,,MYTHIC RARE
+397682,2,1,0,0,3,2,DnD,equipment,Bottle,Black,,,,,MYTHIC RARE
+397683,3,2,0,0,1,1,Strixhaven,equipment,Boots,Black,Green,White,,,COMMON
+397684,0,0,3,2,2,0,Ravnica,creature,dwarf,White,Green,,,,COMMON
+397685,1,3,1,2,0,2,DnD,equipment,Bottle,Blue,White,Black,Green,,COMMON
+397686,1,0,3,0,1,2,Innistrad,equipment,Ring,White,Red,,,,RARE
+397687,0,3,0,1,0,3,Strixhaven,creature,dwarf,White,,,,,COMMON
+397688,1,2,2,0,2,0,DnD,equipment,Boots,White,Blue,Green,,,UNCOMMON
+397689,3,0,2,2,0,1,Kaldheim,creature,dragon,Black,Green,,,,RARE
+397690,3,2,0,1,1,3,Innistrad,creature,dwarf,Blue,White,Green,,,UNCOMMON
+397691,2,1,2,2,0,2,Strixhaven,creature,dwarf,White,Black,,,,COMMON
+397692,1,3,3,3,1,2,Kaldheim,creature,zombie,Green,Blue,,,,RARE
+397693,3,0,1,2,1,0,Kamigawa,equipment,Ring,Blue,Red,,,,UNCOMMON
+397694,3,3,0,3,3,1,Strixhaven,equipment,Talisman,White,,,,,RARE
+397695,1,2,1,0,1,3,DnD,creature,dwarf,White,Blue,Red,,,RARE
+397696,3,3,1,2,3,2,Innistrad,equipment,Talisman,Red,,,,,MYTHIC RARE
+397697,2,2,0,1,0,1,Innistrad,equipment,Ring,Blue,White,Green,,,MYTHIC RARE
+397698,2,1,0,2,1,3,Strixhaven,equipment,Sword,White,Blue,,,,RARE
+397699,1,1,1,2,0,3,Kamigawa,creature,dragon,Red,,,,,COMMON
+397700,1,0,2,2,1,2,Strixhaven,creature,human,Red,,,,,UNCOMMON
+397701,0,3,3,3,3,3,Strixhaven,creature,human,White,Blue,,,,MYTHIC RARE
+397702,3,3,0,3,2,3,DnD,equipment,Bottle,White,Black,,,,MYTHIC RARE
+397703,0,2,0,1,2,2,Ravnica,equipment,Sword,Blue,,,,,RARE
+397704,3,3,1,1,0,2,Kamigawa,creature,zombie,White,Black,,,,UNCOMMON
+397705,3,2,1,3,0,0,Strixhaven,equipment,Talisman,Blue,Red,Black,,,COMMON
+397706,1,0,0,3,1,0,Kaldheim,creature,zombie,Green,White,Black,,,MYTHIC RARE
+397707,1,2,0,0,2,2,Ravnica,equipment,Ring,Green,Black,,,,COMMON
+397708,3,2,2,1,1,2,Kamigawa,equipment,Boots,White,,,,,UNCOMMON
+397709,2,3,0,3,2,0,Innistrad,equipment,Bottle,Black,,,,,UNCOMMON
+397710,2,2,0,3,1,0,Kamigawa,equipment,Sword,Black,Green,White,,,RARE
+397711,1,3,1,2,1,0,DnD,creature,human,Red,,,,,RARE
+397712,3,3,3,1,1,1,Strixhaven,creature,zombie,Black,Green,,,,COMMON
+397713,3,0,1,3,2,2,Innistrad,equipment,Sword,White,,,,,MYTHIC RARE
+397714,2,3,0,0,3,1,Ravnica,creature,dwarf,Blue,Black,,,,UNCOMMON
+397715,3,3,2,3,0,1,Kaldheim,equipment,Boots,White,,,,,MYTHIC RARE
+397716,0,0,3,3,2,1,Kamigawa,equipment,Bottle,Green,Black,,,,UNCOMMON
+397717,0,3,0,0,1,3,DnD,creature,boar,Red,,,,,MYTHIC RARE
+397718,1,0,0,1,0,3,DnD,equipment,Boots,White,Green,Black,Red,,COMMON
+397719,1,3,0,0,0,2,Kaldheim,equipment,Ring,White,Blue,,,,MYTHIC RARE
+397720,1,1,2,1,1,2,Strixhaven,equipment,Sword,Green,Black,,,,RARE
+397721,2,0,3,0,3,0,Kaldheim,creature,zombie,Black,Blue,,,,COMMON
+397722,2,3,3,3,0,0,Innistrad,equipment,Sword,Black,,,,,MYTHIC RARE
+397723,2,0,3,0,3,3,Strixhaven,equipment,Talisman,White,Red,Green,,,UNCOMMON
+397724,0,3,3,2,2,3,Kaldheim,creature,dwarf,Blue,,,,,RARE
+397725,0,0,3,2,3,1,Strixhaven,creature,dwarf,Red,Green,,,,UNCOMMON
+397726,1,1,0,2,3,2,Strixhaven,creature,zombie,Blue,Black,Red,,,MYTHIC RARE
+397727,1,2,3,3,0,3,Strixhaven,creature,zombie,Black,Red,,,,UNCOMMON
+397728,0,2,1,2,2,1,Strixhaven,creature,dragon,Black,White,Blue,,,MYTHIC RARE
+397729,1,3,0,1,1,2,Kamigawa,equipment,Talisman,Black,,,,,RARE
+397730,3,0,0,3,2,1,Strixhaven,creature,elf,White,Green,,,,RARE
+397731,3,3,0,1,0,2,Innistrad,creature,human,Black,White,Green,Red,,RARE
+397732,0,1,2,1,1,2,Strixhaven,creature,human,Black,Red,,,,MYTHIC RARE
+397733,3,0,1,2,2,0,Innistrad,equipment,Bottle,Blue,White,Green,,,COMMON
+397734,0,3,3,1,0,3,Ravnica,creature,elf,White,Green,Black,,,COMMON
+397735,2,3,0,3,3,0,DnD,equipment,Ring,White,,,,,UNCOMMON
+397736,1,1,2,3,2,0,Strixhaven,equipment,Talisman,Red,Green,Blue,,,UNCOMMON
+397737,3,0,3,0,3,3,DnD,creature,dragon,Blue,Black,Red,Green,,RARE
+397738,0,3,1,1,1,1,DnD,equipment,Sword,Red,Blue,,,,COMMON
+397739,2,0,0,3,3,1,Kaldheim,equipment,Talisman,Blue,Red,,,,UNCOMMON
+397740,3,1,2,0,0,1,Ravnica,creature,human,Blue,White,Red,,,UNCOMMON
+397741,3,1,1,1,1,3,Kamigawa,creature,boar,Red,Black,,,,MYTHIC RARE
+397742,3,0,2,2,0,2,Kaldheim,creature,zombie,Green,Blue,White,,,RARE
+397743,3,1,0,2,3,0,Strixhaven,equipment,Boots,Red,Green,White,Black,,RARE
+397744,1,0,1,3,0,0,DnD,creature,boar,Green,White,Red,Blue,,COMMON
+397745,1,1,3,0,2,2,Strixhaven,equipment,Talisman,Black,,,,,UNCOMMON
+397746,2,3,0,0,2,1,Kaldheim,equipment,Bottle,Blue,White,Green,,,MYTHIC RARE
+397747,2,2,1,3,3,1,Kaldheim,creature,dragon,Black,Green,,,,COMMON
+397748,3,1,0,1,1,1,Kamigawa,creature,boar,Blue,Red,Black,,,UNCOMMON
+397749,2,0,0,2,1,2,Kaldheim,creature,elf,Blue,Black,,,,MYTHIC RARE
+397750,0,3,3,2,2,1,Strixhaven,creature,human,Blue,White,,,,UNCOMMON
+397751,0,1,3,2,1,3,Strixhaven,equipment,Bottle,Green,White,Blue,Black,,RARE
+397752,1,3,0,3,3,1,Strixhaven,equipment,Sword,White,Blue,Green,,,COMMON
+397753,0,1,0,0,1,3,Strixhaven,equipment,Talisman,Red,White,Black,Blue,,COMMON
+397754,3,3,1,0,1,2,Strixhaven,creature,dwarf,Blue,White,,,,UNCOMMON
+397755,1,2,0,3,2,2,Strixhaven,equipment,Talisman,Blue,Black,,,,RARE
+397756,1,1,0,0,0,0,Kamigawa,equipment,Ring,Green,White,,,,COMMON
+397757,2,3,0,0,2,2,Ravnica,equipment,Ring,White,,,,,COMMON
+397758,2,0,2,0,1,2,Ravnica,equipment,Bottle,Red,Black,,,,UNCOMMON
+397759,1,2,3,0,0,0,Strixhaven,creature,dragon,White,Blue,,,,RARE
+397760,1,0,1,2,0,0,DnD,creature,boar,Green,Red,White,Black,,UNCOMMON
+397761,1,1,0,1,3,2,Ravnica,creature,dragon,Blue,,,,,COMMON
+397762,0,2,0,1,3,2,Ravnica,equipment,Talisman,Green,,,,,MYTHIC RARE
+397763,0,0,3,3,0,2,Kaldheim,equipment,Bottle,Blue,Red,White,,,MYTHIC RARE
+397764,0,0,3,0,3,2,Strixhaven,creature,dwarf,White,,,,,MYTHIC RARE
+397765,2,1,3,3,2,2,Kamigawa,equipment,Boots,Black,Green,Blue,,,RARE
+397766,3,0,1,2,0,0,Kamigawa,equipment,Boots,Red,,,,,MYTHIC RARE
+397767,1,3,3,3,2,0,Innistrad,equipment,Bottle,Red,Black,,,,UNCOMMON
+397768,1,2,2,1,0,2,Ravnica,equipment,Bottle,Green,Blue,Black,,,RARE
+397769,0,1,1,0,1,0,Kaldheim,creature,boar,Red,Blue,,,,MYTHIC RARE
+397770,2,1,0,3,2,0,Kamigawa,creature,boar,Black,White,,,,UNCOMMON
+397771,0,0,2,3,3,1,Ravnica,equipment,Talisman,Blue,Black,Green,Red,,MYTHIC RARE
+397772,2,0,2,1,3,1,Strixhaven,equipment,Sword,Blue,White,,,,RARE
+397773,2,3,0,2,0,1,Kaldheim,equipment,Talisman,Red,White,Blue,,,UNCOMMON
+397774,0,2,1,3,0,2,Kamigawa,equipment,Boots,Red,Blue,White,,,UNCOMMON
+397775,0,0,1,0,1,3,Kamigawa,equipment,Ring,Blue,Red,White,Green,,COMMON
+397776,1,2,3,0,0,2,Ravnica,creature,elf,Blue,Black,White,,,RARE
+397777,0,3,3,0,2,3,Kaldheim,equipment,Bottle,Red,Blue,,,,COMMON
+397778,0,2,0,3,3,2,Strixhaven,equipment,Ring,Blue,Green,,,,RARE
+397779,3,0,2,3,1,3,Strixhaven,creature,boar,Red,White,Blue,,,COMMON
+397780,1,3,3,1,2,3,Kaldheim,creature,zombie,Green,Red,Blue,Black,,COMMON
+397781,1,2,3,3,0,0,Innistrad,equipment,Ring,Green,White,,,,RARE
+397782,2,1,1,3,2,2,Kamigawa,equipment,Sword,Green,,,,,RARE
+397783,2,1,1,2,3,3,Ravnica,equipment,Ring,Blue,,,,,RARE
+397784,2,1,2,3,0,3,Ravnica,equipment,Ring,Black,Green,Blue,Red,,MYTHIC RARE
+397785,2,0,1,2,2,2,Strixhaven,creature,elf,Red,Green,White,,,MYTHIC RARE
+397786,0,2,3,3,1,1,Kamigawa,creature,dragon,White,Green,Red,,,MYTHIC RARE
+397787,0,0,3,1,0,1,Strixhaven,creature,dragon,Black,Green,Red,,,MYTHIC RARE
+397788,3,1,2,2,3,0,Innistrad,creature,dwarf,White,Black,,,,COMMON
+397789,0,0,3,3,2,1,Kamigawa,equipment,Ring,Green,White,Blue,Black,,UNCOMMON
+397790,2,2,2,2,3,0,Kamigawa,equipment,Ring,Green,White,,,,RARE
+397791,1,2,0,0,3,1,DnD,creature,elf,Green,White,Blue,,,MYTHIC RARE
+397792,1,1,0,0,2,2,Strixhaven,equipment,Bottle,Blue,Green,,,,UNCOMMON
+397793,2,0,3,0,2,0,Kaldheim,equipment,Sword,White,Black,Red,,,RARE
+397794,0,0,1,1,3,0,Ravnica,creature,dragon,Blue,White,Green,Red,,COMMON
+397795,1,0,0,1,3,0,Strixhaven,equipment,Bottle,Red,Green,Blue,Black,,UNCOMMON
+397796,2,0,3,0,3,1,Strixhaven,creature,human,Black,,,,,COMMON
+397797,1,3,0,0,3,3,DnD,creature,zombie,Black,Green,,,,RARE
+397798,2,0,3,2,1,0,DnD,equipment,Boots,White,Red,,,,UNCOMMON
+397799,1,2,3,2,0,0,DnD,creature,human,Green,Blue,Red,,,MYTHIC RARE
+397800,2,0,2,0,1,0,Kamigawa,equipment,Bottle,Red,Blue,,,,MYTHIC RARE
+397801,3,2,1,3,1,3,Kaldheim,creature,dwarf,White,,,,,UNCOMMON
+397802,2,1,2,0,1,3,Kaldheim,equipment,Bottle,Blue,Red,White,Green,,RARE
+397803,2,3,2,1,0,2,Ravnica,creature,dragon,Red,White,,,,MYTHIC RARE
+397804,0,1,3,1,1,2,Ravnica,creature,dragon,Blue,,,,,RARE
+397805,1,3,1,0,3,2,Kaldheim,creature,dwarf,Black,,,,,RARE
+397806,2,2,2,3,1,0,Kamigawa,equipment,Talisman,Black,Blue,White,,,RARE
+397807,1,2,0,0,3,0,Kaldheim,creature,zombie,Red,Blue,,,,RARE
+397808,0,2,0,3,3,1,Kaldheim,equipment,Sword,Red,Green,,,,COMMON
+397809,2,0,2,1,1,2,Innistrad,creature,human,Red,,,,,MYTHIC RARE
+397810,3,1,1,1,0,2,Kaldheim,equipment,Ring,Red,White,Black,,,COMMON
+397811,3,0,3,3,3,2,Ravnica,creature,dragon,Green,Blue,White,Black,,COMMON
+397812,2,3,2,1,3,0,Innistrad,creature,boar,Black,Red,,,,RARE
+397813,0,3,1,3,2,3,Ravnica,equipment,Boots,Black,Red,,,,RARE
+397814,0,2,2,1,0,1,Ravnica,equipment,Bottle,Black,Blue,Red,,,MYTHIC RARE
+397815,0,3,0,2,1,1,Kaldheim,equipment,Talisman,Red,Blue,,,,RARE
+397816,2,0,3,0,0,0,DnD,creature,boar,Green,White,Black,,,RARE
+397817,2,3,3,1,3,1,Kamigawa,creature,dragon,Blue,Black,Red,,,MYTHIC RARE
+397818,1,3,3,3,1,2,Ravnica,equipment,Bottle,Blue,Green,,,,MYTHIC RARE
+397819,1,0,2,2,0,1,Ravnica,equipment,Ring,Green,Black,Red,,,RARE
+397820,2,3,3,2,2,0,Ravnica,equipment,Boots,Blue,Green,Black,Red,,MYTHIC RARE
+397821,0,3,3,1,0,1,Kaldheim,equipment,Boots,Black,Red,,,,MYTHIC RARE
+397822,1,0,0,2,1,3,Strixhaven,equipment,Talisman,Black,,,,,MYTHIC RARE
+397823,0,1,2,1,0,3,Kaldheim,equipment,Ring,White,,,,,MYTHIC RARE
+397824,1,1,3,2,2,0,DnD,equipment,Bottle,Green,Blue,,,,UNCOMMON
+397825,0,1,3,0,3,3,Kaldheim,creature,dwarf,White,Black,Red,,,MYTHIC RARE
+397826,1,0,3,3,0,0,Strixhaven,creature,dwarf,Black,Green,,,,RARE
+397827,3,2,0,1,0,0,Innistrad,creature,dragon,Blue,White,Black,Green,,COMMON
+397828,3,2,0,3,3,3,Kaldheim,equipment,Ring,White,,,,,MYTHIC RARE
+397829,3,2,2,1,0,0,Strixhaven,creature,elf,Black,Blue,White,,,COMMON
+397830,2,0,0,1,2,2,Ravnica,creature,zombie,White,Blue,,,,RARE
+397831,2,3,1,0,1,2,Innistrad,creature,elf,White,Black,Red,,,UNCOMMON
+397832,3,0,0,0,1,3,Strixhaven,creature,dragon,Blue,,,,,RARE
+397833,3,3,3,1,1,3,Innistrad,creature,zombie,Blue,Red,Black,,,MYTHIC RARE
+397834,2,2,0,0,2,3,DnD,creature,boar,Blue,Red,,,,COMMON
+397835,2,2,3,3,2,3,Kaldheim,creature,dragon,Black,Green,White,Red,,MYTHIC RARE
+397836,0,3,2,1,1,0,Kamigawa,creature,dragon,Black,,,,,MYTHIC RARE
+397837,1,3,2,1,2,1,Kamigawa,creature,dragon,White,,,,,COMMON
+397838,0,1,1,3,1,2,Innistrad,creature,boar,Green,Blue,,,,COMMON
+397839,1,1,3,2,3,2,Kamigawa,creature,elf,White,Blue,Green,,,MYTHIC RARE
+397840,2,0,3,2,3,2,Kaldheim,creature,dwarf,White,Black,,,,COMMON
+397841,2,2,0,0,1,3,Ravnica,creature,dragon,White,Red,,,,MYTHIC RARE
+397842,2,1,1,1,3,2,Innistrad,creature,dwarf,Green,Black,Blue,,,UNCOMMON
+397843,0,2,0,2,2,3,DnD,creature,human,Black,Blue,White,,,MYTHIC RARE
+397844,2,1,2,2,2,3,Strixhaven,creature,dwarf,White,Red,Black,Blue,,UNCOMMON
+397845,3,1,3,0,2,2,Strixhaven,equipment,Ring,Black,Blue,,,,UNCOMMON
+397846,1,0,1,0,2,3,Kamigawa,creature,human,Red,Blue,Black,,,RARE
+397847,0,0,1,3,1,2,Strixhaven,equipment,Bottle,Black,,,,,COMMON
+397848,1,0,3,0,0,1,Innistrad,creature,human,White,,,,,UNCOMMON
+397849,3,1,1,1,0,3,Strixhaven,creature,elf,White,Green,,,,MYTHIC RARE
+397850,3,3,1,0,0,1,Strixhaven,creature,dwarf,Blue,,,,,RARE
+397851,0,1,0,1,2,2,Ravnica,creature,dwarf,Green,White,Blue,,,UNCOMMON
+397852,1,1,2,2,3,3,Ravnica,equipment,Talisman,Black,Blue,Red,Green,,MYTHIC RARE
+397853,0,1,2,3,1,1,DnD,equipment,Sword,Green,Red,White,,,COMMON
+397854,3,0,1,1,2,3,Kaldheim,creature,human,Green,Blue,,,,COMMON
+397855,2,1,0,0,1,1,Kaldheim,equipment,Talisman,Black,,,,,RARE
+397856,0,1,3,1,1,1,Ravnica,creature,elf,Blue,,,,,MYTHIC RARE
+397857,1,2,0,0,3,0,Kaldheim,equipment,Sword,Green,,,,,COMMON
+397858,3,0,1,1,1,0,Innistrad,creature,dragon,Blue,Red,Green,,,COMMON
+397859,0,1,3,1,3,0,Ravnica,equipment,Talisman,Red,Black,Green,Blue,,RARE
+397860,3,2,0,0,1,2,Kamigawa,equipment,Sword,Blue,Black,Red,,,MYTHIC RARE
+397861,2,2,1,1,0,2,Strixhaven,creature,elf,White,Red,Blue,,,COMMON
+397862,1,2,2,2,1,2,Kamigawa,creature,dragon,Red,,,,,MYTHIC RARE
+397863,1,1,2,0,3,3,DnD,creature,dwarf,Black,,,,,RARE
+397864,2,3,0,3,2,0,Kamigawa,equipment,Talisman,Green,Red,,,,COMMON
+397865,0,0,3,2,3,0,Strixhaven,equipment,Ring,Black,Green,Red,,,UNCOMMON
+397866,1,3,1,2,1,0,Ravnica,equipment,Talisman,Black,White,Red,,,UNCOMMON
+397867,2,2,3,3,2,2,Strixhaven,equipment,Boots,White,,,,,RARE
+397868,2,3,3,2,0,3,Kaldheim,equipment,Bottle,Red,Black,White,Blue,,RARE
+397869,1,3,0,0,3,0,Kamigawa,creature,dragon,White,Black,Blue,Green,,COMMON
+397870,0,1,2,1,3,1,Innistrad,creature,dragon,Green,Blue,Black,Red,,COMMON
+397871,3,2,1,3,3,2,Strixhaven,equipment,Boots,Red,Green,White,Black,,MYTHIC RARE
+397872,1,3,3,0,3,1,Innistrad,equipment,Talisman,Blue,,,,,COMMON
+397873,2,0,3,0,2,1,Innistrad,creature,elf,Black,Green,,,,UNCOMMON
+397874,3,1,2,0,1,0,Innistrad,equipment,Ring,Black,,,,,MYTHIC RARE
+397875,1,0,2,2,0,1,Kamigawa,equipment,Sword,White,Blue,Green,,,COMMON
+397876,0,3,1,2,0,3,DnD,creature,zombie,Red,Blue,White,,,MYTHIC RARE
+397877,2,1,2,1,3,3,DnD,creature,elf,Red,,,,,UNCOMMON
+397878,3,1,2,2,1,1,Strixhaven,equipment,Talisman,Blue,Green,,,,UNCOMMON
+397879,2,0,2,2,0,2,Innistrad,equipment,Boots,Blue,Black,,,,UNCOMMON
+397880,1,3,0,2,2,1,Strixhaven,equipment,Bottle,White,Green,,,,COMMON
+397881,2,0,1,0,1,2,Innistrad,equipment,Talisman,Green,Black,Red,,,RARE
+397882,3,1,3,2,2,0,DnD,equipment,Talisman,Red,Green,White,,,UNCOMMON
+397883,2,0,0,1,1,3,Innistrad,equipment,Talisman,White,Red,,,,UNCOMMON
+397884,1,0,1,1,3,3,DnD,creature,dragon,Black,Blue,Red,Green,,UNCOMMON
+397885,0,3,0,1,2,2,Kaldheim,equipment,Boots,Blue,Red,,,,RARE
+397886,2,2,3,2,2,2,Innistrad,equipment,Ring,Green,Black,,,,MYTHIC RARE
+397887,0,0,0,0,3,2,Strixhaven,equipment,Boots,Blue,Green,,,,COMMON
+397888,1,0,0,3,1,3,DnD,creature,human,Green,,,,,MYTHIC RARE
+397889,2,1,1,1,2,0,DnD,equipment,Ring,Green,White,Blue,Black,,UNCOMMON
+397890,1,1,0,3,1,1,Innistrad,equipment,Bottle,Black,White,,,,MYTHIC RARE
+397891,2,1,1,2,1,0,Kaldheim,creature,elf,White,Green,,,,MYTHIC RARE
+397892,3,1,1,1,2,0,Kaldheim,equipment,Sword,White,Green,Black,Red,,COMMON
+397893,3,3,2,2,0,0,Kaldheim,creature,dragon,Blue,Green,,,,MYTHIC RARE
+397894,2,3,0,1,2,1,Strixhaven,creature,zombie,White,Red,,,,RARE
+397895,3,3,1,3,1,1,Kamigawa,equipment,Bottle,White,Black,Green,,,UNCOMMON
+397896,1,2,2,0,0,1,DnD,equipment,Boots,Black,Red,,,,COMMON
+397897,2,2,2,1,1,0,DnD,equipment,Bottle,Blue,,,,,RARE
+397898,2,2,0,1,1,1,DnD,equipment,Ring,White,Black,Red,Blue,,RARE
+397899,2,2,0,3,1,0,Strixhaven,equipment,Ring,Blue,,,,,COMMON
+397900,1,1,1,2,3,0,Innistrad,equipment,Boots,Black,,,,,MYTHIC RARE
+397901,0,3,3,3,3,2,Ravnica,creature,human,Black,,,,,MYTHIC RARE
+397902,2,1,3,2,1,1,Strixhaven,creature,boar,Blue,Red,Black,,,UNCOMMON
+397903,2,2,0,2,0,2,Kaldheim,equipment,Bottle,Red,Black,Green,,,RARE
+397904,1,1,3,0,1,1,DnD,equipment,Sword,White,Green,,,,UNCOMMON
+397905,3,3,2,0,2,1,Ravnica,equipment,Sword,Black,Green,,,,RARE
+397906,3,3,1,2,1,1,Ravnica,creature,dragon,Green,Blue,White,,,UNCOMMON
+397907,0,2,2,2,3,1,Strixhaven,equipment,Boots,White,Red,Blue,,,UNCOMMON
+397908,0,0,0,3,0,1,DnD,creature,elf,Red,Green,White,,,UNCOMMON
+397909,3,0,1,0,0,3,Kamigawa,creature,boar,White,Green,Red,,,UNCOMMON
+397910,1,3,0,3,1,3,DnD,equipment,Boots,Red,Green,Blue,,,MYTHIC RARE
+397911,1,2,3,2,0,2,Ravnica,equipment,Ring,Red,Blue,,,,MYTHIC RARE
+397912,1,3,0,2,3,0,Ravnica,equipment,Boots,White,Blue,Green,Red,,UNCOMMON
+397913,0,0,2,0,2,0,Kamigawa,equipment,Ring,Red,Black,,,,MYTHIC RARE
+397914,2,0,2,1,2,2,Strixhaven,creature,zombie,White,Red,,,,UNCOMMON
+397915,3,2,2,0,0,1,Kamigawa,equipment,Ring,Red,,,,,UNCOMMON
+397916,2,0,1,3,0,3,Kamigawa,equipment,Sword,Blue,Red,,,,UNCOMMON
+397917,2,0,3,0,1,2,Kaldheim,creature,human,Blue,Red,Green,,,COMMON
+397918,2,0,2,0,2,3,Kamigawa,equipment,Bottle,Green,,,,,RARE
+397919,2,3,0,2,3,0,Strixhaven,creature,dragon,Blue,White,,,,MYTHIC RARE
+397920,0,1,1,2,1,3,Kaldheim,creature,human,Black,Blue,Red,Green,,RARE
+397921,0,0,0,1,3,1,Strixhaven,equipment,Boots,Black,Red,Green,,,UNCOMMON
+397922,3,2,2,1,1,3,Innistrad,equipment,Ring,Green,Red,Black,,,COMMON
+397923,0,2,2,2,2,3,Ravnica,creature,elf,Black,Red,,,,MYTHIC RARE
+397924,1,0,3,3,2,1,Innistrad,creature,elf,White,Blue,,,,MYTHIC RARE
+397925,2,0,3,1,3,0,Kaldheim,creature,elf,Green,,,,,COMMON
+397926,2,3,0,0,0,0,Innistrad,creature,zombie,Red,Black,White,,,UNCOMMON
+397927,2,1,1,0,3,2,Ravnica,creature,elf,Green,Red,,,,UNCOMMON
+397928,3,3,0,0,2,2,DnD,creature,dwarf,Blue,Green,,,,COMMON
+397929,2,1,1,1,2,0,Ravnica,equipment,Ring,Black,Green,Red,,,COMMON
+397930,3,2,1,0,2,0,Innistrad,creature,zombie,Black,Green,Blue,,,MYTHIC RARE
+397931,0,2,1,1,0,3,Kamigawa,equipment,Ring,Blue,Black,Green,Red,,UNCOMMON
+397932,0,2,2,0,2,0,DnD,creature,human,Black,White,,,,COMMON
+397933,2,3,0,2,0,1,DnD,equipment,Boots,Blue,Black,,,,MYTHIC RARE
+397934,3,3,3,3,3,2,Ravnica,equipment,Bottle,Green,,,,,RARE
+397935,0,2,2,0,3,1,Kamigawa,equipment,Sword,Blue,,,,,COMMON
+397936,1,1,3,0,0,0,Strixhaven,creature,human,Red,Green,Black,Blue,,UNCOMMON
+397937,2,2,3,3,0,2,Innistrad,equipment,Bottle,Black,Blue,Red,White,,UNCOMMON
+397938,0,2,0,0,2,1,Ravnica,equipment,Sword,Green,Black,,,,COMMON
+397939,2,0,0,3,2,0,Kaldheim,equipment,Sword,Red,Green,,,,MYTHIC RARE
+397940,3,1,2,2,1,2,Strixhaven,equipment,Talisman,Red,,,,,COMMON
+397941,3,1,1,2,0,3,Strixhaven,equipment,Sword,Green,White,Blue,Red,,MYTHIC RARE
+397942,1,0,1,1,1,3,Kaldheim,equipment,Talisman,White,Black,Green,,,RARE
+397943,0,0,1,0,0,0,Innistrad,creature,boar,White,Green,Black,,,MYTHIC RARE
+397944,0,0,0,3,1,3,Innistrad,creature,dwarf,Black,Blue,Green,Red,,UNCOMMON
+397945,1,3,3,1,3,1,Kaldheim,creature,boar,White,,,,,RARE
+397946,3,2,1,1,2,0,Strixhaven,creature,dwarf,Green,Blue,Red,Black,,MYTHIC RARE
+397947,3,1,2,2,2,2,Innistrad,creature,boar,Blue,Black,,,,UNCOMMON
+397948,1,0,0,1,2,2,DnD,creature,human,Black,Green,Red,,,MYTHIC RARE
+397949,1,2,1,1,2,0,Ravnica,creature,dwarf,White,Black,Green,Red,Blue,MYTHIC RARE
+397950,2,3,0,2,3,0,Strixhaven,creature,dragon,Blue,Green,Black,,,COMMON
+397951,2,3,0,0,2,2,Strixhaven,equipment,Ring,White,Blue,Black,Red,,RARE
+397952,0,3,3,1,0,1,DnD,creature,dragon,Black,Green,Blue,White,,COMMON
+397953,3,1,1,2,0,0,DnD,equipment,Ring,White,Black,Red,,,MYTHIC RARE
+397954,2,3,2,1,2,1,Ravnica,equipment,Sword,Red,,,,,UNCOMMON
+397955,0,0,3,3,2,3,Ravnica,equipment,Talisman,White,Black,,,,RARE
+397956,1,3,1,2,0,2,Ravnica,creature,boar,Blue,,,,,RARE
+397957,2,1,3,0,2,1,Ravnica,creature,boar,White,Red,,,,UNCOMMON
+397958,3,0,0,0,1,2,Strixhaven,creature,dwarf,Blue,White,,,,RARE
+397959,2,1,3,2,1,0,Kaldheim,equipment,Ring,White,Red,,,,UNCOMMON
+397960,0,0,0,2,3,0,DnD,creature,human,Red,Blue,Green,White,,MYTHIC RARE
+397961,0,2,2,3,1,3,Kaldheim,creature,dragon,Black,White,Green,,,MYTHIC RARE
+397962,0,1,0,2,3,2,Kaldheim,equipment,Bottle,Red,White,,,,MYTHIC RARE
+397963,2,1,1,0,2,3,Ravnica,equipment,Talisman,Green,White,,,,RARE
+397964,2,3,2,2,1,2,Ravnica,creature,elf,Blue,White,Black,Green,,MYTHIC RARE
+397965,1,3,2,0,1,0,Kaldheim,creature,human,Blue,White,Black,,,UNCOMMON
+397966,3,3,3,1,0,1,Strixhaven,equipment,Sword,White,Red,,,,RARE
+397967,0,0,2,2,3,2,Kaldheim,creature,boar,Blue,Black,Red,,,UNCOMMON
+397968,3,3,2,2,1,3,DnD,creature,human,Red,Green,,,,UNCOMMON
+397969,1,2,0,1,0,0,Innistrad,creature,zombie,Green,Blue,Red,,,RARE
+397970,0,0,3,1,0,0,Innistrad,equipment,Talisman,White,Red,,,,UNCOMMON
+397971,3,3,3,1,2,1,DnD,equipment,Ring,Black,,,,,COMMON
+397972,3,3,3,2,1,1,Ravnica,equipment,Sword,Red,White,,,,RARE
+397973,3,0,0,3,0,3,DnD,equipment,Boots,Black,Blue,Green,,,COMMON
+397974,0,3,1,0,3,0,Kamigawa,equipment,Talisman,Green,Blue,Red,,,MYTHIC RARE
+397975,1,2,1,3,3,3,Strixhaven,creature,elf,Green,White,,,,MYTHIC RARE
+397976,0,1,3,0,3,0,DnD,creature,boar,White,Black,Green,,,MYTHIC RARE
+397977,3,0,3,1,0,0,Strixhaven,equipment,Sword,Green,White,,,,COMMON
+397978,3,1,2,1,2,0,Kaldheim,creature,dragon,Blue,Black,,,,MYTHIC RARE
+397979,1,0,3,2,0,0,DnD,equipment,Boots,White,Red,,,,UNCOMMON
+397980,3,3,3,0,2,3,DnD,creature,elf,Blue,Black,,,,RARE
+397981,1,0,3,0,2,1,Kamigawa,creature,elf,Black,,,,,MYTHIC RARE
+397982,1,3,2,1,1,3,Strixhaven,creature,dwarf,White,Black,Green,Blue,,UNCOMMON
+397983,3,0,2,3,3,1,DnD,equipment,Bottle,Blue,Red,Green,,,UNCOMMON
+397984,2,0,3,1,0,1,Strixhaven,creature,elf,Black,White,Green,,,UNCOMMON
+397985,0,1,3,3,2,0,Ravnica,creature,elf,White,Red,Green,,,UNCOMMON
+397986,2,3,0,3,2,1,Strixhaven,creature,human,Green,,,,,MYTHIC RARE
+397987,0,0,0,0,2,2,DnD,creature,human,Green,Red,Blue,Black,,RARE
+397988,3,2,3,2,3,1,Strixhaven,creature,dwarf,Green,White,Red,,,COMMON
+397989,0,3,0,1,0,1,Innistrad,equipment,Boots,Black,Blue,Red,White,Green,COMMON
+397990,1,2,3,2,3,2,Kaldheim,equipment,Boots,Blue,,,,,RARE
+397991,2,1,0,2,3,0,DnD,creature,human,Red,,,,,RARE
+397992,2,0,2,3,1,3,Innistrad,equipment,Ring,Blue,Black,,,,MYTHIC RARE
+397993,3,3,3,1,2,3,Kamigawa,equipment,Talisman,Green,Blue,White,,,UNCOMMON
+397994,2,0,3,1,1,1,Strixhaven,creature,dragon,Green,Black,Red,,,COMMON
+397995,0,0,3,0,1,3,Kamigawa,creature,human,Blue,White,Red,Green,,UNCOMMON
+397996,1,3,2,1,1,3,Innistrad,equipment,Sword,White,Black,Blue,,,COMMON
+397997,3,2,3,3,3,3,Innistrad,creature,dragon,Black,Red,,,,UNCOMMON
+397998,1,1,3,3,1,0,Ravnica,creature,zombie,Red,Blue,Green,Black,,MYTHIC RARE
+397999,2,1,2,1,1,1,Ravnica,creature,zombie,Black,White,Blue,,,MYTHIC RARE
