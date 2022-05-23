@@ -6,6 +6,8 @@ import metadata.Mana;
 
 //another comment
 
+//third one
+
 /**
  * Abstract class that represents a MTG Card.
  * 
