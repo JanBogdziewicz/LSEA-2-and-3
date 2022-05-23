@@ -2,6 +2,8 @@ package entities;
 
 import metadata.Mana;
 
+//new comment
+
 /**
  * Abstract class that represents a MTG Card.
  * @author Jan Bogdziewicz
